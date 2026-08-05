@@ -83,6 +83,29 @@ export function SettingsPage() {
   }>({ type: "idle", message: "" });
   const [showDeleteKeyConfirm, setShowDeleteKeyConfirm] = useState(false);
 
+  const [backendUrlInput, setBackendUrlInput] = useState(() => {
+    if (typeof window === "undefined" || typeof localStorage === "undefined") return "";
+    return localStorage.getItem("bola_backend_url") || "";
+  });
+  const [isSavedUrl, setIsSavedUrl] = useState(false);
+
+  const handleSaveBackendUrl = () => {
+    if (typeof window !== "undefined" && typeof localStorage !== "undefined") {
+      try {
+        const cleanUrl = backendUrlInput.trim().replace(/\/$/, '');
+        if (cleanUrl) {
+          localStorage.setItem("bola_backend_url", cleanUrl);
+        } else {
+          localStorage.removeItem("bola_backend_url");
+        }
+        setIsSavedUrl(true);
+        setTimeout(() => setIsSavedUrl(false), 2000);
+      } catch (err) {
+        console.warn("Failed to save backend URL", err);
+      }
+    }
+  };
+
   useEffect(() => {
     DatabaseService.getUser().then((u) => {
       setUserInfo({
@@ -350,6 +373,34 @@ export function SettingsPage() {
                     <span>Delete</span>
                   </button>
                 )}
+              </div>
+              {/* Custom Backend URL Configuration */}
+              <div className="border-t border-border/50 pt-3 mt-2 flex flex-col gap-2">
+                <div className="flex items-center justify-between">
+                  <p className="text-xs font-bold text-foreground">API Backend Server URL</p>
+                  {isSavedUrl && (
+                    <span className="text-[10px] font-bold text-success animate-fade-in">Saved!</span>
+                  )}
+                </div>
+                <div className="relative flex items-center rounded-xl border border-border bg-muted/30 px-3 py-2 focus-within:border-primary focus-within:ring-1 focus-within:ring-primary/20">
+                  <Globe size={14} className="text-muted-foreground shrink-0 mr-2" />
+                  <input
+                    type="text"
+                    value={backendUrlInput}
+                    onChange={(e) => setBackendUrlInput(e.target.value)}
+                    placeholder="http://localhost:5000 (Optional)"
+                    className="w-full bg-transparent text-xs text-foreground outline-none placeholder:text-muted-foreground"
+                  />
+                  <button
+                    onClick={handleSaveBackendUrl}
+                    className="ml-2 rounded-lg bg-primary-soft text-primary px-2.5 py-1 text-[10px] font-bold hover:bg-primary hover:text-white transition-colors"
+                  >
+                    Save URL
+                  </button>
+                </div>
+                <p className="text-[10px] text-muted-foreground">
+                  Specify a custom Flask backend URL to test locally on mobile (e.g. your laptop's IP: `http://192.168.1.15:5000`) or cloud server.
+                </p>
               </div>
             </div>
           </div>

@@ -54,6 +54,14 @@ export class ApiClient {
     this.maxRetries = options.maxRetries ?? 2;
   }
 
+  private getBaseUrl(): string {
+    if (typeof window !== 'undefined' && typeof localStorage !== 'undefined') {
+      const saved = localStorage.getItem("bola_backend_url");
+      if (saved) return saved.trim().replace(/\/$/, '');
+    }
+    return this.baseUrl;
+  }
+
   private unpackGeminiResponse<T>(rawData: any): T {
     if (rawData && rawData.candidates && rawData.candidates[0] && rawData.candidates[0].content && rawData.candidates[0].content.parts[0]) {
       const text = rawData.candidates[0].content.parts[0].text;
@@ -64,7 +72,8 @@ export class ApiClient {
   }
 
   public async request<T>(endpoint: string, payload: any = {}): Promise<T> {
-    const url = `${this.baseUrl}${endpoint}`;
+    const activeBaseUrl = this.getBaseUrl();
+    const url = `${activeBaseUrl}${endpoint}`;
     let attempt = 0;
 
     const savedApiKey = ApiKeyManager.getApiKey();

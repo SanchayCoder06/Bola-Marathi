@@ -138,11 +138,25 @@ export class ModelManager {
     }
 
     const apiVersion = "v1beta";
-    const envUrl = 
-      (typeof process !== 'undefined' && process.env?.NEXT_PUBLIC_API_URL) ||
-      (typeof process !== 'undefined' && (process.env?.VITE_API_URL as string)) ||
-      'http://localhost:5000';
-    const baseUrl = envUrl.replace(/\/$/, '');
+    let baseUrl = 'http://localhost:5000';
+    if (typeof window !== 'undefined' && typeof localStorage !== 'undefined') {
+      const saved = localStorage.getItem("bola_backend_url");
+      if (saved) {
+        baseUrl = saved.trim().replace(/\/$/, '');
+      } else {
+        const envUrl = 
+          (typeof process !== 'undefined' && process.env?.NEXT_PUBLIC_API_URL) ||
+          (typeof process !== 'undefined' && (process.env?.VITE_API_URL as string)) ||
+          'http://localhost:5000';
+        baseUrl = envUrl.replace(/\/$/, '');
+      }
+    } else {
+      const envUrl = 
+        (typeof process !== 'undefined' && process.env?.NEXT_PUBLIC_API_URL) ||
+        (typeof process !== 'undefined' && (process.env?.VITE_API_URL as string)) ||
+        'http://localhost:5000';
+      baseUrl = envUrl.replace(/\/$/, '');
+    }
     const modelsUrl = `${baseUrl}/api/models`;
 
     try {
