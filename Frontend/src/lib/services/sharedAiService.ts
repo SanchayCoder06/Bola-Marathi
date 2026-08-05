@@ -66,23 +66,41 @@ export class SharedAiService {
     const storedConfig = ModelManager.getStoredModelConfig();
     const model = storedConfig.model || 'gemini-1.5-flash';
 
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`;
+    const envUrl = 
+      (typeof process !== 'undefined' && process.env?.NEXT_PUBLIC_API_URL) ||
+      (typeof process !== 'undefined' && (process.env?.VITE_API_URL as string)) ||
+      'http://localhost:5000';
+    const baseUrl = envUrl.replace(/\/$/, '');
+    const url = `${baseUrl}/api/chat`;
+
+    const headers: Record<string, string> = {
+      'Content-Type': 'application/json',
+      'x-gemini-key': apiKey,
+      'x-gemini-model': model,
+      'x-gemini-version': storedConfig.apiVersion || 'v1beta'
+    };
+    if (storedConfig.candidateModels && storedConfig.candidateModels.length > 0) {
+      headers['x-gemini-fallback-models'] = storedConfig.candidateModels.join(',');
+    }
 
     const response = await fetch(url, {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
+      headers,
       body: JSON.stringify({
-        contents: [{ parts: [{ text: prompt }] }]
+        message: prompt
       })
     });
 
     if (!response.ok) {
       const errJson = await response.json().catch(() => ({}));
-      throw new Error(errJson.error?.message || `Gemini API call failed with status ${response.status}`);
+      throw new Error(errJson.error_details || errJson.error || `Gemini API call failed with status ${response.status}`);
     }
 
     const data = await response.json();
-    return data.candidates?.[0]?.content?.parts?.[0]?.text || "";
+    if (data.status === "error") {
+      throw new Error(data.error_details || data.answer || "Gemini API call failed.");
+    }
+    return data.answer || "";
   }
 
   /**

@@ -138,10 +138,21 @@ export class ModelManager {
     }
 
     const apiVersion = "v1beta";
-    const modelsUrl = `https://generativelanguage.googleapis.com/${apiVersion}/models?key=${cleanKey}`;
+    const envUrl = 
+      (typeof process !== 'undefined' && process.env?.NEXT_PUBLIC_API_URL) ||
+      (typeof process !== 'undefined' && (process.env?.VITE_API_URL as string)) ||
+      'http://localhost:5000';
+    const baseUrl = envUrl.replace(/\/$/, '');
+    const modelsUrl = `${baseUrl}/api/models`;
 
     try {
-      const resp = await fetch(modelsUrl, { method: "GET" });
+      const resp = await fetch(modelsUrl, {
+        method: "GET",
+        headers: {
+          "x-gemini-key": cleanKey,
+          "x-gemini-version": apiVersion
+        }
+      });
       if (!resp.ok) {
         if (resp.status === 400 || resp.status === 403) {
           return {

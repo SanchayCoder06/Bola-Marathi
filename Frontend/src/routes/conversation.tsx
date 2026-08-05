@@ -1,6 +1,6 @@
 import { createFileRoute, useNavigate } from "@tanstack/react-router";
 import { useState, useEffect, useRef } from "react";
-import { Mic, Volume2, Sparkles, Languages, Send, Lightbulb, RefreshCw, Trash2, HelpCircle, BookOpen, MicOff, Lock, ChevronRight } from "lucide-react";
+import { Mic, Volume2, VolumeX, Sparkles, Languages, Send, Lightbulb, RefreshCw, Trash2, HelpCircle, BookOpen, MicOff, Lock, ChevronRight } from "lucide-react";
 import { AppShell } from "@/components/layout/AppShell";
 import { Chip } from "@/components/ui-kit/primitives";
 import { cn } from "@/lib/utils";
@@ -120,6 +120,11 @@ export function Conversation() {
   const nav = useNavigate();
   const [showTranslation, setShowTranslation] = useState(true);
   const [listening, setListening] = useState(false);
+  const [muteSpeech, setMuteSpeech] = useState(() => {
+    if (typeof window === "undefined" || typeof localStorage === "undefined") return true;
+    const saved = localStorage.getItem("bola_mute_speech");
+    return saved !== null ? saved === "true" : true;
+  });
   const [inputText, setInputText] = useState("");
   const [hasApiKey, setHasApiKey] = useState(() => {
     if (typeof window === "undefined") return false;
@@ -136,9 +141,17 @@ export function Conversation() {
   });
   const [loading, setLoading] = useState(false);
   const messagesEndRef = useRef<HTMLDivElement>(null);
+  const recognitionRef = useRef<any>(null);
 
   useEffect(() => {
     AudioEngine.init();
+    return () => {
+      if (recognitionRef.current) {
+        try {
+          recognitionRef.current.stop();
+        } catch {}
+      }
+    };
   }, []);
 
   useEffect(() => {
@@ -153,6 +166,19 @@ export function Conversation() {
     try {
       localStorage.removeItem("bola_ai_tutor_history");
     } catch {}
+  };
+
+  const handleToggleMute = () => {
+    const nextMute = !muteSpeech;
+    setMuteSpeech(nextMute);
+    if (typeof window !== "undefined" && typeof localStorage !== "undefined") {
+      try {
+        localStorage.setItem("bola_mute_speech", String(nextMute));
+      } catch {}
+    }
+    if (nextMute) {
+      AudioEngine.pause();
+    }
   };
 
   const handleSendMessage = async (textToSend?: string) => {
@@ -197,7 +223,7 @@ export function Conversation() {
       };
 
       setChatMessages((prev) => [...prev, assistantMsg]);
-      if (aiRes.status === "success") {
+      if (aiRes.status === "success" && !muteSpeech) {
         AudioEngine.speak(assistantMsg.answer);
       }
     } catch (err: any) {
@@ -225,6 +251,11 @@ export function Conversation() {
     }
 
     if (listening) {
+      if (recognitionRef.current) {
+        try {
+          recognitionRef.current.stop();
+        } catch {}
+      }
       setListening(false);
       return;
     }
@@ -233,6 +264,7 @@ export function Conversation() {
       const recognition = new SpeechRecognition();
       recognition.lang = "mr-IN";
       recognition.interimResults = true;
+      recognitionRef.current = recognition;
 
       recognition.onstart = () => {
         setListening(true);
@@ -251,6 +283,7 @@ export function Conversation() {
 
       recognition.onend = () => {
         setListening(false);
+        recognitionRef.current = null;
       };
 
       recognition.start();
@@ -265,13 +298,25 @@ export function Conversation() {
       subtitle="Ask any question"
       back
       right={
-        <button
-          onClick={handleClearChat}
-          className="grid h-10 w-10 place-items-center rounded-full border border-border bg-card shadow-e1 hover:text-destructive transition-colors"
-          title="Clear Chat"
-        >
-          <Trash2 size={16} />
-        </button>
+        <div className="flex items-center gap-2">
+          <button
+            onClick={handleToggleMute}
+            className={cn(
+              "grid h-10 w-10 place-items-center rounded-full border border-border bg-card shadow-e1 hover:text-primary transition-colors",
+              muteSpeech ? "text-muted-foreground" : "text-primary"
+            )}
+            title={muteSpeech ? "Unmute AI Voice" : "Mute AI Voice"}
+          >
+            {muteSpeech ? <VolumeX size={16} /> : <Volume2 size={16} />}
+          </button>
+          <button
+            onClick={handleClearChat}
+            className="grid h-10 w-10 place-items-center rounded-full border border-border bg-card shadow-e1 hover:text-destructive transition-colors"
+            title="Clear Chat"
+          >
+            <Trash2 size={16} />
+          </button>
+        </div>
       }
     >
       {/* Tutor Profile Header */}
