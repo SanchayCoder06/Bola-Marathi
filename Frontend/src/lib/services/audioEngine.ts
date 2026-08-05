@@ -11,6 +11,7 @@ export const AudioEngine = (() => {
   let _speechSynthesis: SpeechSynthesis | null = null;
   let _selectedVoice: SpeechSynthesisVoice | null = null;
   let _mediaRecorder: MediaRecorder | null = null;
+  let _audioStream: MediaStream | null = null;
   let _audioChunks: Blob[] = [];
   const _audioCache = new Map<string, SpeechSynthesisUtterance>();
   let _currentText = '';
@@ -156,6 +157,7 @@ export const AudioEngine = (() => {
       navigator.mediaDevices
         .getUserMedia({ audio: true })
         .then((stream) => {
+          _audioStream = stream;
           _mediaRecorder = new MediaRecorder(stream);
           _mediaRecorder.ondataavailable = (e) => {
             if (e.data.size > 0) _audioChunks.push(e.data);
@@ -183,6 +185,16 @@ export const AudioEngine = (() => {
       _mediaRecorder.onstop = () => {
         const audioBlob = new Blob(_audioChunks, { type: _mediaRecorder?.mimeType || 'audio/webm' });
         _audioChunks = [];
+
+        if (_audioStream) {
+          try {
+            _audioStream.getTracks().forEach((track) => track.stop());
+          } catch (e) {
+            console.warn("[AudioEngine] Error stopping audio tracks:", e);
+          }
+          _audioStream = null;
+        }
+
         resolve(audioBlob);
       };
       _mediaRecorder.stop();
