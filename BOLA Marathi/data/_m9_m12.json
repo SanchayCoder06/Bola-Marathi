@@ -1,0 +1,1530 @@
+[
+  {
+    "id": "m9",
+    "title": "Health & Emergencies",
+    "titleMarathi": "आरोग्य आणि आणीबाणी",
+    "description": "Describing illness, doctor visits, buying medicines, asking for help",
+    "icon": "🚑",
+    "totalLessons": 5,
+    "estimatedHours": 2,
+    "difficulty": "intermediate",
+    "lessons": [
+      {
+        "id": "m9-l1",
+        "title": "Feeling Unwell",
+        "titleMarathi": "तब्बेत बरी नसणे",
+        "lessonNumber": 1,
+        "culturalNote": "Describing general physical discomfort. In Marathi, body conditions are often described with 'malaa... hotay' (to me... is happening).",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m9-l1-p1",
+            "marathi": "माझी तब्येत बरी नाही",
+            "transliteration": "Maajhee tabyet baree naahi",
+            "english": "I am not feeling well",
+            "difficulty": "intermediate",
+            "usage": "Stating sickness"
+          },
+          {
+            "id": "m9-l1-p2",
+            "marathi": "मला ताप आला आहे",
+            "transliteration": "Malaa taap aalaa aahe",
+            "english": "I have a fever",
+            "difficulty": "intermediate",
+            "usage": "Stating fever"
+          },
+          {
+            "id": "m9-l1-p3",
+            "marathi": "माझे डोके दुखत आहे",
+            "transliteration": "Maajhe doke dukhat aahe",
+            "english": "My head is hurting",
+            "difficulty": "intermediate",
+            "usage": "Headache description"
+          },
+          {
+            "id": "m9-l1-p4",
+            "marathi": "मला चक्कर येत आहे",
+            "transliteration": "Malaa chakkar yet aahe",
+            "english": "I feel dizzy",
+            "difficulty": "intermediate",
+            "usage": "Dizziness description"
+          },
+          {
+            "id": "m9-l1-p5",
+            "marathi": "मला खोकला आहे",
+            "transliteration": "Malaa khoklaa aahe",
+            "english": "I have a cough",
+            "difficulty": "intermediate",
+            "usage": "Cough description"
+          },
+          {
+            "id": "m9-l1-p6",
+            "marathi": "माझे पोट दुखत आहे",
+            "transliteration": "Maajhe poT dukhat aahe",
+            "english": "My stomach is hurting",
+            "difficulty": "intermediate",
+            "usage": "Stomach ache"
+          },
+          {
+            "id": "m9-l1-p7",
+            "marathi": "मला थंडी वाजत आहे",
+            "transliteration": "Malaa thandee vaajat aahe",
+            "english": "I feel cold / shivering",
+            "difficulty": "intermediate",
+            "usage": "Cold symptom"
+          },
+          {
+            "id": "m9-l1-p8",
+            "marathi": "आराम करा",
+            "transliteration": "Aaraam karaa",
+            "english": "Take rest / recover",
+            "difficulty": "intermediate",
+            "usage": "Caring advice"
+          }
+        ]
+      },
+      {
+        "id": "m9-l2",
+        "title": "At the Doctor",
+        "titleMarathi": "डॉक्टरांकडे",
+        "lessonNumber": 2,
+        "culturalNote": "Interacting with medical professionals. Explaining pain and symptoms.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m9-l2-p1",
+            "marathi": "मला डॉक्टरांना भेटायचे आहे",
+            "transliteration": "Malaa doctor-annaa bheTaayache aahe",
+            "english": "I want to see the doctor",
+            "difficulty": "intermediate",
+            "usage": "Requesting appointment"
+          },
+          {
+            "id": "m9-l2-p2",
+            "marathi": "कुठे दुखत आहे?",
+            "transliteration": "Kuthe dukhat aahe?",
+            "english": "Where does it hurt?",
+            "difficulty": "intermediate",
+            "usage": "Doctor's inquiry"
+          },
+          {
+            "id": "m9-l2-p3",
+            "marathi": "इथे दुखत आहे",
+            "transliteration": "Ithe dukhat aahe",
+            "english": "It hurts here",
+            "difficulty": "intermediate",
+            "usage": "Pointing out pain location"
+          },
+          {
+            "id": "m9-l2-p4",
+            "marathi": "हे औषध दिवसातून तीन वेळा घ्या",
+            "transliteration": "He aushadh divasaatoon teen veLaa ghyaa",
+            "english": "Take this medicine three times a day",
+            "difficulty": "intermediate",
+            "usage": "Prescription directions"
+          },
+          {
+            "id": "m9-l2-p5",
+            "marathi": "मला इंजेक्शनची भीती वाटते",
+            "transliteration": "Malaa injection-chee bheetee vaaTate",
+            "english": "I am scared of injections",
+            "difficulty": "intermediate",
+            "usage": "Expressing fear"
+          },
+          {
+            "id": "m9-l2-p6",
+            "marathi": "लवकर बरे व्हा",
+            "transliteration": "Lavkar bare vhaa",
+            "english": "Get well soon",
+            "difficulty": "intermediate",
+            "usage": "Warm wish"
+          },
+          {
+            "id": "m9-l2-p7",
+            "marathi": "पल्स तपासा",
+            "transliteration": "Pulse tapaasaa",
+            "english": "Check the pulse",
+            "difficulty": "intermediate",
+            "usage": "Medical command"
+          },
+          {
+            "id": "m9-l2-p8",
+            "marathi": "खोल श्वास घ्या",
+            "transliteration": "Khol shvaas ghyaa",
+            "english": "Take a deep breath",
+            "difficulty": "intermediate",
+            "usage": "Doctor's direction"
+          }
+        ]
+      },
+      {
+        "id": "m9-l3",
+        "title": "At the Pharmacy",
+        "titleMarathi": "औषधांच्या दुकानात",
+        "lessonNumber": 3,
+        "culturalNote": "Buying medicines (aushadh) and understanding dosage instructions.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m9-l3-p1",
+            "marathi": "हे प्रिस्क्रिप्शन घ्या",
+            "transliteration": "He prescription ghyaa",
+            "english": "Take this prescription",
+            "difficulty": "intermediate",
+            "usage": "Handing over slip"
+          },
+          {
+            "id": "m9-l3-p2",
+            "marathi": "तुमच्याकडे हे औषध आहे का?",
+            "transliteration": "Tumchyaakade he aushadh aahe ka?",
+            "english": "Do you have this medicine?",
+            "difficulty": "intermediate",
+            "usage": "Stock inquiry"
+          },
+          {
+            "id": "m9-l3-p3",
+            "marathi": "या औषधाची एक्सपायरी काय आहे?",
+            "transliteration": "Yaa aushadhaachee expiry kaay aahe?",
+            "english": "What is the expiry date of this medicine?",
+            "difficulty": "intermediate",
+            "usage": "Safety check"
+          },
+          {
+            "id": "m9-l3-p4",
+            "marathi": "जेवणानंतर घ्या",
+            "transliteration": "JevaNaanantar ghyaa",
+            "english": "Take after meals",
+            "difficulty": "intermediate",
+            "usage": "Dosage direction"
+          },
+          {
+            "id": "m9-l3-p5",
+            "marathi": "उपाशी पोटी घ्या",
+            "transliteration": "Upaashee poTee ghyaa",
+            "english": "Take on an empty stomach",
+            "difficulty": "intermediate",
+            "usage": "Dosage direction"
+          },
+          {
+            "id": "m9-l3-p6",
+            "marathi": "पेनकिलर",
+            "transliteration": "Painkiller",
+            "english": "Painkiller / Pain reliever",
+            "difficulty": "intermediate",
+            "usage": "Medicine type"
+          },
+          {
+            "id": "m9-l3-p7",
+            "marathi": "पट्टी / बँडेज",
+            "transliteration": "Pattee / Bandage",
+            "english": "Bandage / Dressing",
+            "difficulty": "intermediate",
+            "usage": "First aid item"
+          },
+          {
+            "id": "m9-l3-p8",
+            "marathi": "मलम",
+            "transliteration": "Malam",
+            "english": "Ointment / Cream",
+            "difficulty": "intermediate",
+            "usage": "First aid item"
+          }
+        ]
+      },
+      {
+        "id": "m9-l4",
+        "title": "Emergencies & Accidents",
+        "titleMarathi": "आणीबाणी आणि अपघात",
+        "lessonNumber": 4,
+        "culturalNote": "Calling emergency services or dealing with roadside accidents.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m9-l4-p1",
+            "marathi": "अपघात झाला आहे!",
+            "transliteration": "Apaghaat jhaalaa aahe!",
+            "english": "An accident has occurred!",
+            "difficulty": "intermediate",
+            "usage": "Alerting onlookers"
+          },
+          {
+            "id": "m9-l4-p2",
+            "marathi": "ॲम्ब्युलन्स बोलवा!",
+            "transliteration": "Ambulance bolvaa!",
+            "english": "Call an ambulance!",
+            "difficulty": "intermediate",
+            "usage": "Emergency request"
+          },
+          {
+            "id": "m9-l4-p3",
+            "marathi": "पोलिसांना फोन करा!",
+            "transliteration": "Police-annaa phone karaa!",
+            "english": "Phone the police!",
+            "difficulty": "intermediate",
+            "usage": "Emergency request"
+          },
+          {
+            "id": "m9-l4-p4",
+            "marathi": "इथे आग लागली आहे!",
+            "transliteration": "Ithe aag laaglee aahe!",
+            "english": "There is a fire here!",
+            "difficulty": "intermediate",
+            "usage": "Fire warning"
+          },
+          {
+            "id": "m9-l4-p5",
+            "marathi": "धोका आहे!",
+            "transliteration": "Dhokaa aahe!",
+            "english": "It is dangerous!",
+            "difficulty": "intermediate",
+            "usage": "Danger warning"
+          },
+          {
+            "id": "m9-l4-p6",
+            "marathi": "तो बेशुद्ध पडला आहे",
+            "transliteration": "To beshuddha padlaa aahe",
+            "english": "He has fainted/is unconscious",
+            "difficulty": "intermediate",
+            "usage": "Medical status reporting"
+          },
+          {
+            "id": "m9-l4-p7",
+            "marathi": "रक्तस्त्राव होत आहे",
+            "transliteration": "Raktasraav hot aahe",
+            "english": "Bleeding is occurring",
+            "difficulty": "intermediate",
+            "usage": "Medical status reporting"
+          },
+          {
+            "id": "m9-l4-p8",
+            "marathi": "हॉस्पिटल जवळ आहे का?",
+            "transliteration": "Hospital javal aahe ka?",
+            "english": "Is the hospital nearby?",
+            "difficulty": "intermediate",
+            "usage": "Hospital search"
+          }
+        ]
+      },
+      {
+        "id": "m9-l5",
+        "title": "Asking for Help",
+        "titleMarathi": "तात्काळ मदत मागणे",
+        "lessonNumber": 5,
+        "culturalNote": "Shouting for help or seeking assistance from passersby.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m9-l5-p1",
+            "marathi": "वाचवा! वाचवा!",
+            "transliteration": "Vaachvaa! Vaachvaa!",
+            "english": "Help! Save me!",
+            "difficulty": "intermediate",
+            "usage": "Shouting for rescue"
+          },
+          {
+            "id": "m9-l5-p2",
+            "marathi": "मला मदत करा",
+            "transliteration": "Malaa madat karaa",
+            "english": "Help me please",
+            "difficulty": "intermediate",
+            "usage": "Seeking aid"
+          },
+          {
+            "id": "m9-l5-p3",
+            "marathi": "माझा फोन हरवला आहे",
+            "transliteration": "Maajhaa phone haravlaa aahe",
+            "english": "My phone is lost",
+            "difficulty": "intermediate",
+            "usage": "Emergency status"
+          },
+          {
+            "id": "m9-l5-p4",
+            "marathi": "तुमचा फोन वापरू का?",
+            "transliteration": "Tumchaa phone vaaparoo ka?",
+            "english": "Can I use your phone?",
+            "difficulty": "intermediate",
+            "usage": "Requesting call help"
+          },
+          {
+            "id": "m9-l5-p5",
+            "marathi": "पैसे चोरीला गेलेत",
+            "transliteration": "Paise choreelaa gelet",
+            "english": "The money has been stolen",
+            "difficulty": "intermediate",
+            "usage": "Reporting theft"
+          },
+          {
+            "id": "m9-l5-p6",
+            "marathi": "चोर! चोर!",
+            "transliteration": "Chor! Chor!",
+            "english": "Thief! Thief!",
+            "difficulty": "intermediate",
+            "usage": "Shouting alert"
+          },
+          {
+            "id": "m9-l5-p7",
+            "marathi": "मला रस्ता दाखवा",
+            "transliteration": "Malaa rastaa daakhvaa",
+            "english": "Guide me the way",
+            "difficulty": "intermediate",
+            "usage": "Seeking path help"
+          },
+          {
+            "id": "m9-l5-p8",
+            "marathi": "काळजी करू नका, मी मदत करतो",
+            "transliteration": "KaaLji karoo nakaa, mee madat karto",
+            "english": "Don't worry, I will help (male)",
+            "difficulty": "intermediate",
+            "usage": "Helper's reassurance"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m10",
+    "title": "Social Conversations",
+    "titleMarathi": "सामाजिक संभाषण",
+    "description": "Weather talks, hobbies, inviting friends, small talk",
+    "icon": "💬",
+    "totalLessons": 5,
+    "estimatedHours": 2,
+    "difficulty": "intermediate",
+    "lessons": [
+      {
+        "id": "m10-l1",
+        "title": "Weather & Climate",
+        "titleMarathi": "हवामान",
+        "lessonNumber": 1,
+        "culturalNote": "Weather is a popular small talk topic. Maharashtra experiences heavy rains (monsoon) and scorching summers.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m10-l1-p1",
+            "marathi": "आज खूप उष्णता आहे",
+            "transliteration": "Aaj khoop ushNataa aahe",
+            "english": "It is very hot today",
+            "difficulty": "intermediate",
+            "usage": "Summer talk"
+          },
+          {
+            "id": "m10-l1-p2",
+            "marathi": "आज थंडी आहे",
+            "transliteration": "Aaj thandee aahe",
+            "english": "It is cold today",
+            "difficulty": "intermediate",
+            "usage": "Winter talk"
+          },
+          {
+            "id": "m10-l1-p3",
+            "marathi": "पाऊस पडत आहे",
+            "transliteration": "Paous padat aahe",
+            "english": "It is raining",
+            "difficulty": "intermediate",
+            "usage": "Monsoon talk"
+          },
+          {
+            "id": "m10-l1-p4",
+            "marathi": "आकाशात ढग आलेत",
+            "transliteration": "Aakaashaat Dhag aalet",
+            "english": "Clouds have gathered in the sky",
+            "difficulty": "intermediate",
+            "usage": "Cloudy sky"
+          },
+          {
+            "id": "m10-l1-p5",
+            "marathi": "वारा सुटला आहे",
+            "transliteration": "Vaaraa suTlaa aahe",
+            "english": "The wind is blowing / breezy",
+            "difficulty": "intermediate",
+            "usage": "Breezy weather"
+          },
+          {
+            "id": "m10-l1-p6",
+            "marathi": "आज हवामान कसं आहे?",
+            "transliteration": "Aaj havaamaan kasan aahe?",
+            "english": "How is the weather today?",
+            "difficulty": "intermediate",
+            "usage": "Weather inquiry"
+          },
+          {
+            "id": "m10-l1-p7",
+            "marathi": "चिखल झाला आहे",
+            "transliteration": "Chikhal jhaalaa aahe",
+            "english": "It has become muddy",
+            "difficulty": "intermediate",
+            "usage": "Monsoon side-effect"
+          },
+          {
+            "id": "m10-l1-p8",
+            "marathi": "छत्री सोबत घ्या",
+            "transliteration": "Chhatree sobat ghyaa",
+            "english": "Take an umbrella with you",
+            "difficulty": "intermediate",
+            "usage": "Monsoon precaution"
+          }
+        ]
+      },
+      {
+        "id": "m10-l2",
+        "title": "Hobbies & Free Time",
+        "titleMarathi": "छंद आणि मोकळा वेळ",
+        "lessonNumber": 2,
+        "culturalNote": "Sharing what you love to do in your leisure hours.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m10-l2-p1",
+            "marathi": "तुमचे छंद काय आहेत?",
+            "transliteration": "Tumche chhand kaay aahet?",
+            "english": "What are your hobbies?",
+            "difficulty": "intermediate",
+            "usage": "Hobbie inquiry"
+          },
+          {
+            "id": "m10-l2-p2",
+            "marathi": "मला वाचायला आवडतं",
+            "transliteration": "Malaa vaachaaylaa aavaDtan",
+            "english": "I like to read",
+            "difficulty": "intermediate",
+            "usage": "Stating hobby"
+          },
+          {
+            "id": "m10-l2-p3",
+            "marathi": "मला गाणी ऐकायला आवडतात",
+            "transliteration": "Malaa gaNee aikaaylaa aavaDtaat",
+            "english": "I like to listen to songs",
+            "difficulty": "intermediate",
+            "usage": "Stating hobby"
+          },
+          {
+            "id": "m10-l2-p4",
+            "marathi": "मला स्वयंपाक करायला आवडतो",
+            "transliteration": "Malaa swayanpaak karaaylaa aavaDto",
+            "english": "I like to cook",
+            "difficulty": "intermediate",
+            "usage": "Stating hobby"
+          },
+          {
+            "id": "m10-l2-p5",
+            "marathi": "मी क्रिकेट खेळतो",
+            "transliteration": "Mee cricket kheLto",
+            "english": "I play cricket (male)",
+            "difficulty": "intermediate",
+            "usage": "Stating sport hobby"
+          },
+          {
+            "id": "m10-l2-p6",
+            "marathi": "मला चित्र काढायला आवडतं",
+            "transliteration": "Malaa chitra kaaDhaaylaa aavaDtan",
+            "english": "I like to draw/paint",
+            "difficulty": "intermediate",
+            "usage": "Stating hobby"
+          },
+          {
+            "id": "m10-l2-p7",
+            "marathi": "मोकळ्या वेळेत",
+            "transliteration": "MokaLyaa veLet",
+            "english": "In free time",
+            "difficulty": "intermediate",
+            "usage": "Time description"
+          },
+          {
+            "id": "m10-l2-p8",
+            "marathi": "नृत्य करणे",
+            "transliteration": "Nrutya karaNe",
+            "english": "To dance",
+            "difficulty": "intermediate",
+            "usage": "Stating hobby"
+          }
+        ]
+      },
+      {
+        "id": "m10-l3",
+        "title": "Likes & Dislikes",
+        "titleMarathi": "आवड-नावड",
+        "lessonNumber": 3,
+        "culturalNote": "Expressing preferences using 'aavaDtan' (liked) and 'aavaDat naahi' (disliked).",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m10-l3-p1",
+            "marathi": "मला हे आवडले",
+            "transliteration": "Malaa he aavaDale",
+            "english": "I liked this",
+            "difficulty": "intermediate",
+            "usage": "Expressing approval"
+          },
+          {
+            "id": "m10-l3-p2",
+            "marathi": "मला हे आवडत नाही",
+            "transliteration": "Malaa he aavaDat naahi",
+            "english": "I don't like this",
+            "difficulty": "intermediate",
+            "usage": "Expressing disapproval"
+          },
+          {
+            "id": "m10-l3-p3",
+            "marathi": "तुमचा आवडता चित्रपट कोणता?",
+            "transliteration": "Tumchaa aavaDtaa chitrapat koNataa?",
+            "english": "Which is your favorite movie?",
+            "difficulty": "intermediate",
+            "usage": "Favorite query"
+          },
+          {
+            "id": "m10-l3-p4",
+            "marathi": "मला पुरणपोळी खूप आवडते",
+            "transliteration": "Malaa Puranpoli khoop aavaDte",
+            "english": "I like Puranpoli (sweet flatbread) very much",
+            "difficulty": "intermediate",
+            "usage": "Expressing food love"
+          },
+          {
+            "id": "m10-l3-p5",
+            "marathi": "नको, मला हे नको आहे",
+            "transliteration": "Noko, malaa he noko aahe",
+            "english": "No, I don't want this",
+            "difficulty": "intermediate",
+            "usage": "Refusal"
+          },
+          {
+            "id": "m10-l3-p6",
+            "marathi": "आवड निवड",
+            "transliteration": "AavaD nivaD",
+            "english": "Choice / Likes & dislikes",
+            "difficulty": "intermediate",
+            "usage": "Concept descriptor"
+          },
+          {
+            "id": "m10-l3-p7",
+            "marathi": "मला प्रवास करायला आवडतो",
+            "transliteration": "Malaa pravaas karaaylaa aavaDto",
+            "english": "I like to travel",
+            "difficulty": "intermediate",
+            "usage": "Expressing interest"
+          },
+          {
+            "id": "m10-l3-p8",
+            "marathi": "मला गर्दी आवडत नाही",
+            "transliteration": "Malaa gardee aavaDat naahi",
+            "english": "I do not like crowds",
+            "difficulty": "intermediate",
+            "usage": "Expressing dislike"
+          }
+        ]
+      },
+      {
+        "id": "m10-l4",
+        "title": "Inviting Friends",
+        "titleMarathi": "आमंत्रण देणे",
+        "lessonNumber": 4,
+        "culturalNote": "Inviting someone to your home or for an event. Hospitalities are key.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m10-l4-p1",
+            "marathi": "माझ्या घरी या",
+            "transliteration": "Maajhyaa gharee yaa",
+            "english": "Come to my house",
+            "difficulty": "intermediate",
+            "usage": "Friendly invitation"
+          },
+          {
+            "id": "m10-l4-p2",
+            "marathi": "चहा पिण्यासाठी या",
+            "transliteration": "Chahaa piNyaasaaTee yaa",
+            "english": "Come over for tea",
+            "difficulty": "intermediate",
+            "usage": "Common invite format"
+          },
+          {
+            "id": "m10-l4-p3",
+            "marathi": "रविवारी आम्ही पार्टी करत आहोत",
+            "transliteration": "Ravivaari aamhee party karat aahot",
+            "english": "We are hosting a party on Sunday",
+            "difficulty": "intermediate",
+            "usage": "Event invitation"
+          },
+          {
+            "id": "m10-l4-p4",
+            "marathi": "तुम्ही नक्की या",
+            "transliteration": "Tumhi nakkee yaa",
+            "english": "You must definitely come",
+            "difficulty": "intermediate",
+            "usage": "Urgent warm invite"
+          },
+          {
+            "id": "m10-l4-p5",
+            "marathi": "कधी येऊ?",
+            "transliteration": "Kadhi yeoo?",
+            "english": "When should I come?",
+            "difficulty": "intermediate",
+            "usage": "Accepting invitation query"
+          },
+          {
+            "id": "m10-l4-p6",
+            "marathi": "पुढच्या आठवड्यात भेटू",
+            "transliteration": "PuDhchyaa aathavDyaat bheeToo",
+            "english": "Let's meet next week",
+            "difficulty": "intermediate",
+            "usage": "Planning meeting"
+          },
+          {
+            "id": "m10-l4-p7",
+            "marathi": "निमंत्रण दिल्याबद्दल धन्यवाद",
+            "transliteration": "NimantraN dilyabaddal dhanyavaad",
+            "english": "Thank you for the invitation",
+            "difficulty": "intermediate",
+            "usage": "Expressing thanks for invite"
+          },
+          {
+            "id": "m10-l4-p8",
+            "marathi": "मी येईन",
+            "transliteration": "Mee yeeen",
+            "english": "I will come",
+            "difficulty": "intermediate",
+            "usage": "Confirming attendance"
+          }
+        ]
+      },
+      {
+        "id": "m10-l5",
+        "title": "Polite Small Talk",
+        "titleMarathi": "गप्पागोष्टी",
+        "lessonNumber": 5,
+        "culturalNote": "Essential phrases for maintaining a casual, polite conversation.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m10-l5-p1",
+            "marathi": "अजून काय चालू आहे?",
+            "transliteration": "Ajoon kaay chaaloo aahe?",
+            "english": "What else is going on?",
+            "difficulty": "intermediate",
+            "usage": "Casual conversational starter"
+          },
+          {
+            "id": "m10-l5-p2",
+            "marathi": "विशेष काही नाही",
+            "transliteration": "Vishesh kaahi naahi",
+            "english": "Nothing special",
+            "difficulty": "intermediate",
+            "usage": "Typical response"
+          },
+          {
+            "id": "m10-l5-p3",
+            "marathi": "बरं चाललंय",
+            "transliteration": "Baram chaallay",
+            "english": "Things are going well",
+            "difficulty": "intermediate",
+            "usage": "Casual status reporting"
+          },
+          {
+            "id": "m10-l5-p4",
+            "marathi": "तुमचं कुटुंब कसं आहे?",
+            "transliteration": "Tumcham kuTumba kasan aahe?",
+            "english": "How is your family?",
+            "difficulty": "intermediate",
+            "usage": "Family well-being inquiry"
+          },
+          {
+            "id": "m10-l5-p5",
+            "marathi": "सगळे मजेत आहेत",
+            "transliteration": "Sagale majet aahet",
+            "english": "Everyone is doing great/happy",
+            "difficulty": "intermediate",
+            "usage": "Typical response"
+          },
+          {
+            "id": "m10-l5-p6",
+            "marathi": "मला तुमची गप्पा मारून आनंद झाला",
+            "transliteration": "Malaa tumchee gappaa maaroon aanand jhaalaa",
+            "english": "I enjoyed talking to you",
+            "difficulty": "intermediate",
+            "usage": "Polite wrap-up"
+          },
+          {
+            "id": "m10-l5-p7",
+            "marathi": "पुन्हा भेटूया",
+            "transliteration": "Punhaa bheeTooyaa",
+            "english": "Let's meet again",
+            "difficulty": "intermediate",
+            "usage": "Friendly farewell"
+          },
+          {
+            "id": "m10-l5-p8",
+            "marathi": "काळजी घ्या",
+            "transliteration": "KaaLji ghyaa",
+            "english": "Take care",
+            "difficulty": "intermediate",
+            "usage": "Farewell well-wish"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m11",
+    "title": "Work & Business",
+    "titleMarathi": "काम आणि व्यवसाय",
+    "description": "Office communication, phone calls, meetings, appointments",
+    "icon": "🏢",
+    "totalLessons": 5,
+    "estimatedHours": 2,
+    "difficulty": "intermediate",
+    "lessons": [
+      {
+        "id": "m11-l1",
+        "title": "In the Office",
+        "titleMarathi": "ऑफिसमध्ये संभाषण",
+        "lessonNumber": 1,
+        "culturalNote": "Typical workspace interactions and basic administrative needs.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m11-l1-p1",
+            "marathi": "व्यवस्थापक (Manager)",
+            "transliteration": "Vyavasthaapak",
+            "english": "Manager / Boss",
+            "difficulty": "intermediate",
+            "usage": "Job title"
+          },
+          {
+            "id": "m11-l1-p2",
+            "marathi": "सहकारी (Colleague)",
+            "transliteration": "Sahakaaree",
+            "english": "Colleague / Coworker",
+            "difficulty": "intermediate",
+            "usage": "Job title"
+          },
+          {
+            "id": "m11-l1-p3",
+            "marathi": "फाइल कुठे आहे?",
+            "transliteration": "File kuthe aahe?",
+            "english": "Where is the file?",
+            "difficulty": "intermediate",
+            "usage": "Office item search"
+          },
+          {
+            "id": "m11-l1-p4",
+            "marathi": "प्रिंटर चालू नाही",
+            "transliteration": "Printer chaaloo naahi",
+            "english": "The printer is not working",
+            "difficulty": "intermediate",
+            "usage": "Tech challenge reporting"
+          },
+          {
+            "id": "m11-l1-p5",
+            "marathi": "मला सुट्टी हवी आहे",
+            "transliteration": "Malaa suTTee havee aahe",
+            "english": "I need a leave/holiday",
+            "difficulty": "intermediate",
+            "usage": "Leave request"
+          },
+          {
+            "id": "m11-l1-p6",
+            "marathi": "आज काम खूप आहे",
+            "transliteration": "Aaj kaam khoop aahe",
+            "english": "There is a lot of work today",
+            "difficulty": "intermediate",
+            "usage": "Expressing workload"
+          },
+          {
+            "id": "m11-l1-p7",
+            "marathi": "हे काम वेळेवर पूर्ण करा",
+            "transliteration": "He kaam veLevar poorNa karaa",
+            "english": "Complete this work on time",
+            "difficulty": "intermediate",
+            "usage": "Instruction to subordinate"
+          },
+          {
+            "id": "m11-l1-p8",
+            "marathi": "मी मदत करू शकतो का?",
+            "transliteration": "Mee madat karoo shakato ka?",
+            "english": "Can I help?",
+            "difficulty": "intermediate",
+            "usage": "Offering help"
+          }
+        ]
+      },
+      {
+        "id": "m11-l2",
+        "title": "Professional Introductions",
+        "titleMarathi": "व्यावसायिक ओळख",
+        "lessonNumber": 2,
+        "culturalNote": "Introducing yourself in formal corporate or professional settings.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m11-l2-p1",
+            "marathi": "मी या कंपनीत काम करतो",
+            "transliteration": "Mee yaa companyt kaam karto",
+            "english": "I work in this company (male)",
+            "difficulty": "intermediate",
+            "usage": "Job description"
+          },
+          {
+            "id": "m11-l2-p2",
+            "marathi": "माझे पद व्यवस्थापक आहे",
+            "transliteration": "Maajhe pad vyavasthaapak aahe",
+            "english": "My position is Manager",
+            "difficulty": "intermediate",
+            "usage": "Stating designation"
+          },
+          {
+            "id": "m11-l2-p3",
+            "marathi": "हे आमचे नवीन संचालक आहेत",
+            "transliteration": "He aamche naveen sanchaalak aahet",
+            "english": "He/She is our new Director (respectful)",
+            "difficulty": "intermediate",
+            "usage": "Introducing senior"
+          },
+          {
+            "id": "m11-l2-p4",
+            "marathi": "भेटून आनंद झाला",
+            "transliteration": "BheToon aanand jhaalaa",
+            "english": "Pleasure to meet you",
+            "difficulty": "intermediate",
+            "usage": "Formal greetings"
+          },
+          {
+            "id": "m11-l2-p5",
+            "marathi": "माझे स्वतःचे कार्यालय आहे",
+            "transliteration": "Maajhe svataahche kaaryaalaya aahe",
+            "english": "I have my own office",
+            "difficulty": "intermediate",
+            "usage": "Entrepreneurial introduction"
+          },
+          {
+            "id": "m11-l2-p6",
+            "marathi": "मी सॉफ्टवेअर इंजिनिअर आहे",
+            "transliteration": "Mee software engineer aahe",
+            "english": "I am a software engineer",
+            "difficulty": "intermediate",
+            "usage": "Stating profession"
+          },
+          {
+            "id": "m11-l2-p7",
+            "marathi": "आमची कंपनी पुण्यात आहे",
+            "transliteration": "Aamchee company PuNyat aahe",
+            "english": "Our company is in Pune",
+            "difficulty": "intermediate",
+            "usage": "Stating corporate location"
+          },
+          {
+            "id": "m11-l2-p8",
+            "marathi": "कार्ड घ्या",
+            "transliteration": "Card ghyaa",
+            "english": "Please take my business card",
+            "difficulty": "intermediate",
+            "usage": "Handing over card"
+          }
+        ]
+      },
+      {
+        "id": "m11-l3",
+        "title": "Phone Conversations",
+        "titleMarathi": "फोनवर बोलणे",
+        "lessonNumber": 3,
+        "culturalNote": "Answering calls, verifying caller identity, and taking messages.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m11-l3-p1",
+            "marathi": "हॅलो, कोण बोलतंय?",
+            "transliteration": "Hello, koN bolaTay?",
+            "english": "Hello, who is speaking?",
+            "difficulty": "intermediate",
+            "usage": "Answering phone"
+          },
+          {
+            "id": "m11-l3-p2",
+            "marathi": "मी अमित बोलतोय",
+            "transliteration": "Mee Amit bolatoy",
+            "english": "I am Amit speaking",
+            "difficulty": "intermediate",
+            "usage": "Identifying speaker"
+          },
+          {
+            "id": "m11-l3-p3",
+            "marathi": "माझा आवाज येतोय का?",
+            "transliteration": "Maajhaa aavaaj yetoy ka?",
+            "english": "Can you hear my voice?",
+            "difficulty": "intermediate",
+            "usage": "Checking connectivity"
+          },
+          {
+            "id": "m11-l3-p4",
+            "marathi": "कृपया थोडं जोरात बोला",
+            "transliteration": "Krupayaa thodam joraat bolaa",
+            "english": "Please speak a bit louder",
+            "difficulty": "intermediate",
+            "usage": "Audio adjustment request"
+          },
+          {
+            "id": "m11-l3-p5",
+            "marathi": "तो सध्या व्यस्त आहे",
+            "transliteration": "To sadhya vyasta aahe",
+            "english": "He is busy right now",
+            "difficulty": "intermediate",
+            "usage": "Explaining unavailability"
+          },
+          {
+            "id": "m11-l3-p6",
+            "marathi": "नंतर फोन करा",
+            "transliteration": "Nantar phone karaa",
+            "english": "Call later",
+            "difficulty": "intermediate",
+            "usage": "Rescheduling call"
+          },
+          {
+            "id": "m11-l3-p7",
+            "marathi": "रोप लाईनवर रहा",
+            "transliteration": "Hold line-var rahaa",
+            "english": "Please hold on the line",
+            "difficulty": "intermediate",
+            "usage": "Call holding request"
+          },
+          {
+            "id": "m11-l3-p8",
+            "marathi": "निरोप सांगा",
+            "transliteration": "Nirop saangaa",
+            "english": "Tell him the message",
+            "difficulty": "intermediate",
+            "usage": "Leaving message"
+          }
+        ]
+      },
+      {
+        "id": "m11-l4",
+        "title": "Meetings & Discussions",
+        "titleMarathi": "सभेतील संभाषण",
+        "lessonNumber": 4,
+        "culturalNote": "Common corporate vocabulary for meetings and presentations.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m11-l4-p1",
+            "marathi": "चला मीटिंग सुरू करूया",
+            "transliteration": "Chalaa meeting suroo karooyaa",
+            "english": "Let's start the meeting",
+            "difficulty": "intermediate",
+            "usage": "Opening meeting"
+          },
+          {
+            "id": "m11-l4-p2",
+            "marathi": "तुमचे मत काय आहे?",
+            "transliteration": "Tumche mat kaay aahe?",
+            "english": "What is your opinion?",
+            "difficulty": "intermediate",
+            "usage": "Seeking feedback"
+          },
+          {
+            "id": "m11-l4-p3",
+            "marathi": "मी सहमत आहे",
+            "transliteration": "Mee sahamat aahe",
+            "english": "I agree",
+            "difficulty": "intermediate",
+            "usage": "Expressing agreement"
+          },
+          {
+            "id": "m11-l4-p4",
+            "marathi": "मी सहमत नाही",
+            "transliteration": "Mee sahamat naahi",
+            "english": "I do not agree",
+            "difficulty": "intermediate",
+            "usage": "Expressing disagreement"
+          },
+          {
+            "id": "m11-l4-p5",
+            "marathi": "पुढचा मुद्दा कोणता?",
+            "transliteration": "PuDhchaa muddaa koNataa?",
+            "english": "What is the next point?",
+            "difficulty": "intermediate",
+            "usage": "Facilitating agenda"
+          },
+          {
+            "id": "m11-l4-p6",
+            "marathi": "सादरीकरण (Presentation)",
+            "transliteration": "SaadareekaraN",
+            "english": "Presentation",
+            "difficulty": "intermediate",
+            "usage": "Agenda item"
+          },
+          {
+            "id": "m11-l4-p7",
+            "marathi": "निर्णय घेणे",
+            "transliteration": "NirNay gheNe",
+            "english": "To make a decision",
+            "difficulty": "intermediate",
+            "usage": "Meeting outcome"
+          },
+          {
+            "id": "m11-l4-p8",
+            "marathi": "मी उद्या सादरीकरण करेन",
+            "transliteration": "Mee udyaa saadareekaraN karen",
+            "english": "I will present tomorrow (male/female)",
+            "difficulty": "intermediate",
+            "usage": "Stating commitment"
+          }
+        ]
+      },
+      {
+        "id": "m11-l5",
+        "title": "Making Appointments",
+        "titleMarathi": "भेटीची वेळ ठरवणे",
+        "lessonNumber": 5,
+        "culturalNote": "Scheduling business or formal meetings.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m11-l5-p1",
+            "marathi": "मला भेटीची वेळ हवी आहे",
+            "transliteration": "Malaa bheTeechee veL havee aahe",
+            "english": "I want an appointment",
+            "difficulty": "intermediate",
+            "usage": "Scheduling request"
+          },
+          {
+            "id": "m11-l5-p2",
+            "marathi": "उद्या दुपारी दोन वाजता चालेल का?",
+            "transliteration": "Udyaa dupaari don vaajataa chaalel ka?",
+            "english": "Will tomorrow afternoon at 2 PM work?",
+            "difficulty": "intermediate",
+            "usage": "Proposing slot"
+          },
+          {
+            "id": "m11-l5-p3",
+            "marathi": "हो, ती वेळ चालेल",
+            "transliteration": "Ho, tee veL chaalel",
+            "english": "Yes, that time works",
+            "difficulty": "intermediate",
+            "usage": "Confirming slot"
+          },
+          {
+            "id": "m11-l5-p4",
+            "marathi": "मला आज वेळ नाही",
+            "transliteration": "Malaa aaj veL naahi",
+            "english": "I don't have time today",
+            "difficulty": "intermediate",
+            "usage": "Declining slot"
+          },
+          {
+            "id": "m11-l5-p5",
+            "marathi": "अपॉइंटमेंट रद्द झाली आहे",
+            "transliteration": "Appointment radda jhaalee aahe",
+            "english": "The appointment is cancelled",
+            "difficulty": "intermediate",
+            "usage": "Cancellation notification"
+          },
+          {
+            "id": "m11-l5-p6",
+            "marathi": "कृपया वेळ बदला",
+            "transliteration": "Krupayaa veL badlaa",
+            "english": "Please change/reschedule the time",
+            "difficulty": "intermediate",
+            "usage": "Rescheduling request"
+          },
+          {
+            "id": "m11-l5-p7",
+            "marathi": "आम्ही वेळेवर पोहोचू",
+            "transliteration": "Aamhee veLevar pohochaoo",
+            "english": "We will arrive on time",
+            "difficulty": "intermediate",
+            "usage": "Confirming punctuality"
+          },
+          {
+            "id": "m11-l5-p8",
+            "marathi": "थोड्या वेळात",
+            "transliteration": "ThoDyaa veLaat",
+            "english": "In a little while",
+            "difficulty": "intermediate",
+            "usage": "Time description"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m12",
+    "title": "Culture & Celebration",
+    "titleMarathi": "संस्कृती आणि सण",
+    "description": "Festivals, blessings, hospitality customs, popular idioms",
+    "icon": "🎉",
+    "totalLessons": 5,
+    "estimatedHours": 2,
+    "difficulty": "intermediate",
+    "lessons": [
+      {
+        "id": "m12-l1",
+        "title": "Traditional Festivals",
+        "titleMarathi": "पारंपरिक सण",
+        "lessonNumber": 1,
+        "culturalNote": "Maharashtra celebrates Ganesh Utsav (Ganeshotsav) with massive grandeur. Diwali and Gudhi Padwa are also major.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m12-l1-p1",
+            "marathi": "गणपती बाप्पा मोरया!",
+            "transliteration": "Ganapati Bappa Morya!",
+            "english": "Glory to Lord Ganesha!",
+            "difficulty": "intermediate",
+            "usage": "Iconic festival chant"
+          },
+          {
+            "id": "m12-l1-p2",
+            "marathi": "गुढी पाडव्याच्या शुभेच्छा",
+            "transliteration": "Gudhi Padvyachya shubhechhaa",
+            "english": "Happy Gudhi Padwa (Marathi New Year)",
+            "difficulty": "intermediate",
+            "usage": "New Year wishes"
+          },
+          {
+            "id": "m12-l1-p3",
+            "marathi": "दिवाळीची रोषणाई",
+            "transliteration": "DivaaLeechee roshNaaee",
+            "english": "Diwali lights/illumination",
+            "difficulty": "intermediate",
+            "usage": "Festival description"
+          },
+          {
+            "id": "m12-l1-p4",
+            "marathi": "प्रसाद घ्या",
+            "transliteration": "Prasaad ghyaa",
+            "english": "Have some holy offering/sweet",
+            "difficulty": "intermediate",
+            "usage": "Religious custom offering"
+          },
+          {
+            "id": "m12-l1-p5",
+            "marathi": "आरती सुरू झाली आहे",
+            "transliteration": "Aartee suroo jhaalee aahe",
+            "english": "The prayer song (Aarti) has started",
+            "difficulty": "intermediate",
+            "usage": "Festival event status"
+          },
+          {
+            "id": "m12-l1-p6",
+            "marathi": "नवीन कपडे",
+            "transliteration": "Naveen kapade",
+            "english": "New clothes",
+            "difficulty": "intermediate",
+            "usage": "Festival custom"
+          },
+          {
+            "id": "m12-l1-p7",
+            "marathi": "गोड फराळ",
+            "transliteration": "God pharaaL",
+            "english": "Diwali snacks/sweets",
+            "difficulty": "intermediate",
+            "usage": "Festival custom"
+          },
+          {
+            "id": "m12-l1-p8",
+            "marathi": "सण आणि उत्सव",
+            "transliteration": "SaN aaNi utsav",
+            "english": "Festivals and celebrations",
+            "difficulty": "intermediate",
+            "usage": "General concept descriptor"
+          }
+        ]
+      },
+      {
+        "id": "m12-l2",
+        "title": "Offering Blessings",
+        "titleMarathi": "शुभेच्छा आणि आशीर्वाद",
+        "lessonNumber": 2,
+        "culturalNote": "Giving well-wishes or elder blessings, highly valued in Marathi homes.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m12-l2-p1",
+            "marathi": "खूप मोठे व्हा!",
+            "transliteration": "Khoop moThe vhaa!",
+            "english": "Grow very big! (May you achieve success!)",
+            "difficulty": "intermediate",
+            "usage": "Traditional elder blessing to kids"
+          },
+          {
+            "id": "m12-l2-p2",
+            "marathi": "यशस्वी व्हा",
+            "transliteration": "Yashasvee vhaa",
+            "english": "Be successful",
+            "difficulty": "intermediate",
+            "usage": "Blessing"
+          },
+          {
+            "id": "m12-l2-p3",
+            "marathi": "वाढदिवसाच्या हार्दिक शुभेच्छा",
+            "transliteration": "Vaadhdivasaachyaa haardik shubhechhaa",
+            "english": "Warmest birthday wishes",
+            "difficulty": "intermediate",
+            "usage": "Birthday greeting"
+          },
+          {
+            "id": "m12-l2-p4",
+            "marathi": "नवीन वर्षाच्या शुभेच्छा",
+            "transliteration": "Naveen varshaachyaa shubhechhaa",
+            "english": "Happy New Year",
+            "difficulty": "intermediate",
+            "usage": "New Year greeting"
+          },
+          {
+            "id": "m12-l2-p5",
+            "marathi": "आनंदी राहा",
+            "transliteration": "Aanandee raahaa",
+            "english": "Stay happy",
+            "difficulty": "intermediate",
+            "usage": "Blessing / Wish"
+          },
+          {
+            "id": "m12-l2-p6",
+            "marathi": "सदा सुखी रहा",
+            "transliteration": "Sadaa sukhee rahaa",
+            "english": "Stay always happy",
+            "difficulty": "intermediate",
+            "usage": "Traditional elder blessing"
+          },
+          {
+            "id": "m12-l2-p7",
+            "marathi": "सर्व काही चांगले होईल",
+            "transliteration": "Sarva kaahi chaangle hoeel",
+            "english": "Everything will be fine",
+            "difficulty": "intermediate",
+            "usage": "Reassuring statement"
+          },
+          {
+            "id": "m12-l2-p8",
+            "marathi": "प्रयत्नांना यश मिळो",
+            "transliteration": "Prayatnaannaa yash miLo",
+            "english": "May your efforts yield success",
+            "difficulty": "intermediate",
+            "usage": "Blessing for endeavors"
+          }
+        ]
+      },
+      {
+        "id": "m12-l3",
+        "title": "Hospitality Customs",
+        "titleMarathi": "पाहुणचार आणि आदरातिथ्य",
+        "lessonNumber": 3,
+        "culturalNote": "Maharashtrian guest etiquette: offering tea, sitting respectfully.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m12-l3-p1",
+            "marathi": "पाहुणे घरी आलेत",
+            "transliteration": "Paahune gharee aalet",
+            "english": "Guests have come home",
+            "difficulty": "intermediate",
+            "usage": "Reporting arrivals"
+          },
+          {
+            "id": "m12-l3-p2",
+            "marathi": "बसा ना, चहा घेणार का?",
+            "transliteration": "Basaa naa, chahaa gheNaar ka?",
+            "english": "Please sit, will you have some tea?",
+            "difficulty": "intermediate",
+            "usage": "Warm hospitality invite"
+          },
+          {
+            "id": "m12-l3-p3",
+            "marathi": "जेवल्याशिवाय जाऊ नका",
+            "transliteration": "Jevalyaashivaay jaaoo nakaa",
+            "english": "Don't leave without eating a meal",
+            "difficulty": "intermediate",
+            "usage": "Hospitable insistence"
+          },
+          {
+            "id": "m12-l3-p4",
+            "marathi": "आमच्या घरी नक्की या",
+            "transliteration": "Aamchyaa gharee nakkee yaa",
+            "english": "Do come to our home for sure",
+            "difficulty": "intermediate",
+            "usage": "Formal invite"
+          },
+          {
+            "id": "m12-l3-p5",
+            "marathi": "पाहुणचार खूप छान होता",
+            "transliteration": "PaahuNchaar khoop chhaan hotaa",
+            "english": "The hospitality was wonderful",
+            "difficulty": "intermediate",
+            "usage": "Complimenting host"
+          },
+          {
+            "id": "m12-l3-p6",
+            "marathi": "पुन्हा कधी भेटणार?",
+            "transliteration": "Punhaa kadhi bheTNaar?",
+            "english": "When will we meet again?",
+            "difficulty": "intermediate",
+            "usage": "Friendly parting inquiry"
+          },
+          {
+            "id": "m12-l3-p7",
+            "marathi": "घरी गेल्यावर फोन करा",
+            "transliteration": "Gharee gelyaavar phone karaa",
+            "english": "Phone us once you reach home",
+            "difficulty": "intermediate",
+            "usage": "Parting concern"
+          },
+          {
+            "id": "m12-l3-p8",
+            "marathi": "येतो आम्ही / येते आम्ही",
+            "transliteration": "Yeto aamhee / Yete aamhee",
+            "english": "We are leaving (common plural farewell)",
+            "difficulty": "intermediate",
+            "usage": "Leaving host's home"
+          }
+        ]
+      },
+      {
+        "id": "m12-l4",
+        "title": "Idioms & Cultural Sayings",
+        "titleMarathi": "मराठी म्हणी",
+        "lessonNumber": 4,
+        "culturalNote": "Marathi is rich in 'mhani' (sayings/idioms) reflecting rustic wisdom and humor.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m12-l4-p1",
+            "marathi": "अती तिथे माती",
+            "transliteration": "Atee tithe maatee",
+            "english": "Excess of anything leads to ruin (lit: excess leads to soil/dust)",
+            "difficulty": "intermediate",
+            "usage": "Cautionary idiom"
+          },
+          {
+            "id": "m12-l4-p2",
+            "marathi": "इकडे आड तिकडे विहीर",
+            "transliteration": "Ikade aaD tikade viheer",
+            "english": "Between the devil and the deep blue sea (lit: ditch on one side, well on other)",
+            "difficulty": "intermediate",
+            "usage": "Situation descriptor"
+          },
+          {
+            "id": "m12-l4-p3",
+            "marathi": "करावे तसे भरावे",
+            "transliteration": "Karaave tase bharaave",
+            "english": "As you sow, so shall you reap",
+            "difficulty": "intermediate",
+            "usage": "Moral idiom"
+          },
+          {
+            "id": "m12-l4-p4",
+            "marathi": "हातच्या कंकणाला आरसा कशाला?",
+            "transliteration": "Haatachyaa kankaNaalaa aarsaa kashalaa?",
+            "english": "Truth needs no proof (lit: why a mirror for a bangle on the hand?)",
+            "difficulty": "intermediate",
+            "usage": "Argumentative idiom"
+          },
+          {
+            "id": "m12-l4-p5",
+            "marathi": "गरज सरो वैद्य मरो",
+            "transliteration": "Garaj saro vaidya maro",
+            "english": "Forgetting the benefactor once the need is met (lit: once need ends, doctor dies)",
+            "difficulty": "intermediate",
+            "usage": "Cynical idiom"
+          },
+          {
+            "id": "m12-l4-p6",
+            "marathi": "मूर्ती लहान पण कीर्ती महान",
+            "transliteration": "Moortee lahaan paN keertee mahaan",
+            "english": "Small body but grand fame",
+            "difficulty": "intermediate",
+            "usage": "Praising someone's impact"
+          },
+          {
+            "id": "m12-l4-p7",
+            "marathi": "उंटावरचा शहाणा",
+            "transliteration": "UnTaavarchaa shahaaNaa",
+            "english": "A foolish adviser (lit: wise man sitting on a camel)",
+            "difficulty": "intermediate",
+            "usage": "Sarcastic descriptor"
+          },
+          {
+            "id": "m12-l4-p8",
+            "marathi": "दुरुन डोंगर साजिरे",
+            "transliteration": "Duroon dongar saajire",
+            "english": "Distance lends enchantment to the view (lit: hills look beautiful from afar)",
+            "difficulty": "intermediate",
+            "usage": "Philosophical saying"
+          }
+        ]
+      },
+      {
+        "id": "m12-l5",
+        "title": "Congratulations",
+        "titleMarathi": "अभिनंदन",
+        "lessonNumber": 5,
+        "culturalNote": "Celebrating achievements, promotions, or winning scores.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m12-l5-p1",
+            "marathi": "हार्दिक अभिनंदन!",
+            "transliteration": "Haardik abhinandan!",
+            "english": "Heartfelt congratulations!",
+            "difficulty": "intermediate",
+            "usage": "Standard formal congrats"
+          },
+          {
+            "id": "m12-l5-p2",
+            "marathi": "तुमचा अभिमान वाटतो",
+            "transliteration": "Tumchaa abhimaan vaaTato",
+            "english": "I feel proud of you",
+            "difficulty": "intermediate",
+            "usage": "Expressing pride"
+          },
+          {
+            "id": "m12-l5-p3",
+            "marathi": "खूप उत्तम काम केलेत!",
+            "transliteration": "Khoop uttam kaam kelet!",
+            "english": "You did excellent work!",
+            "difficulty": "intermediate",
+            "usage": "Performance compliment"
+          },
+          {
+            "id": "m12-l5-p4",
+            "marathi": "गोड तोंड करा",
+            "transliteration": "God tond karaa",
+            "english": "Sweeten your mouth (eat sweets to celebrate)",
+            "difficulty": "intermediate",
+            "usage": "Celebration custom phrase"
+          },
+          {
+            "id": "m12-l5-p5",
+            "marathi": "पदोन्नतीबद्दल अभिनंदन (Promotion)",
+            "transliteration": "Padonnatteebaddal abhinandan",
+            "english": "Congrats on your promotion",
+            "difficulty": "intermediate",
+            "usage": "Corporate congrats"
+          },
+          {
+            "id": "m12-l5-p6",
+            "marathi": "तुम्ही हे करून दाखवलं!",
+            "transliteration": "Tumhi he karoon daakhaavalam!",
+            "english": "You did it! / You proved it!",
+            "difficulty": "intermediate",
+            "usage": "Excited compliment"
+          },
+          {
+            "id": "m12-l5-p7",
+            "marathi": "यशाचे शिखर गाठणे",
+            "transliteration": "Yashaache shikhar gaaThaNe",
+            "english": "To reach the peak of success",
+            "difficulty": "intermediate",
+            "usage": "Literary compliment"
+          },
+          {
+            "id": "m12-l5-p8",
+            "marathi": "पार्टी कधी आहे?",
+            "transliteration": "Party kadhi aahe?",
+            "english": "When is the party?",
+            "difficulty": "intermediate",
+            "usage": "Casual celebration inquiry"
+          }
+        ]
+      }
+    ]
+  }
+]

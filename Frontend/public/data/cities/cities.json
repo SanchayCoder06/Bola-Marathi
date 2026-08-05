@@ -1,0 +1,192 @@
+{
+  "cities": [
+    {
+      "id": "pune",
+      "name": "Pune",
+      "nameMarathi": "पुणे",
+      "levelRequired": 1,
+      "coords": {
+        "x": 50,
+        "y": 60
+      },
+      "icon": "🏰",
+      "weather": "Monsoon Rain & Cozy Winds 🌧️",
+      "festival": "Ganesh Chaturthi Utsav 🌺",
+      "description": "The cultural capital of Maharashtra, renowned for historical wadas, traditional tea stalls, and academic excellence.",
+      "reputationLevels": ["Pune Outsider", "Shaniwar Wada Explorer", "Chaha Lover", "Puneri Resident", "Pune Pioneer 🏆"],
+      "souvenirs": [
+        { "id": "puneri_pagadi", "name": "Puneri Pagadi (Turban)", "description": "A traditional turban symbolizing honor and heritage.", "xpRequired": 150 },
+        { "id": "copper_glass", "name": "Tambat Hand-crafted Lota", "description": "Hand-beaten copper pot from Pune's famous copper alley.", "xpRequired": 350 }
+      ],
+      "recipes": [
+        { "id": "amruttulya_tea", "name": "Amruttulya Masala Tea", "ingredients": "Cardamom, ginger, milk, secret spice blend.", "xpRequired": 100 },
+        { "id": "pithla_bhakri", "name": "Pithla Bhakri", "ingredients": "Gram flour, green chillies, sorghum flour.", "xpRequired": 250 }
+      ],
+      "districts": [
+        {
+          "id": "pune-station-district",
+          "name": "Station District",
+          "nameMarathi": "रेल्वे स्टेशन परिसर",
+          "description": "A bustling transit area filled with busy auto-rickshaws and transit sounds."
+        },
+        {
+          "id": "pune-market-district",
+          "name": "Old Market & Mandai",
+          "nameMarathi": "मंडई व पेठा",
+          "description": "Vibrant traditional bazaars, clothing stalls, spices, and fresh fruit vendors."
+        },
+        {
+          "id": "pune-heritage-district",
+          "name": "Heritage & Residential Zone",
+          "nameMarathi": "शनिवार वाडा परिसर",
+          "description": "The historic core of Pune featuring ancient fortifications and apartments."
+        }
+      ],
+      "landmarks": [
+        {
+          "id": "pune-station",
+          "districtId": "pune-station-district",
+          "type": "railway_station",
+          "name": "Pune Junction",
+          "npcName": "Rickshaw Dada Ram",
+          "icon": "🚉",
+          "dialogueId": "pune_taxi_start"
+        },
+        {
+          "id": "pune-restaurant",
+          "districtId": "pune-market-district",
+          "type": "restaurant",
+          "name": "Durvankur Restaurant",
+          "npcName": "Waiter Rohan",
+          "icon": "🍽️",
+          "dialogueId": "pune_restaurant"
+        },
+        {
+          "id": "pune-market",
+          "districtId": "pune-market-district",
+          "type": "market",
+          "name": "Tulshibaug Market",
+          "npcName": "Shopkeeper Kaku",
+          "icon": "🛍️",
+          "dialogueId": "pune_market_bargain"
+        },
+        {
+          "id": "pune-shaniwarwada",
+          "districtId": "pune-heritage-district",
+          "type": "landmark",
+          "name": "Shaniwar Wada",
+          "npcName": "Student Amit",
+          "icon": "🏰",
+          "dialogueId": "pune_directions"
+        },
+        {
+          "id": "pune-apartment",
+          "districtId": "pune-heritage-district",
+          "type": "home",
+          "name": "Puneri Apartment",
+          "npcName": "Neighbor Sunita",
+          "icon": "🏢",
+          "dialogueId": "pune_neighbor"
+        },
+        {
+          "id": "pune-fruitstall",
+          "districtId": "pune-market-district",
+          "type": "shop",
+          "name": "Mango Fruit Stall",
+          "npcName": "Fruit Vendor Baburao",
+          "icon": "🥭",
+          "dialogueId": "pune_mango_seller"
+        }
+      ]
+    },
+    {
+      "id": "mumbai",
+      "name": "Mumbai",
+      "nameMarathi": "मुंबई",
+      "levelRequired": 2,
+      "coords": {
+        "x": 30,
+        "y": 45
+      },
+      "icon": "🌊",
+      "weather": "Humid Sea Breeze 🌊",
+      "festival": "Dahi Handi Festival 🍯",
+      "description": "The city of dreams. Explore localized dialects, coastal seafood points, and fast-paced railway local stations.",
+      "reputationLevels": ["Mumbai Traveler", "Local Train Commuter", "Cutting Chai Sipper", "Mumbaikar 🤝"],
+      "souvenirs": [
+        { "id": "gateway_model", "name": "Gateway of India Model", "description": "Miniature stone arch keepsake.", "xpRequired": 600 }
+      ],
+      "recipes": [
+        { "id": "vada_pav", "name": "Mumbai Vada Pav", "ingredients": "Potato patty, green chutney, dry garlic chutney.", "xpRequired": 550 }
+      ],
+      "districts": [
+        {
+          "id": "mumbai-fort",
+          "name": "Fort & CST District",
+          "nameMarathi": "फोर्ट आणि सीएसटी",
+          "description": "Gothic architectural zone filled with business commuters and taxis."
+        }
+      ],
+      "landmarks": [
+        {
+          "id": "mumbai-station",
+          "districtId": "mumbai-fort",
+          "type": "railway_station",
+          "name": "CST Station",
+          "npcName": "Ticket Collector",
+          "icon": "🚉",
+          "dialogueId": null
+        },
+        {
+          "id": "mumbai-office",
+          "districtId": "mumbai-fort",
+          "type": "office",
+          "name": "Nariman Point Office",
+          "npcName": "Manager",
+          "icon": "🏢",
+          "dialogueId": null
+        }
+      ]
+    },
+    {
+      "id": "nashik",
+      "name": "Nashik",
+      "nameMarathi": "नाशिक",
+      "levelRequired": 3,
+      "coords": {
+        "x": 45,
+        "y": 25
+      },
+      "icon": "🍇",
+      "weather": "Cool Morning Fog 🌫️",
+      "festival": "Ram Navami Utsav 🚩",
+      "description": "Spiritual pilgrim center and the grape capital of India, resting on the banks of Godavari.",
+      "reputationLevels": ["Nashik Pilgrim", "Godavari Visitor", "Vineyard Connoisseur"],
+      "souvenirs": [
+        { "id": "grape_basket", "name": "Grape Harvest Basket", "description": "Unlocks special vineyard badges.", "xpRequired": 1600 }
+      ],
+      "recipes": [
+        { "id": "misal_pav", "name": "Nashik Misal Pav", "ingredients": "Sprouted moth beans, red spicy curry, pav, lemon.", "xpRequired": 1500 }
+      ],
+      "districts": [
+        {
+          "id": "nashik-godavari",
+          "name": "Panchavati Ghats",
+          "nameMarathi": "पंचवटी घाट",
+          "description": "Holy riverbank steps filled with temples and incense vendors."
+        }
+      ],
+      "landmarks": [
+        {
+          "id": "nashik-market",
+          "districtId": "nashik-godavari",
+          "type": "market",
+          "name": "Grape Mandai",
+          "npcName": "Vineyard Farmer",
+          "icon": "🍇",
+          "dialogueId": null
+        }
+      ]
+    }
+  ]
+}

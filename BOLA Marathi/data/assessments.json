@@ -1,0 +1,3716 @@
+{
+  "moduleAssessments": [
+    {
+      "moduleId": "u1",
+      "flashcards": [
+        {
+          "id": "u1-fc-u1-l1-p1",
+          "front": "कमळ चिखलात उगवते.",
+          "back": "Lotus grows in mud.",
+          "transliteration": "Kamal chikhalaat ugavate."
+        },
+        {
+          "id": "u1-fc-u1-l1-p2",
+          "front": "बाळ खूप गोड हसले.",
+          "back": "The baby laughed very sweetly.",
+          "transliteration": "Baal khoop god hasale."
+        },
+        {
+          "id": "u1-fc-u1-l1-p3",
+          "front": "पाणी जीवन आहे.",
+          "back": "Water is life.",
+          "transliteration": "Paani jeevan aahe."
+        },
+        {
+          "id": "u1-fc-u1-l1-p4",
+          "front": "टिळक भारताचे थोर नेते होते.",
+          "back": "Tilak was a great leader of India.",
+          "transliteration": "Tilak bhaarataache thor nete hote."
+        },
+        {
+          "id": "u1-fc-u1-l1-p5",
+          "front": "घर स्वच्छ ठेवा.",
+          "back": "Keep the house clean.",
+          "transliteration": "Ghar swachha theva."
+        },
+        {
+          "id": "u1-fc-u1-l1-p6",
+          "front": "आंबा गोड फळ आहे.",
+          "back": "Mango is a sweet fruit.",
+          "transliteration": "Aamba god phal aahe."
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u1",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u1-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'Water is life.'",
+            "options": [
+              "कमळ चिखलात उगवते.",
+              "बाळ खूप गोड हसले.",
+              "पाणी जीवन आहे.",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'पाणी जीवन आहे.' means 'Water is life.'."
+          },
+          {
+            "id": "u1-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'कमळ चिखलात उगवते.'?",
+            "options": [
+              "Baal khoop god hasale.",
+              "Kamal chikhalaat ugavate.",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Kamal chikhalaat ugavate.'."
+          },
+          {
+            "id": "u1-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'बाळ खूप गोड हसले.'",
+            "options": [
+              "Lotus grows in mud.",
+              "The baby laughed very sweetly.",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'बाळ खूप गोड हसले.' translates to 'The baby laughed very sweetly.'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u1-l1": [
+          {
+            "id": "u1-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'कमळ चिखलात उगवते.'?",
+            "options": [
+              "Lotus grows in mud.",
+              "The baby laughed very sweetly.",
+              "Water is life.",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'कमळ चिखलात उगवते.' translates to 'Lotus grows in mud.'."
+          },
+          {
+            "id": "u1-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'The baby laughed very sweetly.'?",
+            "options": [
+              "कमळ चिखलात उगवते.",
+              "बाळ खूप गोड हसले.",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'बाळ खूप गोड हसले.' means 'The baby laughed very sweetly.'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u2",
+      "flashcards": [
+        {
+          "id": "u2-fc-u2-l1-p1",
+          "front": "नमस्कार, कसे आहात?",
+          "back": "Hello, how are you?",
+          "transliteration": "Namaskaar, kase aahaat?"
+        },
+        {
+          "id": "u2-fc-u2-l1-p2",
+          "front": "मी ठीक आहे, धन्यवाद.",
+          "back": "I am fine, thank you.",
+          "transliteration": "Mee theek aahe, dhanyavaad."
+        },
+        {
+          "id": "u2-fc-u2-l1-p3",
+          "front": "तुम्चे नाव काय आहे?",
+          "back": "What is your name?",
+          "transliteration": "Tumche naav kaay aahe?"
+        },
+        {
+          "id": "u2-fc-u2-l1-p4",
+          "front": "माझे नाव राहुल आहे.",
+          "back": "My name is Rahul.",
+          "transliteration": "Maaje naav Rahul aahe."
+        },
+        {
+          "id": "u2-fc-u2-l1-p5",
+          "front": "पुन्हा भेटूया!",
+          "back": "Meet you again!",
+          "transliteration": "Punhaa bhetooya!"
+        },
+        {
+          "id": "u2-fc-u2-l1-p6",
+          "front": "मी निघतो आता, बाय.",
+          "back": "I am leaving now, bye.",
+          "transliteration": "Mee nighto aata, bye."
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u2",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u2-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'What is your name?'",
+            "options": [
+              "नमस्कार, कसे आहात?",
+              "मी ठीक आहे, धन्यवाद.",
+              "तुम्चे नाव काय आहे?",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'तुम्चे नाव काय आहे?' means 'What is your name?'."
+          },
+          {
+            "id": "u2-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'नमस्कार, कसे आहात?'?",
+            "options": [
+              "Mee theek aahe, dhanyavaad.",
+              "Namaskaar, kase aahaat?",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Namaskaar, kase aahaat?'."
+          },
+          {
+            "id": "u2-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'मी ठीक आहे, धन्यवाद.'",
+            "options": [
+              "Hello, how are you?",
+              "I am fine, thank you.",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'मी ठीक आहे, धन्यवाद.' translates to 'I am fine, thank you.'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u2-l1": [
+          {
+            "id": "u2-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'नमस्कार, कसे आहात?'?",
+            "options": [
+              "Hello, how are you?",
+              "I am fine, thank you.",
+              "What is your name?",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'नमस्कार, कसे आहात?' translates to 'Hello, how are you?'."
+          },
+          {
+            "id": "u2-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'I am fine, thank you.'?",
+            "options": [
+              "नमस्कार, कसे आहात?",
+              "मी ठीक आहे, धन्यवाद.",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'मी ठीक आहे, धन्यवाद.' means 'I am fine, thank you.'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u3",
+      "flashcards": [
+        {
+          "id": "u3-fc-u3-l1-p1",
+          "front": "एक, दोन, तीन, चार, पाच.",
+          "back": "One, two, three, four, five.",
+          "transliteration": "Ek, don, teen, chaar, paach."
+        },
+        {
+          "id": "u3-fc-u3-l1-p2",
+          "front": "सहा, सात, आठ, नऊ, दहा.",
+          "back": "Six, seven, eight, nine, ten.",
+          "transliteration": "Saha, saat, aath, nau, daha."
+        },
+        {
+          "id": "u3-fc-u3-l1-p3",
+          "front": "आता किती वाजले आहेत?",
+          "back": "What time is it now?",
+          "transliteration": "Aata kitee vaajale aaheet?"
+        },
+        {
+          "id": "u3-fc-u3-l1-p4",
+          "front": "दोन वाजून दहा मिनिटे झाली.",
+          "back": "It is 2:10.",
+          "transliteration": "Don vaajoon dahaa minite zalee."
+        },
+        {
+          "id": "u3-fc-u3-l1-p5",
+          "front": "आज सोमवार आहे.",
+          "back": "Today is Monday.",
+          "transliteration": "Aaj somvaar aahe."
+        },
+        {
+          "id": "u3-fc-u3-l1-p6",
+          "front": "उद्या रविवार आहे, सुट्टी आहे.",
+          "back": "Tomorrow is Sunday, a holiday.",
+          "transliteration": "Udya ravivaar aahe, suttee aahe."
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u3",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u3-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'What time is it now?'",
+            "options": [
+              "एक, दोन, तीन, चार, पाच.",
+              "सहा, सात, आठ, नऊ, दहा.",
+              "आता किती वाजले आहेत?",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'आता किती वाजले आहेत?' means 'What time is it now?'."
+          },
+          {
+            "id": "u3-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'एक, दोन, तीन, चार, पाच.'?",
+            "options": [
+              "Saha, saat, aath, nau, daha.",
+              "Ek, don, teen, chaar, paach.",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Ek, don, teen, chaar, paach.'."
+          },
+          {
+            "id": "u3-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'सहा, सात, आठ, नऊ, दहा.'",
+            "options": [
+              "One, two, three, four, five.",
+              "Six, seven, eight, nine, ten.",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'सहा, सात, आठ, नऊ, दहा.' translates to 'Six, seven, eight, nine, ten.'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u3-l1": [
+          {
+            "id": "u3-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'एक, दोन, तीन, चार, पाच.'?",
+            "options": [
+              "One, two, three, four, five.",
+              "Six, seven, eight, nine, ten.",
+              "What time is it now?",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'एक, दोन, तीन, चार, पाच.' translates to 'One, two, three, four, five.'."
+          },
+          {
+            "id": "u3-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'Six, seven, eight, nine, ten.'?",
+            "options": [
+              "एक, दोन, तीन, चार, पाच.",
+              "सहा, सात, आठ, नऊ, दहा.",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'सहा, सात, आठ, नऊ, दहा.' means 'Six, seven, eight, nine, ten.'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u4",
+      "flashcards": [
+        {
+          "id": "u4-fc-u4-l1-p1",
+          "front": "मी अमेरिकेचा आहे.",
+          "back": "I am from America.",
+          "transliteration": "Mee amerikecha aahe."
+        },
+        {
+          "id": "u4-fc-u4-l1-p2",
+          "front": "तुम्ही कुठे राहता?",
+          "back": "Where do you live?",
+          "transliteration": "Tumhi kuthe raahata?"
+        },
+        {
+          "id": "u4-fc-u4-l1-p3",
+          "front": "मी पुण्यात राहतो.",
+          "back": "I live in Pune.",
+          "transliteration": "Mee punyaat raahato."
+        },
+        {
+          "id": "u4-fc-u4-l1-p4",
+          "front": "हे माझे मित्र आहेत.",
+          "back": "These are my friends.",
+          "transliteration": "He maajhe mitra aaheet."
+        },
+        {
+          "id": "u4-fc-u4-l1-p5",
+          "front": "तुम्हाला भेटून आनंद झाला.",
+          "back": "Nice to meet you.",
+          "transliteration": "Tumhaala bhetoon aanand zalaa."
+        },
+        {
+          "id": "u4-fc-u4-l1-p6",
+          "front": "माझे वय पंचवीस वर्षे आहे.",
+          "back": "My age is 25 years.",
+          "transliteration": "Maajhe vay panchvees varshe aahe."
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u4",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u4-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'I live in Pune.'",
+            "options": [
+              "मी अमेरिकेचा आहे.",
+              "तुम्ही कुठे राहता?",
+              "मी पुण्यात राहतो.",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'मी पुण्यात राहतो.' means 'I live in Pune.'."
+          },
+          {
+            "id": "u4-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'मी अमेरिकेचा आहे.'?",
+            "options": [
+              "Tumhi kuthe raahata?",
+              "Mee amerikecha aahe.",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Mee amerikecha aahe.'."
+          },
+          {
+            "id": "u4-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'तुम्ही कुठे राहता?'",
+            "options": [
+              "I am from America.",
+              "Where do you live?",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'तुम्ही कुठे राहता?' translates to 'Where do you live?'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u4-l1": [
+          {
+            "id": "u4-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'मी अमेरिकेचा आहे.'?",
+            "options": [
+              "I am from America.",
+              "Where do you live?",
+              "I live in Pune.",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'मी अमेरिकेचा आहे.' translates to 'I am from America.'."
+          },
+          {
+            "id": "u4-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'Where do you live?'?",
+            "options": [
+              "मी अमेरिकेचा आहे.",
+              "तुम्ही कुठे राहता?",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'तुम्ही कुठे राहता?' means 'Where do you live?'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u5",
+      "flashcards": [
+        {
+          "id": "u5-fc-u5-l1-p1",
+          "front": "हे माझे घर आहे.",
+          "back": "This is my house.",
+          "transliteration": "He maajhe ghar aahe."
+        },
+        {
+          "id": "u5-fc-u5-l1-p2",
+          "front": "माझ्या कुटुंबात पाच लोक आहेत.",
+          "back": "There are 5 people in my family.",
+          "transliteration": "Maajhya kutumbaat paach lok aaheet."
+        },
+        {
+          "id": "u5-fc-u5-l1-p3",
+          "front": "माझी आई शिक्षिका आहे.",
+          "back": "My mother is a teacher.",
+          "transliteration": "Maajhi aai shikshika aahe."
+        },
+        {
+          "id": "u5-fc-u5-l1-p4",
+          "front": "माझे वडील डॉक्टर आहेत.",
+          "back": "My father is a doctor.",
+          "transliteration": "Maajhe vadeel doctor aaheet."
+        },
+        {
+          "id": "u5-fc-u5-l1-p5",
+          "front": "मला एक लहान बहीण आहे.",
+          "back": "I have a younger sister.",
+          "transliteration": "Malaa ek lahaan baheen aahe."
+        },
+        {
+          "id": "u5-fc-u5-l1-p6",
+          "front": "स्वयंपाकघर कुठे आहे?",
+          "back": "Where is the kitchen?",
+          "transliteration": "Swayampaakghar kuthe aahe?"
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u5",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u5-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'My mother is a teacher.'",
+            "options": [
+              "हे माझे घर आहे.",
+              "माझ्या कुटुंबात पाच लोक आहेत.",
+              "माझी आई शिक्षिका आहे.",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'माझी आई शिक्षिका आहे.' means 'My mother is a teacher.'."
+          },
+          {
+            "id": "u5-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'हे माझे घर आहे.'?",
+            "options": [
+              "Maajhya kutumbaat paach lok aaheet.",
+              "He maajhe ghar aahe.",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'He maajhe ghar aahe.'."
+          },
+          {
+            "id": "u5-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'माझ्या कुटुंबात पाच लोक आहेत.'",
+            "options": [
+              "This is my house.",
+              "There are 5 people in my family.",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'माझ्या कुटुंबात पाच लोक आहेत.' translates to 'There are 5 people in my family.'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u5-l1": [
+          {
+            "id": "u5-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'हे माझे घर आहे.'?",
+            "options": [
+              "This is my house.",
+              "There are 5 people in my family.",
+              "My mother is a teacher.",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'हे माझे घर आहे.' translates to 'This is my house.'."
+          },
+          {
+            "id": "u5-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'There are 5 people in my family.'?",
+            "options": [
+              "हे माझे घर आहे.",
+              "माझ्या कुटुंबात पाच लोक आहेत.",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'माझ्या कुटुंबात पाच लोक आहेत.' means 'There are 5 people in my family.'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u6",
+      "flashcards": [
+        {
+          "id": "u6-fc-u6-l1-p1",
+          "front": "मला खूप भूक लागली आहे.",
+          "back": "I am very hungry.",
+          "transliteration": "Malaa khoop bhook laagalee aahe."
+        },
+        {
+          "id": "u6-fc-u6-l1-p2",
+          "front": "तुम्ही काय खाणार?",
+          "back": "What will you eat?",
+          "transliteration": "Tumhi kaay khaanaar?"
+        },
+        {
+          "id": "u6-fc-u6-l1-p3",
+          "front": "एक कप गरम चहा द्या.",
+          "back": "Give a cup of hot tea.",
+          "transliteration": "Ek kap garam chahaa dyaa."
+        },
+        {
+          "id": "u6-fc-u6-l1-p4",
+          "front": "जेवण खूप चवदार होते!",
+          "back": "The food was very tasty!",
+          "transliteration": "Jevan khoop chavdaar hote!"
+        },
+        {
+          "id": "u6-fc-u6-l1-p5",
+          "front": "हे पाणी पिण्यायोग्य आहे का?",
+          "back": "Is this water drinkable?",
+          "transliteration": "He paani pinyaayogya aahe ka?"
+        },
+        {
+          "id": "u6-fc-u6-l1-p6",
+          "front": "कृपया बिल घेऊन या.",
+          "back": "Please bring the bill.",
+          "transliteration": "Krupayaa bill gheoon yaa."
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u6",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u6-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'Give a cup of hot tea.'",
+            "options": [
+              "मला खूप भूक लागली आहे.",
+              "तुम्ही काय खाणार?",
+              "एक कप गरम चहा द्या.",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'एक कप गरम चहा द्या.' means 'Give a cup of hot tea.'."
+          },
+          {
+            "id": "u6-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'मला खूप भूक लागली आहे.'?",
+            "options": [
+              "Tumhi kaay khaanaar?",
+              "Malaa khoop bhook laagalee aahe.",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Malaa khoop bhook laagalee aahe.'."
+          },
+          {
+            "id": "u6-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'तुम्ही काय खाणार?'",
+            "options": [
+              "I am very hungry.",
+              "What will you eat?",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'तुम्ही काय खाणार?' translates to 'What will you eat?'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u6-l1": [
+          {
+            "id": "u6-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'मला खूप भूक लागली आहे.'?",
+            "options": [
+              "I am very hungry.",
+              "What will you eat?",
+              "Give a cup of hot tea.",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'मला खूप भूक लागली आहे.' translates to 'I am very hungry.'."
+          },
+          {
+            "id": "u6-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'What will you eat?'?",
+            "options": [
+              "मला खूप भूक लागली आहे.",
+              "तुम्ही काय खाणार?",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'तुम्ही काय खाणार?' means 'What will you eat?'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u7",
+      "flashcards": [
+        {
+          "id": "u7-fc-u7-l1-p1",
+          "front": "या पुस्तकाची किंमत किती आहे?",
+          "back": "How much does this book cost?",
+          "transliteration": "Yaa pustakaachee kimmat kitee aahe?"
+        },
+        {
+          "id": "u7-fc-u7-l1-p2",
+          "front": "हे खूप महाग आहे!",
+          "back": "This is very expensive!",
+          "transliteration": "He khoop mahaag aahe!"
+        },
+        {
+          "id": "u7-fc-u7-l1-p3",
+          "front": "काहीतरी डिस्काउंट द्या ना.",
+          "back": "Give some discount please.",
+          "transliteration": "Kaahitaree discount dyaa naa."
+        },
+        {
+          "id": "u7-fc-u7-l1-p4",
+          "front": "मला हे शर्ट आवडले आहे.",
+          "back": "I like this shirt.",
+          "transliteration": "Malaa he shirt aavadale aahe."
+        },
+        {
+          "id": "u7-fc-u7-l1-p5",
+          "front": "तुमच्याकडे दुसरी साईझ आहे का?",
+          "back": "Do you have another size?",
+          "transliteration": "Tumchyaakade doosree size aahe ka?"
+        },
+        {
+          "id": "u7-fc-u7-l1-p6",
+          "front": "मी गुगल पे करू शकतो का?",
+          "back": "Can I Google Pay?",
+          "transliteration": "Mee Google Pay karoo shakato ka?"
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u7",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u7-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'Give some discount please.'",
+            "options": [
+              "या पुस्तकाची किंमत किती आहे?",
+              "हे खूप महाग आहे!",
+              "काहीतरी डिस्काउंट द्या ना.",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'काहीतरी डिस्काउंट द्या ना.' means 'Give some discount please.'."
+          },
+          {
+            "id": "u7-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'या पुस्तकाची किंमत किती आहे?'?",
+            "options": [
+              "He khoop mahaag aahe!",
+              "Yaa pustakaachee kimmat kitee aahe?",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Yaa pustakaachee kimmat kitee aahe?'."
+          },
+          {
+            "id": "u7-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'हे खूप महाग आहे!'",
+            "options": [
+              "How much does this book cost?",
+              "This is very expensive!",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'हे खूप महाग आहे!' translates to 'This is very expensive!'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u7-l1": [
+          {
+            "id": "u7-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'या पुस्तकाची किंमत किती आहे?'?",
+            "options": [
+              "How much does this book cost?",
+              "This is very expensive!",
+              "Give some discount please.",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'या पुस्तकाची किंमत किती आहे?' translates to 'How much does this book cost?'."
+          },
+          {
+            "id": "u7-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'This is very expensive!'?",
+            "options": [
+              "या पुस्तकाची किंमत किती आहे?",
+              "हे खूप महाग आहे!",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'हे खूप महाग आहे!' means 'This is very expensive!'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u8",
+      "flashcards": [
+        {
+          "id": "u8-fc-u8-l1-p1",
+          "front": "मी रोज सकाळी लवकर उठतो.",
+          "back": "I get up early every morning (m).",
+          "transliteration": "Mee roj sakaalee lavakar uthato."
+        },
+        {
+          "id": "u8-fc-u8-l1-p2",
+          "front": "ती खूप सुंदर गाते.",
+          "back": "She sings very beautifully.",
+          "transliteration": "Tee khoop sundar gaate."
+        },
+        {
+          "id": "u8-fc-u8-l1-p3",
+          "front": "आम्ही मराठी शिकतो.",
+          "back": "We learn Marathi.",
+          "transliteration": "Aamhi marathi shikato."
+        },
+        {
+          "id": "u8-fc-u8-l1-p4",
+          "front": "तुम्हाला काय पाहिजे?",
+          "back": "What do you want?",
+          "transliteration": "Tumhaala kaay paahije?"
+        },
+        {
+          "id": "u8-fc-u8-l1-p5",
+          "front": "तो रोज ऑफिसला जातो.",
+          "back": "He goes to the office daily.",
+          "transliteration": "To roj officela jaato."
+        },
+        {
+          "id": "u8-fc-u8-l1-p6",
+          "front": "मुले मैदानावर खेळतात.",
+          "back": "Children play on the ground.",
+          "transliteration": "Mule maidaanaavar khelataat."
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u8",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u8-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'We learn Marathi.'",
+            "options": [
+              "मी रोज सकाळी लवकर उठतो.",
+              "ती खूप सुंदर गाते.",
+              "आम्ही मराठी शिकतो.",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'आम्ही मराठी शिकतो.' means 'We learn Marathi.'."
+          },
+          {
+            "id": "u8-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'मी रोज सकाळी लवकर उठतो.'?",
+            "options": [
+              "Tee khoop sundar gaate.",
+              "Mee roj sakaalee lavakar uthato.",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Mee roj sakaalee lavakar uthato.'."
+          },
+          {
+            "id": "u8-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'ती खूप सुंदर गाते.'",
+            "options": [
+              "I get up early every morning (m).",
+              "She sings very beautifully.",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'ती खूप सुंदर गाते.' translates to 'She sings very beautifully.'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u8-l1": [
+          {
+            "id": "u8-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'मी रोज सकाळी लवकर उठतो.'?",
+            "options": [
+              "I get up early every morning (m).",
+              "She sings very beautifully.",
+              "We learn Marathi.",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'मी रोज सकाळी लवकर उठतो.' translates to 'I get up early every morning (m).'."
+          },
+          {
+            "id": "u8-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'She sings very beautifully.'?",
+            "options": [
+              "मी रोज सकाळी लवकर उठतो.",
+              "ती खूप सुंदर गाते.",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'ती खूप सुंदर गाते.' means 'She sings very beautifully.'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u9",
+      "flashcards": [
+        {
+          "id": "u9-fc-u9-l1-p1",
+          "front": "माझे डोके खूप दुखत आहे.",
+          "back": "My head hurts a lot.",
+          "transliteration": "Maajhe doke khoop dukhat aahe."
+        },
+        {
+          "id": "u9-fc-u9-l1-p2",
+          "front": "मला आज ताप आला आहे.",
+          "back": "I have a fever today.",
+          "transliteration": "Mala aaj taap aalaa aahe."
+        },
+        {
+          "id": "u9-fc-u9-l1-p3",
+          "front": "जवळचा दवाखाना कुठे आहे?",
+          "back": "Where is the nearby clinic?",
+          "transliteration": "Javalchaa davaakhaana kuthe aahe?"
+        },
+        {
+          "id": "u9-fc-u9-l1-p4",
+          "front": "मला थकल्यासारखे वाटत आहे.",
+          "back": "I feel tired.",
+          "transliteration": "Malaa thakalyasaarkhe vaatat aahe."
+        },
+        {
+          "id": "u9-fc-u9-l1-p5",
+          "front": "काळजी करू नका, सर्व ठीक होईल.",
+          "back": "Don't worry, everything will be fine.",
+          "transliteration": "Kaalaji karoo nakaa, sarva theek hoeel."
+        },
+        {
+          "id": "u9-fc-u9-l1-p6",
+          "front": "हे औषध जेवणानंतर घ्या.",
+          "back": "Take this medicine after meals.",
+          "transliteration": "He aushadh jevanaanantar ghyaa."
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u9",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u9-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'Where is the nearby clinic?'",
+            "options": [
+              "माझे डोके खूप दुखत आहे.",
+              "मला आज ताप आला आहे.",
+              "जवळचा दवाखाना कुठे आहे?",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'जवळचा दवाखाना कुठे आहे?' means 'Where is the nearby clinic?'."
+          },
+          {
+            "id": "u9-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'माझे डोके खूप दुखत आहे.'?",
+            "options": [
+              "Mala aaj taap aalaa aahe.",
+              "Maajhe doke khoop dukhat aahe.",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Maajhe doke khoop dukhat aahe.'."
+          },
+          {
+            "id": "u9-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'मला आज ताप आला आहे.'",
+            "options": [
+              "My head hurts a lot.",
+              "I have a fever today.",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'मला आज ताप आला आहे.' translates to 'I have a fever today.'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u9-l1": [
+          {
+            "id": "u9-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'माझे डोके खूप दुखत आहे.'?",
+            "options": [
+              "My head hurts a lot.",
+              "I have a fever today.",
+              "Where is the nearby clinic?",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'माझे डोके खूप दुखत आहे.' translates to 'My head hurts a lot.'."
+          },
+          {
+            "id": "u9-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'I have a fever today.'?",
+            "options": [
+              "माझे डोके खूप दुखत आहे.",
+              "मला आज ताप आला आहे.",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'मला आज ताप आला आहे.' means 'I have a fever today.'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u10",
+      "flashcards": [
+        {
+          "id": "u10-fc-u10-l1-p1",
+          "front": "डावीकडे वळा आणि सरळ जा.",
+          "back": "Turn left and go straight.",
+          "transliteration": "Daaveekade valaa aani saral jaa."
+        },
+        {
+          "id": "u10-fc-u10-l1-p2",
+          "front": "रेल्वे स्टेशन येथून लांब आहे का?",
+          "back": "Is the railway station far from here?",
+          "transliteration": "Railway station yethoon laamb aahe ka?"
+        },
+        {
+          "id": "u10-fc-u10-l1-p3",
+          "front": "मंदिर उजव्या बाजूला आहे.",
+          "back": "The temple is on the right side.",
+          "transliteration": "Mandir ujavyaa baajoolaa aahe."
+        },
+        {
+          "id": "u10-fc-u10-l1-p4",
+          "front": "रस्ता पार करताना काळजी घ्या.",
+          "back": "Take care while crossing the road.",
+          "transliteration": "Rastaa paar karataanaa kaalaji ghyaa."
+        },
+        {
+          "id": "u10-fc-u10-l1-p5",
+          "front": "पुलाखालून जावे लागेल का?",
+          "back": "Do we need to go under the bridge?",
+          "transliteration": "Pulaakhaaloona jaave laagela ka?"
+        },
+        {
+          "id": "u10-fc-u10-l1-p6",
+          "front": "हे खूप जवळ आहे, चालत जाऊ शकता.",
+          "back": "This is very near, you can walk.",
+          "transliteration": "He khoop javal aahe, chaalat jaaoo shakata. "
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u10",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u10-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'The temple is on the right side.'",
+            "options": [
+              "डावीकडे वळा आणि सरळ जा.",
+              "रेल्वे स्टेशन येथून लांब आहे का?",
+              "मंदिर उजव्या बाजूला आहे.",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'मंदिर उजव्या बाजूला आहे.' means 'The temple is on the right side.'."
+          },
+          {
+            "id": "u10-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'डावीकडे वळा आणि सरळ जा.'?",
+            "options": [
+              "Railway station yethoon laamb aahe ka?",
+              "Daaveekade valaa aani saral jaa.",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Daaveekade valaa aani saral jaa.'."
+          },
+          {
+            "id": "u10-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'रेल्वे स्टेशन येथून लांब आहे का?'",
+            "options": [
+              "Turn left and go straight.",
+              "Is the railway station far from here?",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'रेल्वे स्टेशन येथून लांब आहे का?' translates to 'Is the railway station far from here?'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u10-l1": [
+          {
+            "id": "u10-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'डावीकडे वळा आणि सरळ जा.'?",
+            "options": [
+              "Turn left and go straight.",
+              "Is the railway station far from here?",
+              "The temple is on the right side.",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'डावीकडे वळा आणि सरळ जा.' translates to 'Turn left and go straight.'."
+          },
+          {
+            "id": "u10-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'Is the railway station far from here?'?",
+            "options": [
+              "डावीकडे वळा आणि सरळ जा.",
+              "रेल्वे स्टेशन येथून लांब आहे का?",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'रेल्वे स्टेशन येथून लांब आहे का?' means 'Is the railway station far from here?'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u11",
+      "flashcards": [
+        {
+          "id": "u11-fc-u11-l1-p1",
+          "front": "ऑटोचे भाडे किती होईल?",
+          "back": "How much will the auto fare be?",
+          "transliteration": "Autoche bhaade kitee hoeel?"
+        },
+        {
+          "id": "u11-fc-u11-l1-p2",
+          "front": "बस कधी सुटणार आहे?",
+          "back": "When will the bus leave?",
+          "transliteration": "Bus kadhee sutanaar aahe?"
+        },
+        {
+          "id": "u11-fc-u11-l1-p3",
+          "front": "मला रेल्वेचे तिकीट पाहिजे.",
+          "back": "I want a train ticket.",
+          "transliteration": "Malaa railwayche ticket paahije."
+        },
+        {
+          "id": "u11-fc-u11-l1-p4",
+          "front": "कृपया गाडी इथे थांबवा.",
+          "back": "Please stop the vehicle here.",
+          "transliteration": "Krupayaa gaadee ithe thaambavaa."
+        },
+        {
+          "id": "u11-fc-u11-l1-p5",
+          "front": "पुण्याची बस कुठून मिळते?",
+          "back": "Where do we get the bus to Pune?",
+          "transliteration": "Punyachee bus kuthoon milate?"
+        },
+        {
+          "id": "u11-fc-u11-l1-p6",
+          "front": "या जागेवर कोणी बसले आहे का?",
+          "back": "Is anyone sitting on this seat?",
+          "transliteration": "Yaa jaagevar konee basale aahe ka?"
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u11",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u11-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'I want a train ticket.'",
+            "options": [
+              "ऑटोचे भाडे किती होईल?",
+              "बस कधी सुटणार आहे?",
+              "मला रेल्वेचे तिकीट पाहिजे.",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'मला रेल्वेचे तिकीट पाहिजे.' means 'I want a train ticket.'."
+          },
+          {
+            "id": "u11-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'ऑटोचे भाडे किती होईल?'?",
+            "options": [
+              "Bus kadhee sutanaar aahe?",
+              "Autoche bhaade kitee hoeel?",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Autoche bhaade kitee hoeel?'."
+          },
+          {
+            "id": "u11-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'बस कधी सुटणार आहे?'",
+            "options": [
+              "How much will the auto fare be?",
+              "When will the bus leave?",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'बस कधी सुटणार आहे?' translates to 'When will the bus leave?'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u11-l1": [
+          {
+            "id": "u11-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'ऑटोचे भाडे किती होईल?'?",
+            "options": [
+              "How much will the auto fare be?",
+              "When will the bus leave?",
+              "I want a train ticket.",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'ऑटोचे भाडे किती होईल?' translates to 'How much will the auto fare be?'."
+          },
+          {
+            "id": "u11-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'When will the bus leave?'?",
+            "options": [
+              "ऑटोचे भाडे किती होईल?",
+              "बस कधी सुटणार आहे?",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'बस कधी सुटणार आहे?' means 'When will the bus leave?'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u12",
+      "flashcards": [
+        {
+          "id": "u12-fc-u12-l1-p1",
+          "front": "मी काल चित्रपट पाहिला.",
+          "back": "I watched a movie yesterday.",
+          "transliteration": "Mee kaal chitrapat paahila."
+        },
+        {
+          "id": "u12-fc-u12-l1-p2",
+          "front": "त्यांनी खूप छान जेवण केले.",
+          "back": "They had a very nice meal.",
+          "transliteration": "Tyaanni khoop thaan jevan kele."
+        },
+        {
+          "id": "u12-fc-u12-l1-p3",
+          "front": "आम्ही मागच्या वर्षी मुंबईला गेलो होतो.",
+          "back": "We went to Mumbai last year.",
+          "transliteration": "Aamhi maagchya varshee Mumbaila gelo hoto."
+        },
+        {
+          "id": "u12-fc-u12-l1-p4",
+          "front": "तिने पत्र लिहिले का?",
+          "back": "Did she write a letter?",
+          "transliteration": "Tine patra lihile ka?"
+        },
+        {
+          "id": "u12-fc-u12-l1-p5",
+          "front": "काल रात्री पाऊस पडला.",
+          "back": "It rained last night.",
+          "transliteration": "Kaal raatri paaoos padla."
+        },
+        {
+          "id": "u12-fc-u12-l1-p6",
+          "front": "तुम्ही त्याला कधी भेटलात?",
+          "back": "When did you meet him?",
+          "transliteration": "Tumhi tyaalaa kadhee bhetalaat?"
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u12",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u12-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'We went to Mumbai last year.'",
+            "options": [
+              "मी काल चित्रपट पाहिला.",
+              "त्यांनी खूप छान जेवण केले.",
+              "आम्ही मागच्या वर्षी मुंबईला गेलो होतो.",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'आम्ही मागच्या वर्षी मुंबईला गेलो होतो.' means 'We went to Mumbai last year.'."
+          },
+          {
+            "id": "u12-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'मी काल चित्रपट पाहिला.'?",
+            "options": [
+              "Tyaanni khoop thaan jevan kele.",
+              "Mee kaal chitrapat paahila.",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Mee kaal chitrapat paahila.'."
+          },
+          {
+            "id": "u12-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'त्यांनी खूप छान जेवण केले.'",
+            "options": [
+              "I watched a movie yesterday.",
+              "They had a very nice meal.",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'त्यांनी खूप छान जेवण केले.' translates to 'They had a very nice meal.'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u12-l1": [
+          {
+            "id": "u12-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'मी काल चित्रपट पाहिला.'?",
+            "options": [
+              "I watched a movie yesterday.",
+              "They had a very nice meal.",
+              "We went to Mumbai last year.",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'मी काल चित्रपट पाहिला.' translates to 'I watched a movie yesterday.'."
+          },
+          {
+            "id": "u12-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'They had a very nice meal.'?",
+            "options": [
+              "मी काल चित्रपट पाहिला.",
+              "त्यांनी खूप छान जेवण केले.",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'त्यांनी खूप छान जेवण केले.' means 'They had a very nice meal.'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u13",
+      "flashcards": [
+        {
+          "id": "u13-fc-u13-l1-p1",
+          "front": "मी उद्या मुंबईला जाईन.",
+          "back": "I will go to Mumbai tomorrow.",
+          "transliteration": "Mee udya Mumbaila jaaeen."
+        },
+        {
+          "id": "u13-fc-u13-l1-p2",
+          "front": "आम्ही पुढील आठवड्यात भेटूया.",
+          "back": "We will meet next week.",
+          "transliteration": "Aamhi pudheel aathavdyaat bhetooya."
+        },
+        {
+          "id": "u13-fc-u13-l1-p3",
+          "front": "तू नवीन गाडी कधी खरेदी करणार?",
+          "back": "When will you buy a new car?",
+          "transliteration": "Too naveen gaadee kadhee kharedi karanaar?"
+        },
+        {
+          "id": "u13-fc-u13-l1-p4",
+          "front": "तो संध्याकाळी...",
+          "back": "He will call in the evening.",
+          "transliteration": "To sandhyaakaalee phone kareel."
+        },
+        {
+          "id": "u13-fc-u13-l1-p5",
+          "front": "तो संध्याकाळी फोन करेल.",
+          "back": "He will call in the evening.",
+          "transliteration": "To sandhyaakaalee phone kareel."
+        },
+        {
+          "id": "u13-fc-u13-l1-p6",
+          "front": "तुम्ही रविवारी काय करणार आहात?",
+          "back": "What are you going to do on Sunday?",
+          "transliteration": "Tumhi ravivaaree kaay karanaar aahaat?"
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u13",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u13-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'When will you buy a new car?'",
+            "options": [
+              "मी उद्या मुंबईला जाईन.",
+              "आम्ही पुढील आठवड्यात भेटूया.",
+              "तू नवीन गाडी कधी खरेदी करणार?",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'तू नवीन गाडी कधी खरेदी करणार?' means 'When will you buy a new car?'."
+          },
+          {
+            "id": "u13-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'मी उद्या मुंबईला जाईन.'?",
+            "options": [
+              "Aamhi pudheel aathavdyaat bhetooya.",
+              "Mee udya Mumbaila jaaeen.",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Mee udya Mumbaila jaaeen.'."
+          },
+          {
+            "id": "u13-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'आम्ही पुढील आठवड्यात भेटूया.'",
+            "options": [
+              "I will go to Mumbai tomorrow.",
+              "We will meet next week.",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'आम्ही पुढील आठवड्यात भेटूया.' translates to 'We will meet next week.'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u13-l1": [
+          {
+            "id": "u13-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'मी उद्या मुंबईला जाईन.'?",
+            "options": [
+              "I will go to Mumbai tomorrow.",
+              "We will meet next week.",
+              "When will you buy a new car?",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'मी उद्या मुंबईला जाईन.' translates to 'I will go to Mumbai tomorrow.'."
+          },
+          {
+            "id": "u13-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'We will meet next week.'?",
+            "options": [
+              "मी उद्या मुंबईला जाईन.",
+              "आम्ही पुढील आठवड्यात भेटूया.",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'आम्ही पुढील आठवड्यात भेटूया.' means 'We will meet next week.'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u14",
+      "flashcards": [
+        {
+          "id": "u14-fc-u14-l1-p1",
+          "front": "कृपया मला मदत करा.",
+          "back": "Please help me.",
+          "transliteration": "Krupayaa malaa madat kara."
+        },
+        {
+          "id": "u14-fc-u14-l1-p2",
+          "front": "मला समजत नाही आहे, हळू बोला.",
+          "back": "I don't understand, speak slowly.",
+          "transliteration": "Malaa samajat naahi aahe, haloo bola."
+        },
+        {
+          "id": "u14-fc-u14-l1-p3",
+          "front": "तुम्ही पुन्हा सांगू शकता का?",
+          "back": "Can you say that again?",
+          "transliteration": "Tumhi punhaa saangoo shakata ka?"
+        },
+        {
+          "id": "u14-fc-u14-l1-p4",
+          "front": "क्षमस्व, मला उशीर झाला.",
+          "back": "Sorry, I am late.",
+          "transliteration": "Kshamasva, malaa usheer zalaa."
+        },
+        {
+          "id": "u14-fc-u14-l1-p5",
+          "front": "इंग्रजीत याला काय म्हणतात?",
+          "back": "What is this called in English?",
+          "transliteration": "English-t yaala kaay mhanataat?"
+        },
+        {
+          "id": "u14-fc-u14-l1-p6",
+          "front": "माहिती दिल्याबद्दल धन्यवाद.",
+          "back": "Thank you for the information.",
+          "transliteration": "Maahitee dilyabaddal dhanyavaad."
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u14",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u14-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'Can you say that again?'",
+            "options": [
+              "कृपया मला मदत करा.",
+              "मला समजत नाही आहे, हळू बोला.",
+              "तुम्ही पुन्हा सांगू शकता का?",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'तुम्ही पुन्हा सांगू शकता का?' means 'Can you say that again?'."
+          },
+          {
+            "id": "u14-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'कृपया मला मदत करा.'?",
+            "options": [
+              "Malaa samajat naahi aahe, haloo bola.",
+              "Krupayaa malaa madat kara.",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Krupayaa malaa madat kara.'."
+          },
+          {
+            "id": "u14-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'मला समजत नाही आहे, हळू बोला.'",
+            "options": [
+              "Please help me.",
+              "I don't understand, speak slowly.",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'मला समजत नाही आहे, हळू बोला.' translates to 'I don't understand, speak slowly.'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u14-l1": [
+          {
+            "id": "u14-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'कृपया मला मदत करा.'?",
+            "options": [
+              "Please help me.",
+              "I don't understand, speak slowly.",
+              "Can you say that again?",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'कृपया मला मदत करा.' translates to 'Please help me.'."
+          },
+          {
+            "id": "u14-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'I don't understand, speak slowly.'?",
+            "options": [
+              "कृपया मला मदत करा.",
+              "मला समजत नाही आहे, हळू बोला.",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'मला समजत नाही आहे, हळू बोला.' means 'I don't understand, speak slowly.'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u15",
+      "flashcards": [
+        {
+          "id": "u15-fc-u15-l1-p1",
+          "front": "दिवाळीच्या हार्दिक शुभेच्छा!",
+          "back": "Warm wishes for Diwali!",
+          "transliteration": "Diwaleechya haardik shubhechha!"
+        },
+        {
+          "id": "u15-fc-u15-l1-p2",
+          "front": "गणपती बाप्पा मोरया!",
+          "back": "Glory to Lord Ganesha!",
+          "transliteration": "Ganapati Bappa Morya!"
+        },
+        {
+          "id": "u15-fc-u15-l1-p3",
+          "front": "आज गुढीपाडवा आहे.",
+          "back": "Today is Gudi Padwa.",
+          "transliteration": "Aaj Gudipadwa aahe."
+        },
+        {
+          "id": "u15-fc-u15-l1-p4",
+          "front": "महाराष्ट्राची संस्कृती खूप समृद्ध आहे.",
+          "back": "The culture of Maharashtra is very rich.",
+          "transliteration": "Mahaaraashtraachee sanskrutee khoop samruddha aahe."
+        },
+        {
+          "id": "u15-fc-u15-l1-p5",
+          "front": "आम्ही मोदक बनवले आहेत.",
+          "back": "We have made Modaks.",
+          "transliteration": "Aamhi modak banavle aaheet."
+        },
+        {
+          "id": "u15-fc-u15-l1-p6",
+          "front": "पारंपारिक कपडे घालायला आवडतात.",
+          "back": "I like to wear traditional clothes.",
+          "transliteration": "Paarampareek kapade ghaalaaylaa aavadataat."
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u15",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u15-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'Today is Gudi Padwa.'",
+            "options": [
+              "दिवाळीच्या हार्दिक शुभेच्छा!",
+              "गणपती बाप्पा मोरया!",
+              "आज गुढीपाडवा आहे.",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'आज गुढीपाडवा आहे.' means 'Today is Gudi Padwa.'."
+          },
+          {
+            "id": "u15-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'दिवाळीच्या हार्दिक शुभेच्छा!'?",
+            "options": [
+              "Ganapati Bappa Morya!",
+              "Diwaleechya haardik shubhechha!",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Diwaleechya haardik shubhechha!'."
+          },
+          {
+            "id": "u15-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'गणपती बाप्पा मोरया!'",
+            "options": [
+              "Warm wishes for Diwali!",
+              "Glory to Lord Ganesha!",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'गणपती बाप्पा मोरया!' translates to 'Glory to Lord Ganesha!'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u15-l1": [
+          {
+            "id": "u15-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'दिवाळीच्या हार्दिक शुभेच्छा!'?",
+            "options": [
+              "Warm wishes for Diwali!",
+              "Glory to Lord Ganesha!",
+              "Today is Gudi Padwa.",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'दिवाळीच्या हार्दिक शुभेच्छा!' translates to 'Warm wishes for Diwali!'."
+          },
+          {
+            "id": "u15-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'Glory to Lord Ganesha!'?",
+            "options": [
+              "दिवाळीच्या हार्दिक शुभेच्छा!",
+              "गणपती बाप्पा मोरया!",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'गणपती बाप्पा मोरया!' means 'Glory to Lord Ganesha!'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u16",
+      "flashcards": [
+        {
+          "id": "u16-fc-u16-l1-p1",
+          "front": "आज खूप ऊन पडले आहे.",
+          "back": "It is very sunny today.",
+          "transliteration": "Aaj khoop oon padale aahe."
+        },
+        {
+          "id": "u16-fc-u16-l1-p2",
+          "front": "पाऊस पडण्याची शक्यता आहे.",
+          "back": "There is a possibility of rain.",
+          "transliteration": "Paaoos padanyachee shakyataa aahe."
+        },
+        {
+          "id": "u16-fc-u16-l1-p3",
+          "front": "हिवाळ्यात खूप थंडी असते.",
+          "back": "It is very cold in winter.",
+          "transliteration": "Hivaalyat khoop thandee asate."
+        },
+        {
+          "id": "u16-fc-u16-l1-p4",
+          "front": "हवामान खूप छान आहे.",
+          "back": "The weather is very nice.",
+          "transliteration": "Havaamaan khoop thaan aahe."
+        },
+        {
+          "id": "u16-fc-u16-l1-p5",
+          "front": "आकाशात काळे ढग आले आहेत.",
+          "back": "Dark clouds have gathered in the sky.",
+          "transliteration": "Aakaashaat kaale dhag aale aaheet."
+        },
+        {
+          "id": "u16-fc-u16-l1-p6",
+          "front": "उन्हाळ्यात आंबे खायला मिळतात.",
+          "back": "We get to eat mangoes in summer.",
+          "transliteration": "Unhaalyat aambe khaaylaa milataat."
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u16",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u16-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'It is very cold in winter.'",
+            "options": [
+              "आज खूप ऊन पडले आहे.",
+              "पाऊस पडण्याची शक्यता आहे.",
+              "हिवाळ्यात खूप थंडी असते.",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'हिवाळ्यात खूप थंडी असते.' means 'It is very cold in winter.'."
+          },
+          {
+            "id": "u16-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'आज खूप ऊन पडले आहे.'?",
+            "options": [
+              "Paaoos padanyachee shakyataa aahe.",
+              "Aaj khoop oon padale aahe.",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Aaj khoop oon padale aahe.'."
+          },
+          {
+            "id": "u16-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'पाऊस पडण्याची शक्यता आहे.'",
+            "options": [
+              "It is very sunny today.",
+              "There is a possibility of rain.",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'पाऊस पडण्याची शक्यता आहे.' translates to 'There is a possibility of rain.'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u16-l1": [
+          {
+            "id": "u16-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'आज खूप ऊन पडले आहे.'?",
+            "options": [
+              "It is very sunny today.",
+              "There is a possibility of rain.",
+              "It is very cold in winter.",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'आज खूप ऊन पडले आहे.' translates to 'It is very sunny today.'."
+          },
+          {
+            "id": "u16-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'There is a possibility of rain.'?",
+            "options": [
+              "आज खूप ऊन पडले आहे.",
+              "पाऊस पडण्याची शक्यता आहे.",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'पाऊस पडण्याची शक्यता आहे.' means 'There is a possibility of rain.'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u17",
+      "flashcards": [
+        {
+          "id": "u17-fc-u17-l1-p1",
+          "front": "तुम्ही कुठे काम करता?",
+          "back": "Where do you work?",
+          "transliteration": "Tumhi kuthe kaam karata?"
+        },
+        {
+          "id": "u17-fc-u17-l1-p2",
+          "front": "मी सॉफ्टवेअर इंजिनिअर आहे.",
+          "back": "I am a software engineer.",
+          "transliteration": "Mee software engineer aahe."
+        },
+        {
+          "id": "u17-fc-u17-l1-p3",
+          "front": "आमचे ऑफिस नऊ वाजता सुरू होते.",
+          "back": "Our office starts at 9 o'clock.",
+          "transliteration": "Aamche office nau vaajataa surooo hote."
+        },
+        {
+          "id": "u17-fc-u17-l1-p4",
+          "front": "माझे सहकारी खूप चांगले आहेत.",
+          "back": "My colleagues are very nice.",
+          "transliteration": "Maajhe sahakaaree khoop chaangle aaheet."
+        },
+        {
+          "id": "u17-fc-u17-l1-p5",
+          "front": "आज महत्त्वाची मिटिंग आहे.",
+          "back": "Today is an important meeting.",
+          "transliteration": "Aaj mahattvaachee meeting aahe."
+        },
+        {
+          "id": "u17-fc-u17-l1-p6",
+          "front": "मला सुट्टी हवी आहे.",
+          "back": "I want a holiday.",
+          "transliteration": "Malaa suttee havee aahe."
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u17",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u17-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'Our office starts at 9 o'clock.'",
+            "options": [
+              "तुम्ही कुठे काम करता?",
+              "मी सॉफ्टवेअर इंजिनिअर आहे.",
+              "आमचे ऑफिस नऊ वाजता सुरू होते.",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'आमचे ऑफिस नऊ वाजता सुरू होते.' means 'Our office starts at 9 o'clock.'."
+          },
+          {
+            "id": "u17-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'तुम्ही कुठे काम करता?'?",
+            "options": [
+              "Mee software engineer aahe.",
+              "Tumhi kuthe kaam karata?",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Tumhi kuthe kaam karata?'."
+          },
+          {
+            "id": "u17-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'मी सॉफ्टवेअर इंजिनिअर आहे.'",
+            "options": [
+              "Where do you work?",
+              "I am a software engineer.",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'मी सॉफ्टवेअर इंजिनिअर आहे.' translates to 'I am a software engineer.'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u17-l1": [
+          {
+            "id": "u17-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'तुम्ही कुठे काम करता?'?",
+            "options": [
+              "Where do you work?",
+              "I am a software engineer.",
+              "Our office starts at 9 o'clock.",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'तुम्ही कुठे काम करता?' translates to 'Where do you work?'."
+          },
+          {
+            "id": "u17-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'I am a software engineer.'?",
+            "options": [
+              "तुम्ही कुठे काम करता?",
+              "मी सॉफ्टवेअर इंजिनिअर आहे.",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'मी सॉफ्टवेअर इंजिनिअर आहे.' means 'I am a software engineer.'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u18",
+      "flashcards": [
+        {
+          "id": "u18-fc-u18-l1-p1",
+          "front": "मला मराठी संगीत खूप आवडते.",
+          "back": "I like Marathi music very much.",
+          "transliteration": "Malaa marathi sangeet khoop aavadate."
+        },
+        {
+          "id": "u18-fc-u18-l1-p2",
+          "front": "मला तिखट जेवण आवडत नाही.",
+          "back": "I do not like spicy food.",
+          "transliteration": "Malaa tikhat jevan aavadat naahi."
+        },
+        {
+          "id": "u18-fc-u18-l1-p3",
+          "front": "तुम्चे याबद्दल काय मत आहे?",
+          "back": "What is your opinion on this?",
+          "transliteration": "Tumche yaabaddal kaay mat aahe?"
+        },
+        {
+          "id": "u18-fc-u18-l1-p4",
+          "front": "माझ्या मते हा चांगला पर्याय आहे.",
+          "back": "In my opinion, this is a good option.",
+          "transliteration": "Maajhya mate haa chaanglaa paryaay aahe."
+        },
+        {
+          "id": "u18-fc-u18-l1-p5",
+          "front": "तो चित्रपट खूपच कंटाळवाणा होता.",
+          "back": "That movie was very boring.",
+          "transliteration": "To chitrapat khoopach kantaalvaana hota."
+        },
+        {
+          "id": "u18-fc-u18-l1-p6",
+          "front": "मला फिरायला जायला आवडते.",
+          "back": "I like to go for travels/walks.",
+          "transliteration": "Malaa phiraaylaa jaaylaa aavadate."
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u18",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u18-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'What is your opinion on this?'",
+            "options": [
+              "मला मराठी संगीत खूप आवडते.",
+              "मला तिखट जेवण आवडत नाही.",
+              "तुम्चे याबद्दल काय मत आहे?",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'तुम्चे याबद्दल काय मत आहे?' means 'What is your opinion on this?'."
+          },
+          {
+            "id": "u18-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'मला मराठी संगीत खूप आवडते.'?",
+            "options": [
+              "Malaa tikhat jevan aavadat naahi.",
+              "Malaa marathi sangeet khoop aavadate.",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Malaa marathi sangeet khoop aavadate.'."
+          },
+          {
+            "id": "u18-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'मला तिखट जेवण आवडत नाही.'",
+            "options": [
+              "I like Marathi music very much.",
+              "I do not like spicy food.",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'मला तिखट जेवण आवडत नाही.' translates to 'I do not like spicy food.'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u18-l1": [
+          {
+            "id": "u18-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'मला मराठी संगीत खूप आवडते.'?",
+            "options": [
+              "I like Marathi music very much.",
+              "I do not like spicy food.",
+              "What is your opinion on this?",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'मला मराठी संगीत खूप आवडते.' translates to 'I like Marathi music very much.'."
+          },
+          {
+            "id": "u18-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'I do not like spicy food.'?",
+            "options": [
+              "मला मराठी संगीत खूप आवडते.",
+              "मला तिखट जेवण आवडत नाही.",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'मला तिखट जेवण आवडत नाही.' means 'I do not like spicy food.'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u19",
+      "flashcards": [
+        {
+          "id": "u19-fc-u19-l1-p1",
+          "front": "तुम्ही आज खूप छान दिसत आहात.",
+          "back": "You look very nice today.",
+          "transliteration": "Tumhi aaj khoop thaan disat aahaat."
+        },
+        {
+          "id": "u19-fc-u19-l1-p2",
+          "front": "तुम्चे मराठी खूप चांगले आहे!",
+          "back": "Your Marathi is very good!",
+          "transliteration": "Tumche marathi khoop chaangle aahe!"
+        },
+        {
+          "id": "u19-fc-u19-l1-p3",
+          "front": "अभिनंदन! मला तुमचा अभिमान वाटतो.",
+          "back": "Congratulations! I am proud of you.",
+          "transliteration": "Abhinandan! Malaa tumchaa abhimaan vaatato."
+        },
+        {
+          "id": "u19-fc-u19-l1-p4",
+          "front": "तुम्ही खूप कष्टाळू व्यक्ती आहात.",
+          "back": "You are a very hardworking person.",
+          "transliteration": "Tumhi khoop kashtaaloo vyaktee aahaat."
+        },
+        {
+          "id": "u19-fc-u19-l1-p5",
+          "front": "कौतुकास्पद कामगिरी केलीत!",
+          "back": "You did a praiseworthy job!",
+          "transliteration": "Kautukaaspad kaamgiree keleet!"
+        },
+        {
+          "id": "u19-fc-u19-l1-p6",
+          "front": "मदत केल्याबद्दल धन्यवाद.",
+          "back": "Thank you for helping.",
+          "transliteration": "Madat kelyabaddal dhanyavaad."
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u19",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u19-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'Congratulations! I am proud of you.'",
+            "options": [
+              "तुम्ही आज खूप छान दिसत आहात.",
+              "तुम्चे मराठी खूप चांगले आहे!",
+              "अभिनंदन! मला तुमचा अभिमान वाटतो.",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'अभिनंदन! मला तुमचा अभिमान वाटतो.' means 'Congratulations! I am proud of you.'."
+          },
+          {
+            "id": "u19-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'तुम्ही आज खूप छान दिसत आहात.'?",
+            "options": [
+              "Tumche marathi khoop chaangle aahe!",
+              "Tumhi aaj khoop thaan disat aahaat.",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Tumhi aaj khoop thaan disat aahaat.'."
+          },
+          {
+            "id": "u19-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'तुम्चे मराठी खूप चांगले आहे!'",
+            "options": [
+              "You look very nice today.",
+              "Your Marathi is very good!",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'तुम्चे मराठी खूप चांगले आहे!' translates to 'Your Marathi is very good!'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u19-l1": [
+          {
+            "id": "u19-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'तुम्ही आज खूप छान दिसत आहात.'?",
+            "options": [
+              "You look very nice today.",
+              "Your Marathi is very good!",
+              "Congratulations! I am proud of you.",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'तुम्ही आज खूप छान दिसत आहात.' translates to 'You look very nice today.'."
+          },
+          {
+            "id": "u19-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'Your Marathi is very good!'?",
+            "options": [
+              "तुम्ही आज खूप छान दिसत आहात.",
+              "तुम्चे मराठी खूप चांगले आहे!",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'तुम्चे मराठी खूप चांगले आहे!' means 'Your Marathi is very good!'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u20",
+      "flashcards": [
+        {
+          "id": "u20-fc-u20-l1-p1",
+          "front": "हॅलो, मी राहुल बोलतोय.",
+          "back": "Hello, I am Rahul speaking.",
+          "transliteration": "Hello, mee Rahul bolatoy."
+        },
+        {
+          "id": "u20-fc-u20-l1-p2",
+          "front": "तुम्चा आवाज येत नाही आहे.",
+          "back": "Your voice is not coming / I can't hear you.",
+          "transliteration": "Tumchaa aavaas yet naahi aahe."
+        },
+        {
+          "id": "u20-fc-u20-l1-p3",
+          "front": "नेटवर्क खराब आहे, नंतर फोन करतो.",
+          "back": "The network is bad, I will call later (m).",
+          "transliteration": "Network kharaab aahe, nantar phone karato."
+        },
+        {
+          "id": "u20-fc-u20-l1-p4",
+          "front": "मला व्हॉट्सॲपवर मेसेज करा.",
+          "back": "Message me on WhatsApp.",
+          "transliteration": "Malaa WhatsApp-var message kara."
+        },
+        {
+          "id": "u20-fc-u20-l1-p5",
+          "front": "माझा फोन सायलेंटवर होता.",
+          "back": "My phone was on silent.",
+          "transliteration": "Maajha phone silent-var hota."
+        },
+        {
+          "id": "u20-fc-u20-l1-p6",
+          "front": "फोन चार्जिंगला लावा.",
+          "back": "Put the phone on charging.",
+          "transliteration": "Phone charging-la laavaa."
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u20",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u20-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'The network is bad, I will call later (m).'",
+            "options": [
+              "हॅलो, मी राहुल बोलतोय.",
+              "तुम्चा आवाज येत नाही आहे.",
+              "नेटवर्क खराब आहे, नंतर फोन करतो.",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'नेटवर्क खराब आहे, नंतर फोन करतो.' means 'The network is bad, I will call later (m).'."
+          },
+          {
+            "id": "u20-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'हॅलो, मी राहुल बोलतोय.'?",
+            "options": [
+              "Tumchaa aavaas yet naahi aahe.",
+              "Hello, mee Rahul bolatoy.",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Hello, mee Rahul bolatoy.'."
+          },
+          {
+            "id": "u20-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'तुम्चा आवाज येत नाही आहे.'",
+            "options": [
+              "Hello, I am Rahul speaking.",
+              "Your voice is not coming / I can't hear you.",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'तुम्चा आवाज येत नाही आहे.' translates to 'Your voice is not coming / I can't hear you.'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u20-l1": [
+          {
+            "id": "u20-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'हॅलो, मी राहुल बोलतोय.'?",
+            "options": [
+              "Hello, I am Rahul speaking.",
+              "Your voice is not coming / I can't hear you.",
+              "The network is bad, I will call later (m).",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'हॅलो, मी राहुल बोलतोय.' translates to 'Hello, I am Rahul speaking.'."
+          },
+          {
+            "id": "u20-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'Your voice is not coming / I can't hear you.'?",
+            "options": [
+              "हॅलो, मी राहुल बोलतोय.",
+              "तुम्चा आवाज येत नाही आहे.",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'तुम्चा आवाज येत नाही आहे.' means 'Your voice is not coming / I can't hear you.'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u21",
+      "flashcards": [
+        {
+          "id": "u21-fc-u21-l1-p1",
+          "front": "एकदा एका जंगलात एक सिंह राहत होता.",
+          "back": "Once a lion lived in a forest.",
+          "transliteration": "Ekda eka jangalaat ek sinh raahat hota."
+        },
+        {
+          "id": "u21-fc-u21-l1-p2",
+          "front": "त्यानंतर काय झाले सांगा?",
+          "back": "What happened after that, tell me?",
+          "transliteration": "Tyaananatar kaay zhale saangaa?"
+        },
+        {
+          "id": "u21-fc-u21-l1-p3",
+          "front": "अचानक पाऊस सुरू झाला.",
+          "back": "Suddenly rain started.",
+          "transliteration": "Achanak paaoos surooo zhala."
+        },
+        {
+          "id": "u21-fc-u21-l1-p4",
+          "front": "शेवटी सर्व काही ठीक झाले.",
+          "back": "In the end, everything became fine.",
+          "transliteration": "Shevatee sarva kaahi theek zhale."
+        },
+        {
+          "id": "u21-fc-u21-l1-p5",
+          "front": "माझा कालचा अनुभव खूप छान होता.",
+          "back": "My experience yesterday was very nice.",
+          "transliteration": "Maajha kaalchaa anubhav khoop thaan hota."
+        },
+        {
+          "id": "u21-fc-u21-l1-p6",
+          "front": "सुरुवातीला मला खूप भीती वाटत होती.",
+          "back": "Initially I felt very scared.",
+          "transliteration": "Suruvaateelaa malaa khoop bheetee vaatat hotee."
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u21",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u21-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'Suddenly rain started.'",
+            "options": [
+              "एकदा एका जंगलात एक सिंह राहत होता.",
+              "त्यानंतर काय झाले सांगा?",
+              "अचानक पाऊस सुरू झाला.",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'अचानक पाऊस सुरू झाला.' means 'Suddenly rain started.'."
+          },
+          {
+            "id": "u21-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'एकदा एका जंगलात एक सिंह राहत होता.'?",
+            "options": [
+              "Tyaananatar kaay zhale saangaa?",
+              "Ekda eka jangalaat ek sinh raahat hota.",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Ekda eka jangalaat ek sinh raahat hota.'."
+          },
+          {
+            "id": "u21-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'त्यानंतर काय झाले सांगा?'",
+            "options": [
+              "Once a lion lived in a forest.",
+              "What happened after that, tell me?",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'त्यानंतर काय झाले सांगा?' translates to 'What happened after that, tell me?'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u21-l1": [
+          {
+            "id": "u21-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'एकदा एका जंगलात एक सिंह राहत होता.'?",
+            "options": [
+              "Once a lion lived in a forest.",
+              "What happened after that, tell me?",
+              "Suddenly rain started.",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'एकदा एका जंगलात एक सिंह राहत होता.' translates to 'Once a lion lived in a forest.'."
+          },
+          {
+            "id": "u21-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'What happened after that, tell me?'?",
+            "options": [
+              "एकदा एका जंगलात एक सिंह राहत होता.",
+              "त्यानंतर काय झाले सांगा?",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'त्यानंतर काय झाले सांगा?' means 'What happened after that, tell me?'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u22",
+      "flashcards": [
+        {
+          "id": "u22-fc-u22-l1-p1",
+          "front": "तेव्हा काय घडले होते?",
+          "back": "What had happened then?",
+          "transliteration": "Tevhaa kaay ghadale hote?"
+        },
+        {
+          "id": "u22-fc-u22-l1-p2",
+          "front": "कोणाला विचारायचे आहे?",
+          "back": "Who wants to ask?",
+          "transliteration": "Konaala vicharaayche aahe?"
+        },
+        {
+          "id": "u22-fc-u22-l1-p3",
+          "front": "हा रस्ता कुठे जातो?",
+          "back": "Where does this road go?",
+          "transliteration": "Haa rastaa kuthe jaato?"
+        },
+        {
+          "id": "u22-fc-u22-l1-p4",
+          "front": "तुम्ही कधी येणार आहात?",
+          "back": "When are you coming?",
+          "transliteration": "Tumhi kadhee yenaat aahaat?"
+        },
+        {
+          "id": "u22-fc-u22-l1-p5",
+          "front": "काही शंका आहे का?",
+          "back": "Is there any doubt?",
+          "transliteration": "Kaahi shanka aahe ka?"
+        },
+        {
+          "id": "u22-fc-u22-l1-p6",
+          "front": "नक्की काय झाले ते सांग.",
+          "back": "Tell me exactly what happened.",
+          "transliteration": "Nakki kaay zhale te saang."
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u22",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u22-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'Where does this road go?'",
+            "options": [
+              "तेव्हा काय घडले होते?",
+              "कोणाला विचारायचे आहे?",
+              "हा रस्ता कुठे जातो?",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'हा रस्ता कुठे जातो?' means 'Where does this road go?'."
+          },
+          {
+            "id": "u22-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'तेव्हा काय घडले होते?'?",
+            "options": [
+              "Konaala vicharaayche aahe?",
+              "Tevhaa kaay ghadale hote?",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Tevhaa kaay ghadale hote?'."
+          },
+          {
+            "id": "u22-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'कोणाला विचारायचे आहे?'",
+            "options": [
+              "What had happened then?",
+              "Who wants to ask?",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'कोणाला विचारायचे आहे?' translates to 'Who wants to ask?'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u22-l1": [
+          {
+            "id": "u22-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'तेव्हा काय घडले होते?'?",
+            "options": [
+              "What had happened then?",
+              "Who wants to ask?",
+              "Where does this road go?",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'तेव्हा काय घडले होते?' translates to 'What had happened then?'."
+          },
+          {
+            "id": "u22-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'Who wants to ask?'?",
+            "options": [
+              "तेव्हा काय घडले होते?",
+              "कोणाला विचारायचे आहे?",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'कोणाला विचारायचे आहे?' means 'Who wants to ask?'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u23",
+      "flashcards": [
+        {
+          "id": "u23-fc-u23-l1-p1",
+          "front": "अति शहाणा त्याचा बैल रिकामा.",
+          "back": "An over-smart person ends up in loss.",
+          "transliteration": "Ati shahaana tyaacha bail rikaama."
+        },
+        {
+          "id": "u23-fc-u23-l1-p2",
+          "front": "उथळ पाण्याला खळखळाट फार.",
+          "back": "Empty vessels make the most noise.",
+          "transliteration": "Uthal paanyaala khalkhalaat faar."
+        },
+        {
+          "id": "u23-fc-u23-l1-p3",
+          "front": "पळसाला पाने तीनच.",
+          "back": "The situation is the same everywhere.",
+          "transliteration": "Palasaala paane teenach."
+        },
+        {
+          "id": "u23-fc-u23-l1-p4",
+          "front": "गर्जे तो पडेल काय?",
+          "back": "Those who boast rarely act.",
+          "transliteration": "Garje to padel kaay?"
+        },
+        {
+          "id": "u23-fc-u23-l1-p5",
+          "front": "हातच्या कंकणाला आरसा कशाला?",
+          "back": "What is obvious needs no proof.",
+          "transliteration": "Haatchya kankanaala aarsaa kashala?"
+        },
+        {
+          "id": "u23-fc-u23-l1-p6",
+          "front": "दुरुन डोंगर साजरे.",
+          "back": "Distance lends enchantment to the view.",
+          "transliteration": "Duroon dongar saajare."
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u23",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u23-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'The situation is the same everywhere.'",
+            "options": [
+              "अति शहाणा त्याचा बैल रिकामा.",
+              "उथळ पाण्याला खळखळाट फार.",
+              "पळसाला पाने तीनच.",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'पळसाला पाने तीनच.' means 'The situation is the same everywhere.'."
+          },
+          {
+            "id": "u23-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'अति शहाणा त्याचा बैल रिकामा.'?",
+            "options": [
+              "Uthal paanyaala khalkhalaat faar.",
+              "Ati shahaana tyaacha bail rikaama.",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Ati shahaana tyaacha bail rikaama.'."
+          },
+          {
+            "id": "u23-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'उथळ पाण्याला खळखळाट फार.'",
+            "options": [
+              "An over-smart person ends up in loss.",
+              "Empty vessels make the most noise.",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'उथळ पाण्याला खळखळाट फार.' translates to 'Empty vessels make the most noise.'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u23-l1": [
+          {
+            "id": "u23-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'अति शहाणा त्याचा बैल रिकामा.'?",
+            "options": [
+              "An over-smart person ends up in loss.",
+              "Empty vessels make the most noise.",
+              "The situation is the same everywhere.",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'अति शहाणा त्याचा बैल रिकामा.' translates to 'An over-smart person ends up in loss.'."
+          },
+          {
+            "id": "u23-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'Empty vessels make the most noise.'?",
+            "options": [
+              "अति शहाणा त्याचा बैल रिकामा.",
+              "उथळ पाण्याला खळखळाट फार.",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'उथळ पाण्याला खळखळाट फार.' means 'Empty vessels make the most noise.'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u24",
+      "flashcards": [
+        {
+          "id": "u24-fc-u24-l1-p1",
+          "front": "मला हे मान्य नाही.",
+          "back": "I do not agree with this.",
+          "transliteration": "Mala he maanya naahi."
+        },
+        {
+          "id": "u24-fc-u24-l1-p2",
+          "front": "हा दुसरा पर्याय योग्य आहे.",
+          "back": "This second option is correct.",
+          "transliteration": "Haa doosraa paryaay yogya aahe."
+        },
+        {
+          "id": "u24-fc-u24-l1-p3",
+          "front": "आपण यावर उद्या चर्चा करूया.",
+          "back": "We will discuss this tomorrow.",
+          "transliteration": "Aapan yaavar udya charcha karooya."
+        },
+        {
+          "id": "u24-fc-u24-l1-p4",
+          "front": "तडजोड करणे शक्य आहे का?",
+          "back": "Is it possible to compromise?",
+          "transliteration": "Tadajod karane shakya aahe ka?"
+        },
+        {
+          "id": "u24-fc-u24-l1-p5",
+          "front": "माझ्या मते हे चुकीचे आहे.",
+          "back": "In my opinion this is wrong.",
+          "transliteration": "Maajhya mate he chukeeche aahe."
+        },
+        {
+          "id": "u24-fc-u24-l1-p6",
+          "front": "तुम्हाला काय वाटते सांगा.",
+          "back": "Tell me what you think.",
+          "transliteration": "Tumhaala kaay vaatate saangaa."
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u24",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u24-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'We will discuss this tomorrow.'",
+            "options": [
+              "मला हे मान्य नाही.",
+              "हा दुसरा पर्याय योग्य आहे.",
+              "आपण यावर उद्या चर्चा करूया.",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'आपण यावर उद्या चर्चा करूया.' means 'We will discuss this tomorrow.'."
+          },
+          {
+            "id": "u24-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'मला हे मान्य नाही.'?",
+            "options": [
+              "Haa doosraa paryaay yogya aahe.",
+              "Mala he maanya naahi.",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Mala he maanya naahi.'."
+          },
+          {
+            "id": "u24-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'हा दुसरा पर्याय योग्य आहे.'",
+            "options": [
+              "I do not agree with this.",
+              "This second option is correct.",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'हा दुसरा पर्याय योग्य आहे.' translates to 'This second option is correct.'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u24-l1": [
+          {
+            "id": "u24-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'मला हे मान्य नाही.'?",
+            "options": [
+              "I do not agree with this.",
+              "This second option is correct.",
+              "We will discuss this tomorrow.",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'मला हे मान्य नाही.' translates to 'I do not agree with this.'."
+          },
+          {
+            "id": "u24-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'This second option is correct.'?",
+            "options": [
+              "मला हे मान्य नाही.",
+              "हा दुसरा पर्याय योग्य आहे.",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'हा दुसरा पर्याय योग्य आहे.' means 'This second option is correct.'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u25",
+      "flashcards": [
+        {
+          "id": "u25-fc-u25-l1-p1",
+          "front": "काय मग, काय चाललंय दोस्ता?",
+          "back": "What's up, what's going on friend?",
+          "transliteration": "Kaay mag, kaay chaalalay dosta?"
+        },
+        {
+          "id": "u25-fc-u25-l1-p2",
+          "front": "बिंधास्त जा, काही काळजी नको करू.",
+          "back": "Go carefree, do not worry about anything.",
+          "transliteration": "Bindhaast ja, kaahi kaalaji nako karu."
+        },
+        {
+          "id": "u25-fc-u25-l1-p3",
+          "front": "तिथे खूप राडा झाला काल रात्री.",
+          "back": "There was a big fight there last night.",
+          "transliteration": "Tithe khoop raada zala kaal raatri."
+        },
+        {
+          "id": "u25-fc-u25-l1-p4",
+          "front": "लोड नका घेऊ, काम होऊन जाईल.",
+          "back": "Do not take stress, the work will be done.",
+          "transliteration": "Load naka gheu, kaam houn jaail."
+        },
+        {
+          "id": "u25-fc-u25-l1-p5",
+          "front": "तू तर एकदम कडक काम केलेस!",
+          "back": "You did an awesome job!",
+          "transliteration": "Too tar ekdam kadak kaam keles!"
+        },
+        {
+          "id": "u25-fc-u25-l1-p6",
+          "front": "टेंशन नको घे, सर्व सॉर्ट होईल.",
+          "back": "Don't worry, everything will get sorted.",
+          "transliteration": "Tension nako ghe, sarva sort hoeel."
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u25",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u25-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'There was a big fight there last night.'",
+            "options": [
+              "काय मग, काय चाललंय दोस्ता?",
+              "बिंधास्त जा, काही काळजी नको करू.",
+              "तिथे खूप राडा झाला काल रात्री.",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'तिथे खूप राडा झाला काल रात्री.' means 'There was a big fight there last night.'."
+          },
+          {
+            "id": "u25-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'काय मग, काय चाललंय दोस्ता?'?",
+            "options": [
+              "Bindhaast ja, kaahi kaalaji nako karu.",
+              "Kaay mag, kaay chaalalay dosta?",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Kaay mag, kaay chaalalay dosta?'."
+          },
+          {
+            "id": "u25-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'बिंधास्त जा, काही काळजी नको करू.'",
+            "options": [
+              "What's up, what's going on friend?",
+              "Go carefree, do not worry about anything.",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'बिंधास्त जा, काही काळजी नको करू.' translates to 'Go carefree, do not worry about anything.'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u25-l1": [
+          {
+            "id": "u25-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'काय मग, काय चाललंय दोस्ता?'?",
+            "options": [
+              "What's up, what's going on friend?",
+              "Go carefree, do not worry about anything.",
+              "There was a big fight there last night.",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'काय मग, काय चाललंय दोस्ता?' translates to 'What's up, what's going on friend?'."
+          },
+          {
+            "id": "u25-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'Go carefree, do not worry about anything.'?",
+            "options": [
+              "काय मग, काय चाललंय दोस्ता?",
+              "बिंधास्त जा, काही काळजी नको करू.",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'बिंधास्त जा, काही काळजी नको करू.' means 'Go carefree, do not worry about anything.'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u26",
+      "flashcards": [
+        {
+          "id": "u26-fc-u26-l1-p1",
+          "front": "मला तुमच्याबद्दल खूप काळजी वाटते.",
+          "back": "I care about you a lot.",
+          "transliteration": "Mela tumchyaabaddal khoop kaalajee vaatate."
+        },
+        {
+          "id": "u26-fc-u26-l1-p2",
+          "front": "कठीण काळात मी तुमच्यासोबत आहे.",
+          "back": "I am with you in difficult times.",
+          "transliteration": "Katheen kaalaat mee tumchyaasobat aahe."
+        },
+        {
+          "id": "u26-fc-u26-l1-p3",
+          "front": "त्यांच्या निधनाचे वृत्त ऐकून खूप दुःख झाले.",
+          "back": "Very saddened to hear the news of their passing.",
+          "transliteration": "Tyaanchya nidhanaache vrutta aikoon khoop duhkh zhale."
+        },
+        {
+          "id": "u26-fc-u26-l1-p4",
+          "front": "स्वतःवर विश्वास ठेवा, सर्व शक्य आहे.",
+          "back": "Believe in yourself, everything is possible.",
+          "transliteration": "Svatavar vishvaas theva, sarva shakya aahe."
+        },
+        {
+          "id": "u26-fc-u26-l1-p5",
+          "front": "घाबरू नका, मी इथेच आहे.",
+          "back": "Don't be afraid, I am right here.",
+          "transliteration": "Ghaabaroo nakaa, mee ithech aahe."
+        },
+        {
+          "id": "u26-fc-u26-l1-p6",
+          "front": "मला तुमचा खूप पाठिंबा मिळाला.",
+          "back": "I got a lot of support from you.",
+          "transliteration": "Malaa tumchaa khoop paathimbaa milaalaa."
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u26",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u26-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'Very saddened to hear the news of their passing.'",
+            "options": [
+              "मला तुमच्याबद्दल खूप काळजी वाटते.",
+              "कठीण काळात मी तुमच्यासोबत आहे.",
+              "त्यांच्या निधनाचे वृत्त ऐकून खूप दुःख झाले.",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'त्यांच्या निधनाचे वृत्त ऐकून खूप दुःख झाले.' means 'Very saddened to hear the news of their passing.'."
+          },
+          {
+            "id": "u26-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'मला तुमच्याबद्दल खूप काळजी वाटते.'?",
+            "options": [
+              "Katheen kaalaat mee tumchyaasobat aahe.",
+              "Mela tumchyaabaddal khoop kaalajee vaatate.",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Mela tumchyaabaddal khoop kaalajee vaatate.'."
+          },
+          {
+            "id": "u26-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'कठीण काळात मी तुमच्यासोबत आहे.'",
+            "options": [
+              "I care about you a lot.",
+              "I am with you in difficult times.",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'कठीण काळात मी तुमच्यासोबत आहे.' translates to 'I am with you in difficult times.'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u26-l1": [
+          {
+            "id": "u26-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'मला तुमच्याबद्दल खूप काळजी वाटते.'?",
+            "options": [
+              "I care about you a lot.",
+              "I am with you in difficult times.",
+              "Very saddened to hear the news of their passing.",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'मला तुमच्याबद्दल खूप काळजी वाटते.' translates to 'I care about you a lot.'."
+          },
+          {
+            "id": "u26-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'I am with you in difficult times.'?",
+            "options": [
+              "मला तुमच्याबद्दल खूप काळजी वाटते.",
+              "कठीण काळात मी तुमच्यासोबत आहे.",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'कठीण काळात मी तुमच्यासोबत आहे.' means 'I am with you in difficult times.'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u27",
+      "flashcards": [
+        {
+          "id": "u27-fc-u27-l1-p1",
+          "front": "मला दोन दिवसांपासून ताप आहे.",
+          "back": "I have a fever for two days.",
+          "transliteration": "Mala don divasaanpaasoon taap aahe."
+        },
+        {
+          "id": "u27-fc-u27-l1-p2",
+          "front": "डॉक्टर, औषध कधी घ्यायचे?",
+          "back": "Doctor, when should I take the medicine?",
+          "transliteration": "Doctor, aushadh kadhee ghyaayche?"
+        },
+        {
+          "id": "u27-fc-u27-l1-p3",
+          "front": "दिवसातून तीन वेळा हे औषध घ्या.",
+          "back": "Take this medicine three times a day.",
+          "transliteration": "Divsaatoon teen velaa he aushadh ghyaa."
+        },
+        {
+          "id": "u27-fc-u27-l1-p4",
+          "front": "जीभ दाखवा आणि खोल श्वास घ्या.",
+          "back": "Show your tongue and take a deep breath.",
+          "transliteration": "Jeebh daakhvaa aani khol shvaas ghyaa."
+        },
+        {
+          "id": "u27-fc-u27-l1-p5",
+          "front": "काही पथ्य पाळायचे आहे का?",
+          "back": "Are there any dietary restrictions?",
+          "transliteration": "Kaahi pathya paalaayche aahe ka?"
+        },
+        {
+          "id": "u27-fc-u27-l1-p6",
+          "front": "दोन दिवस विश्रांती घ्या, बरे वाटेल.",
+          "back": "Rest for two days, you will feel better.",
+          "transliteration": "Don divas vishraantee ghyaa, bare vaatel."
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u27",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u27-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'Take this medicine three times a day.'",
+            "options": [
+              "मला दोन दिवसांपासून ताप आहे.",
+              "डॉक्टर, औषध कधी घ्यायचे?",
+              "दिवसातून तीन वेळा हे औषध घ्या.",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'दिवसातून तीन वेळा हे औषध घ्या.' means 'Take this medicine three times a day.'."
+          },
+          {
+            "id": "u27-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'मला दोन दिवसांपासून ताप आहे.'?",
+            "options": [
+              "Doctor, aushadh kadhee ghyaayche?",
+              "Mala don divasaanpaasoon taap aahe.",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Mala don divasaanpaasoon taap aahe.'."
+          },
+          {
+            "id": "u27-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'डॉक्टर, औषध कधी घ्यायचे?'",
+            "options": [
+              "I have a fever for two days.",
+              "Doctor, when should I take the medicine?",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'डॉक्टर, औषध कधी घ्यायचे?' translates to 'Doctor, when should I take the medicine?'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u27-l1": [
+          {
+            "id": "u27-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'मला दोन दिवसांपासून ताप आहे.'?",
+            "options": [
+              "I have a fever for two days.",
+              "Doctor, when should I take the medicine?",
+              "Take this medicine three times a day.",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'मला दोन दिवसांपासून ताप आहे.' translates to 'I have a fever for two days.'."
+          },
+          {
+            "id": "u27-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'Doctor, when should I take the medicine?'?",
+            "options": [
+              "मला दोन दिवसांपासून ताप आहे.",
+              "डॉक्टर, औषध कधी घ्यायचे?",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'डॉक्टर, औषध कधी घ्यायचे?' means 'Doctor, when should I take the medicine?'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u28",
+      "flashcards": [
+        {
+          "id": "u28-fc-u28-l1-p1",
+          "front": "या घराचे महिन्याचे भाडे किती आहे?",
+          "back": "How much is the monthly rent of this house?",
+          "transliteration": "Yaa gharaache mahinyaache bhaade kitee aahe?"
+        },
+        {
+          "id": "u28-fc-u28-l1-p2",
+          "front": "डिपॉझिट किती द्यावे लागेल?",
+          "back": "How much deposit do I need to pay?",
+          "transliteration": "Deposit kitee dyaave laagela?"
+        },
+        {
+          "id": "u28-fc-u28-l1-p3",
+          "front": "सोसायटीचे नियम काय आहेत?",
+          "back": "What are the society rules?",
+          "transliteration": "Society-che niyam kaay aaheet?"
+        },
+        {
+          "id": "u28-fc-u28-l1-p4",
+          "front": "पाणी २४ तास उपलब्ध आहे का?",
+          "back": "Is water available 24 hours?",
+          "transliteration": "Paani chovees taas upalabdha aahe ka?"
+        },
+        {
+          "id": "u28-fc-u28-l1-p5",
+          "front": "पार्किंगसाठी वेगळी जागा आहे का?",
+          "back": "Is there a separate space for parking?",
+          "transliteration": "Parking-saathee vegalee jaagaa aahe ka?"
+        },
+        {
+          "id": "u28-fc-u28-l1-p6",
+          "front": "आम्हाला रेंट एग्रीमेंट करावे लागेल.",
+          "back": "We will need to make a rent agreement.",
+          "transliteration": "Aamhaala rent agreement karaave laagela."
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u28",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u28-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'What are the society rules?'",
+            "options": [
+              "या घराचे महिन्याचे भाडे किती आहे?",
+              "डिपॉझिट किती द्यावे लागेल?",
+              "सोसायटीचे नियम काय आहेत?",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'सोसायटीचे नियम काय आहेत?' means 'What are the society rules?'."
+          },
+          {
+            "id": "u28-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'या घराचे महिन्याचे भाडे किती आहे?'?",
+            "options": [
+              "Deposit kitee dyaave laagela?",
+              "Yaa gharaache mahinyaache bhaade kitee aahe?",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Yaa gharaache mahinyaache bhaade kitee aahe?'."
+          },
+          {
+            "id": "u28-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'डिपॉझिट किती द्यावे लागेल?'",
+            "options": [
+              "How much is the monthly rent of this house?",
+              "How much deposit do I need to pay?",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'डिपॉझिट किती द्यावे लागेल?' translates to 'How much deposit do I need to pay?'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u28-l1": [
+          {
+            "id": "u28-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'या घराचे महिन्याचे भाडे किती आहे?'?",
+            "options": [
+              "How much is the monthly rent of this house?",
+              "How much deposit do I need to pay?",
+              "What are the society rules?",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'या घराचे महिन्याचे भाडे किती आहे?' translates to 'How much is the monthly rent of this house?'."
+          },
+          {
+            "id": "u28-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'How much deposit do I need to pay?'?",
+            "options": [
+              "या घराचे महिन्याचे भाडे किती आहे?",
+              "डिपॉझिट किती द्यावे लागेल?",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'डिपॉझिट किती द्यावे लागेल?' means 'How much deposit do I need to pay?'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u29",
+      "flashcards": [
+        {
+          "id": "u29-fc-u29-l1-p1",
+          "front": "हा फॉर्म कुठे जमा करायचा?",
+          "back": "Where should I submit this form?",
+          "transliteration": "Haa form kuthe jamaa karaaycha?"
+        },
+        {
+          "id": "u29-fc-u29-l1-p2",
+          "front": "या अर्जासोबत कोणती कागदपत्रे लागतील?",
+          "back": "What documents are needed with this application?",
+          "transliteration": "Yaa arjaasobat kontee kaagadpatre laagateel?"
+        },
+        {
+          "id": "u29-fc-u29-l1-p3",
+          "front": "मंजुरी मिळण्यासाठी किती दिवस लागतील?",
+          "back": "How many days will it take to get approval?",
+          "transliteration": "Manjooree milanyaasaathee kitee divas laagateel?"
+        },
+        {
+          "id": "u29-fc-u29-l1-p4",
+          "front": "कृपया इथे तुमची सही करा.",
+          "back": "Please sign here.",
+          "transliteration": "Krupayaa ithe tumchee sahee kara."
+        },
+        {
+          "id": "u29-fc-u29-l1-p5",
+          "front": "अधिकारी साहेब केव्हा भेटतील?",
+          "back": "When will the officer meet?",
+          "transliteration": "Adhikaaree saaheb kevhaa bhetateel?"
+        },
+        {
+          "id": "u29-fc-u29-l1-p6",
+          "front": "माझा दाखला तयार झाला आहे का?",
+          "back": "Is my certificate ready?",
+          "transliteration": "Maajha daakhlaa tayaar zhala aahe ka?"
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u29",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u29-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'How many days will it take to get approval?'",
+            "options": [
+              "हा फॉर्म कुठे जमा करायचा?",
+              "या अर्जासोबत कोणती कागदपत्रे लागतील?",
+              "मंजुरी मिळण्यासाठी किती दिवस लागतील?",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'मंजुरी मिळण्यासाठी किती दिवस लागतील?' means 'How many days will it take to get approval?'."
+          },
+          {
+            "id": "u29-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'हा फॉर्म कुठे जमा करायचा?'?",
+            "options": [
+              "Yaa arjaasobat kontee kaagadpatre laagateel?",
+              "Haa form kuthe jamaa karaaycha?",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Haa form kuthe jamaa karaaycha?'."
+          },
+          {
+            "id": "u29-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'या अर्जासोबत कोणती कागदपत्रे लागतील?'",
+            "options": [
+              "Where should I submit this form?",
+              "What documents are needed with this application?",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'या अर्जासोबत कोणती कागदपत्रे लागतील?' translates to 'What documents are needed with this application?'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u29-l1": [
+          {
+            "id": "u29-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'हा फॉर्म कुठे जमा करायचा?'?",
+            "options": [
+              "Where should I submit this form?",
+              "What documents are needed with this application?",
+              "How many days will it take to get approval?",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'हा फॉर्म कुठे जमा करायचा?' translates to 'Where should I submit this form?'."
+          },
+          {
+            "id": "u29-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'What documents are needed with this application?'?",
+            "options": [
+              "हा फॉर्म कुठे जमा करायचा?",
+              "या अर्जासोबत कोणती कागदपत्रे लागतील?",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'या अर्जासोबत कोणती कागदपत्रे लागतील?' means 'What documents are needed with this application?'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u30",
+      "flashcards": [
+        {
+          "id": "u30-fc-u30-l1-p1",
+          "front": "चला, आपण चहा प्यायला जाऊया.",
+          "back": "Come, let's go for tea.",
+          "transliteration": "Chalaa, aapan chahaa pyaaylaa jaaooya."
+        },
+        {
+          "id": "u30-fc-u30-l1-p2",
+          "front": "तुम्ची आवड काय आहे?",
+          "back": "What are your hobbies / what do you like?",
+          "transliteration": "Tumchee aavad kaay aahe?"
+        },
+        {
+          "id": "u30-fc-u30-l1-p3",
+          "front": "उद्या संध्याकाळी आपण फिरायला जाऊ.",
+          "back": "We will go for a walk tomorrow evening.",
+          "transliteration": "Udya sandhyaakaalee aapan phiraaylaa jaaoo."
+        },
+        {
+          "id": "u30-fc-u30-l1-p4",
+          "front": "मला तुमच्याशी गप्पा मारून छान वाटले.",
+          "back": "I felt good chatting with you.",
+          "transliteration": "Malaa tumchyaashee gappa maaroon thaan vaatle."
+        },
+        {
+          "id": "u30-fc-u30-l1-p5",
+          "front": "हा घ्या माझा मोबाईल नंबर.",
+          "back": "Here is my mobile number.",
+          "transliteration": "Haa ghyaa maajha mobile number."
+        },
+        {
+          "id": "u30-fc-u30-l1-p6",
+          "front": "कधीतरी आमच्या घरी या नक्की.",
+          "back": "Do visit our home sometime.",
+          "transliteration": "Kadheetaree aamchya gharee yaa nakki."
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u30",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u30-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'We will go for a walk tomorrow evening.'",
+            "options": [
+              "चला, आपण चहा प्यायला जाऊया.",
+              "तुम्ची आवड काय आहे?",
+              "उद्या संध्याकाळी आपण फिरायला जाऊ.",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'उद्या संध्याकाळी आपण फिरायला जाऊ.' means 'We will go for a walk tomorrow evening.'."
+          },
+          {
+            "id": "u30-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'चला, आपण चहा प्यायला जाऊया.'?",
+            "options": [
+              "Tumchee aavad kaay aahe?",
+              "Chalaa, aapan chahaa pyaaylaa jaaooya.",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Chalaa, aapan chahaa pyaaylaa jaaooya.'."
+          },
+          {
+            "id": "u30-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'तुम्ची आवड काय आहे?'",
+            "options": [
+              "Come, let's go for tea.",
+              "What are your hobbies / what do you like?",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'तुम्ची आवड काय आहे?' translates to 'What are your hobbies / what do you like?'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u30-l1": [
+          {
+            "id": "u30-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'चला, आपण चहा प्यायला जाऊया.'?",
+            "options": [
+              "Come, let's go for tea.",
+              "What are your hobbies / what do you like?",
+              "We will go for a walk tomorrow evening.",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'चला, आपण चहा प्यायला जाऊया.' translates to 'Come, let's go for tea.'."
+          },
+          {
+            "id": "u30-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'What are your hobbies / what do you like?'?",
+            "options": [
+              "चला, आपण चहा प्यायला जाऊया.",
+              "तुम्ची आवड काय आहे?",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'तुम्ची आवड काय आहे?' means 'What are your hobbies / what do you like?'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u31",
+      "flashcards": [
+        {
+          "id": "u31-fc-u31-l1-p1",
+          "front": "लवकरात लवकर हे महत्त्वाचे काम संपवून टाक.",
+          "back": "Finish this important work as soon as possible.",
+          "transliteration": "Lavakaraat lavakar he mahattvaache kaam sampavoon taak."
+        },
+        {
+          "id": "u31-fc-u31-l1-p2",
+          "front": "तू उद्या सकाळी नक्की वेळेवर पोहोचू शकशील का?",
+          "back": "Will you be able to reach on time tomorrow morning?",
+          "transliteration": "Too udya sakaalee nakki velevar pohachoo shakashil ka?"
+        },
+        {
+          "id": "u31-fc-u31-l1-p3",
+          "front": "त्याच्या बोलण्याकडे अजिबात लक्ष देऊ नकोस.",
+          "back": "Do not pay attention to what he says at all.",
+          "transliteration": "Tyaachya bolanyaakade ajibaat laksha deu nakos."
+        },
+        {
+          "id": "u31-fc-u31-l1-p4",
+          "front": "मला तिथे पोहोचायला किमान अर्धा तास लागेल.",
+          "back": "It will take me at least half an hour to reach there.",
+          "transliteration": "Malaa tithe pohachaaylaa kimaan ardhaa taas lageel."
+        },
+        {
+          "id": "u31-fc-u31-l1-p5",
+          "front": "तिने सांगितलेली गोष्ट मला नीट आठवत नाही.",
+          "back": "I do not remember the story she told properly.",
+          "transliteration": "Tine saangitalelee gosht malaa neet aathavat naahi."
+        },
+        {
+          "id": "u31-fc-u31-l1-p6",
+          "front": "जर काही अडचण असेल तर मला ताबडतोब सांगा.",
+          "back": "If there is any problem, tell me immediately.",
+          "transliteration": "Jar kaahi adchan aseel tar malaa taabadtob saangaa."
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u31",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u31-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'Do not pay attention to what he says at all.'",
+            "options": [
+              "लवकरात लवकर हे महत्त्वाचे काम संपवून टाक.",
+              "तू उद्या सकाळी नक्की वेळेवर पोहोचू शकशील का?",
+              "त्याच्या बोलण्याकडे अजिबात लक्ष देऊ नकोस.",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'त्याच्या बोलण्याकडे अजिबात लक्ष देऊ नकोस.' means 'Do not pay attention to what he says at all.'."
+          },
+          {
+            "id": "u31-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'लवकरात लवकर हे महत्त्वाचे काम संपवून टाक.'?",
+            "options": [
+              "Too udya sakaalee nakki velevar pohachoo shakashil ka?",
+              "Lavakaraat lavakar he mahattvaache kaam sampavoon taak.",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Lavakaraat lavakar he mahattvaache kaam sampavoon taak.'."
+          },
+          {
+            "id": "u31-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'तू उद्या सकाळी नक्की वेळेवर पोहोचू शकशील का?'",
+            "options": [
+              "Finish this important work as soon as possible.",
+              "Will you be able to reach on time tomorrow morning?",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'तू उद्या सकाळी नक्की वेळेवर पोहोचू शकशील का?' translates to 'Will you be able to reach on time tomorrow morning?'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u31-l1": [
+          {
+            "id": "u31-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'लवकरात लवकर हे महत्त्वाचे काम संपवून टाक.'?",
+            "options": [
+              "Finish this important work as soon as possible.",
+              "Will you be able to reach on time tomorrow morning?",
+              "Do not pay attention to what he says at all.",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'लवकरात लवकर हे महत्त्वाचे काम संपवून टाक.' translates to 'Finish this important work as soon as possible.'."
+          },
+          {
+            "id": "u31-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'Will you be able to reach on time tomorrow morning?'?",
+            "options": [
+              "लवकरात लवकर हे महत्त्वाचे काम संपवून टाक.",
+              "तू उद्या सकाळी नक्की वेळेवर पोहोचू शकशील का?",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'तू उद्या सकाळी नक्की वेळेवर पोहोचू शकशील का?' means 'Will you be able to reach on time tomorrow morning?'."
+          }
+        ]
+      }
+    },
+    {
+      "moduleId": "u32",
+      "flashcards": [
+        {
+          "id": "u32-fc-u32-l1-p1",
+          "front": "अभिनंदन, तुम्ही आता उत्तम मराठी बोलू शकता!",
+          "back": "Congratulations, you can now speak excellent Marathi!",
+          "transliteration": "Abhinandan, tumhi aata uttam marathi bolu shakata!"
+        },
+        {
+          "id": "u32-fc-u32-l1-p2",
+          "front": "मराठी शिकणे हा एक खूप छान प्रवास होता.",
+          "back": "Learning Marathi was a very wonderful journey.",
+          "transliteration": "Marathi shikane ha ek khoop thaan pravaas hota."
+        },
+        {
+          "id": "u32-fc-u32-l1-p3",
+          "front": "आता मी आत्मविश्वासाने मराठीत बोलू शकतो.",
+          "back": "Now I can speak in Marathi with confidence (m).",
+          "transliteration": "Aata mee aatmavishvaasane marathit bolu shakato."
+        },
+        {
+          "id": "u32-fc-u32-l1-p4",
+          "front": "सतत सराव केल्यामुळे माझी प्रगती झाली.",
+          "back": "My progress happened due to continuous practice.",
+          "transliteration": "Satat saraav kelyamule maajhee pragatee zhalee."
+        },
+        {
+          "id": "u32-fc-u32-l1-p5",
+          "front": "मराठी भाषेबद्दल मला खूप आदर वाटतो.",
+          "back": "I feel great respect for the Marathi language.",
+          "transliteration": "Marathi bhaashebaddal malaa khoop aadar vaatato."
+        },
+        {
+          "id": "u32-fc-u32-l1-p6",
+          "front": "भविष्यात मी आणखी सराव चालू ठेवीन.",
+          "back": "In the future, I will keep practicing more.",
+          "transliteration": "Bhavishyaat mee aankhee saraav chaaloo theveen."
+        }
+      ],
+      "moduleTest": {
+        "moduleId": "u32",
+        "passingScore": 70,
+        "questions": [
+          {
+            "id": "u32-t1",
+            "type": "multiple-choice",
+            "question": "Translate to Marathi: 'Now I can speak in Marathi with confidence (m).'",
+            "options": [
+              "अभिनंदन, तुम्ही आता उत्तम मराठी बोलू शकता!",
+              "मराठी शिकणे हा एक खूप छान प्रवास होता.",
+              "आता मी आत्मविश्वासाने मराठीत बोलू शकतो.",
+              "चुकीचा पर्याय"
+            ],
+            "answerIndex": 2,
+            "explanation": "'आता मी आत्मविश्वासाने मराठीत बोलू शकतो.' means 'Now I can speak in Marathi with confidence (m).'."
+          },
+          {
+            "id": "u32-t2",
+            "type": "multiple-choice",
+            "question": "What is the transliteration of 'अभिनंदन, तुम्ही आता उत्तम मराठी बोलू शकता!'?",
+            "options": [
+              "Marathi shikane ha ek khoop thaan pravaas hota.",
+              "Abhinandan, tumhi aata uttam marathi bolu shakata!",
+              "None",
+              "Other"
+            ],
+            "answerIndex": 1,
+            "explanation": "The phonetic spelling is 'Abhinandan, tumhi aata uttam marathi bolu shakata!'."
+          },
+          {
+            "id": "u32-t3",
+            "type": "multiple-choice",
+            "question": "Translate to English: 'मराठी शिकणे हा एक खूप छान प्रवास होता.'",
+            "options": [
+              "Congratulations, you can now speak excellent Marathi!",
+              "Learning Marathi was a very wonderful journey.",
+              "Incorrect translation",
+              "No meaning"
+            ],
+            "answerIndex": 1,
+            "explanation": "'मराठी शिकणे हा एक खूप छान प्रवास होता.' translates to 'Learning Marathi was a very wonderful journey.'."
+          }
+        ]
+      },
+      "lessonQuizzes": {
+        "u32-l1": [
+          {
+            "id": "u32-l1-q1",
+            "type": "multiple-choice",
+            "question": "What is the English meaning of 'अभिनंदन, तुम्ही आता उत्तम मराठी बोलू शकता!'?",
+            "options": [
+              "Congratulations, you can now speak excellent Marathi!",
+              "Learning Marathi was a very wonderful journey.",
+              "Now I can speak in Marathi with confidence (m).",
+              "None of the above"
+            ],
+            "answerIndex": 0,
+            "explanation": "'अभिनंदन, तुम्ही आता उत्तम मराठी बोलू शकता!' translates to 'Congratulations, you can now speak excellent Marathi!'."
+          },
+          {
+            "id": "u32-l1-q2",
+            "type": "multiple-choice",
+            "question": "Which is the correct Marathi translation for 'Learning Marathi was a very wonderful journey.'?",
+            "options": [
+              "अभिनंदन, तुम्ही आता उत्तम मराठी बोलू शकता!",
+              "मराठी शिकणे हा एक खूप छान प्रवास होता.",
+              "इतर काहीतरी",
+              "माहित नाही"
+            ],
+            "answerIndex": 1,
+            "explanation": "'मराठी शिकणे हा एक खूप छान प्रवास होता.' means 'Learning Marathi was a very wonderful journey.'."
+          }
+        ]
+      }
+    }
+  ]
+}

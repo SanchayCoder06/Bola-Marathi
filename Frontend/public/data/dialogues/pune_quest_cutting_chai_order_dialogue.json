@@ -1,0 +1,111 @@
+{
+  "dialogue": {
+    "id": "pune_quest_cutting_chai_order_dialogue",
+    "title": "चहा ऑर्डर करणे संवाद",
+    "questId": "pune-quest-cutting-chai-order",
+    "npcId": "pune-tea-stall-owner-kisan",
+    "locationId": "pune-fc-road-tea-stall",
+    "parts": [
+      {
+        "id": "greeting",
+        "speaker": "npc",
+        "speakerName": "किसान रामदास",
+        "marathi": "नमस्कार! आजका मौसम ठंडक आहे, कसर एक कप त foremost cutting chai?",
+        "transliteration": "Namaskār! Ājkā mausam ṭhank āhe, kasar ek kap tēvha cutting chai?",
+        "english": "Hello! The weather is cool today, would you like a cup of hot cutting chai?",
+        "pronunciationTip": "Stress the 'taa' in 'cutting' and the long 'aa' in 'chai'",
+        "grammarNote": "Kasar = how about/may I suggest (polite suggestion)",
+        "difficulty": "beginner",
+        "xpReward": 5,
+        "options": [
+          {
+            "text": "होय, कृपया एक कप cutting chai",
+            "transliteration": "Hoy, kripayā ek kap cutting chai",
+            "translation": "Yes, please one cup cutting chai",
+            "leadsTo": "order_confirmation",
+            "isCorrect": true
+          },
+          {
+            "text": "नाही, मला पानी हवी",
+            "transliteration": "Nāhī, malā pāṇī havī",
+            "translation": "No, I want water",
+            "leadsTo": "water_request",
+            "isCorrect": false,
+            "hint": "तुमच्यासाठी कधी तरी गर्म पाणी उपलब्ध आहे",
+            "hintTranslation": "Hot water is also available for you"
+          }
+        ]
+      },
+      {
+        "id": "order_confirmation",
+        "speaker": "npc",
+        "speakerName": "किसान रामदास",
+        "marathi": "शाबाश! तुमच्याशी पहिल्यांदा भेटवलो आहे. एक cutting chai वाढा रुपये.",
+        "transliteration": "Śubhāś! Tumcyāśī pahilyāṇḍā bhētalō āhe. Ek cutting chāhā vāḍhā rūpiye.",
+        "english": "Excellent! It's nice meeting you for the first time. One cutting chai will be extra rupee.",
+        "pronunciationTip": "Say 'vaddha' with stress on the first syllable",
+        "grammarNote": "Vadhā = more/additional, common in Mumbai-Pune area for extra charge",
+        "difficulty": "beginner",
+        "xpReward": 5,
+        "options": [
+          {
+            "text": "बरोबर, देवा",
+            "transliteration": "Barobar, devā",
+            "translation": "Okay, give it",
+            "leadsTo": "payment",
+            "isCorrect": true
+          },
+          {
+            "text": "क expendable",
+            "transliteration": "Kāy?",
+            "translation": "What?",
+            "leadsTo": "price_clarification",
+            "isCorrect": false,
+            "hint": "त्याचा अर्थ hegemonic extra one rupee",
+            "hintTranslation": "It means one extra rupee"
+          }
+        ]
+      },
+      {
+        "id": "payment",
+        "speaker": "npc",
+        "speakerName": "किसान रामदास",
+        "marathi": "आजची विशेषत: रवीunday चहा विशेष मसाला मिश्रण आहे. स्वाद व croissance का अनुभव चार",
+        "transliteration": "Ājīcī viśeṣat: Ravivār chāhā viśeṣ masālā miśraṇ āhe. Svādu prayōg kānubhav cāhī",
+        "english": "Today's special: Sunday chai with special masala blend. You'll experience taste growth fourfold",
+        "pronunciationTip": "Say 'vishesh' clearly, stress on second syllable",
+        "grammarNote": "Special weekend masala mix mentioned - cultural context",
+        "xpReward": 5,
+        "options": [
+          {
+            "text": "धन्यवाद!",
+            "transliteration": "Dhan'yavāda!",
+            "translation": "Thank you!",
+            "leadsTo": "completion",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": "completion",
+        "speaker": "npc",
+        "speakerName": "किसान रामदास",
+        "marathi": "आनंदा वघे! तुमचं स्वागत आहे. सुटे पाणी available.",
+        "transliteration": "Ānandā vaghe! Tumcha swāgat āhe. Suṭe pāṇī available.",
+        "english": "Enjoy it well! You're welcome. Plain water also available.",
+        "pronunciationTip": "Ananda = enjoyment, swear = eat well (idiom)",
+        "grammarNote": "Idiomatic expression for enjoying food/drink thoroughly",
+        "xpReward": 10,
+        "isComplete": true
+      }
+    ],
+    "culturalNotes": [
+      "Cutting chai is a Pune/Mumbai specialty - strong tea served in small glasses",
+      "The 'cutting' refers to cutting a full glass into two halves",
+      "Street tea culture is integral to daily life in Maharashtra",
+      "Sunday special chai often has extra ginger, cardamom, and lemongrass"
+    ],
+    "totalXpReward": 25,
+    "completionMessage": "आपण माराठीत cutting chai आर्डर करणे सीखть! पुणे विशिष्ट चाय संस्कृतिचा अनुभव मिळवले."
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "quests": [
+    {
+      "id": "pune-quest-cutting-chai-order",
+      "title": "काटिंग चहा मगवा",
+      "transliteration": "Kāṭiṅg Chāhā Magvā",
+      "english": "Order Cutting Chai",
+      "description": "Learn to order the famous Pune-style strong tea (cutting chai) at a local tea stall and understand the cultural significance of this morning ritual.",
+      "cityId": "pune",
+      "districtId": "pune-fc-road",
+      "locationId": "pune-fc-road-tea-stall",
+      "requiredWords": [
+        {"marathi": " काटिंग चहा ", "transliteration": "kāṭiṅg chāhā", "english": "strong tea"},
+        {"marathi": " एक ", "transliteration": "ek", "english": "one"},
+        {"marathi": " दोन ", "transliteration": "don", "english": "two"},
+        {"marathi": " कधी ", "transliteration": "kadhi", "english": "when"},
+        {"marathi": " किती ", "transliteration": "kītī", "english": "how much"}
+      ],
+      "difficulty": "beginner",
+      "rewards": {
+        "xp": 25,
+        "coins": 15,
+        "items": ["special_chai_recipe_card"]
+      },
+      "nextQuest": "pune-quest-vada-pav-bargain",
+      "npc": "pune-tea-stall-owner-kisan",
+      "dialogueFile": "pune_quest_cutting_chai_order_dialogue.json",
+      "prerequisites": [],
+      "timeLimit": null,
+      "dailyLimit": 1
+    },
+    {
+      "id": "pune-quest-vada-pav-bargain",
+      "title": "वडा पावाचे dowód म BindingPrice",
+      "transliteration": "Vaḍā Pāvāce Bargāīṅ Kariṅ",
+      "english": "Bargain for Vada Pav",
+      "description": "Practice bargaining skills while ordering the iconic Maharashtrian street food vada pav at a street food stall.",
+      "cityId": "pune",
+      "districtId": "pune-fc-road",
+      "locationId": "pune-fc-road-tea-stall",
+      "requiredWords": [
+        {"marathi": " वडा पाव ", "transliteration": "vaḍā pāv", "english": "vada pav"},
+        {"marathi": " दाम ", "transliteration": "dām", "english": "price"},
+        {"marathi": " कमी ", "transliteration": "kamī", "english": "less/reduce"},
+        {"marathi": " Doppler ", "transliteration": "thoda", "english": "a little"},
+        {"marathi": " चालू ", "transliteration": "cālū", "english": "okay/deal"}
+      ],
+      "difficulty": "beginner",
+      "rewards": {
+        "xp": 30,
+        "coins": 20,
+        "items": ["vada-pav-coupon"]
+      },
+      "nextQuest": "pune-quest-shaniwar-wada-tour",
+      "npc": "pune-tea-stall-owner-kisan",
+      "dialogueFile": "pune_quest_vada_pav_bargain_dialogue.json",
+      "prerequisites": ["pune-quest-cutting-chai-order"],
+      "timeLimit": null,
+      "dailyLimit": 1
+    },
+    {
+      "id": "pune-quest-shaniwar-wada-tour",
+      "title": "शिवाजी वाडा भ्रमण",
+      "transliteration": "Śivājī Vāḍā Bhramaṇ",
+      "english": "Shaniwar Wada Tour",
+      "description": "Take a guided tour of the historic Shaniwar Wada fort and learn about Maratha Empire history while practicing historical vocabulary.",
+      "cityId": "pune",
+      "districtId": "pune-shaniwar-wada",
+      "locationId": "pune-shaniwar-wada-fort",
+      "requiredWords": [
+        {"marathi": " किल्ला ", "transliteration": "kilā", "english": "fort"},
+        {"marathi": " पेशवा ", "transliteration": "peshvā", "english": "Peshwa"},
+        {"marathi": " युद्ध ", "transliteration": "yuddha", "english": "war"},
+        {"marathi": " विजय ", "transliteration": "vijaya", "english": "victory"},
+        {"marathi": " इतिहास ", "transliteration": "itihās", "english": "history"}
+      ],
+      "difficulty": "intermediate",
+      "rewards": {
+        "xp": 50,
+        "coins": 30,
+        "items": ["historical-site-badge"]
+      },
+      "nextQuest": "pune-quest-market-shopping-list",
+      "npc": "pune-guide-appasaheb",
+      "dialogueFile": "pune_quest_shaniwar_wada_tour_dialogue.json",
+      "prerequisites": ["pune-quest-vada-pav-bargain"],
+      "timeLimit": null,
+      "dailyLimit": 1
+    },
+    {
+      "id": "pune-quest-market-shopping-list",
+      "title": "बाजारपेठी sarvang sundarisket hadap",
+      "transliteration": "Bājārī Saṃgṛhī Karaṇ",
+      "english": "Complete Market Shopping",
+      "description": "Visit the local market near Shaniwar Wada to purchase items on a shopping list, practicing vocabulary for vegetables, spices, and negotiation.",
+      "cityId": "pune",
+      "districtId": "pune-shaniwar-wada",
+      "locationId": "pune-shaniwar-wada-market",
+      "requiredWords": [
+        {"marathi": " भाजी ", "transliteration": "bhājī", "english": "vegetables"},
+        {"marathi": " मसाले ", "transliteration": "masāle", "english": "spices"},
+        {"marathi": " किलो ", "transliteration": "kīlo", "english": "kilogram"},
+        {"marathi": " ग्राम ", "transliteration": "grām", "english": "gram"},
+        {"marathi": " पैकेट ", "transliteration": "pākēṭ", "english": "packet"}
+      ],
+      "difficulty": "intermediate",
+      "rewards": {
+        "xp": 40,
+        "coins": 25,
+        "items": ["shopping-bag-reusable"]
+      },
+      "nextQuest": "pune-quest-temple-visit",
+      "npc": "pune-handicraft-seller-lata",
+      "dialogueFile": "pune_quest_market_shopping_list_dialogue.json",
+      "prerequisites": ["pune-quest-shaniwar-wada-tour"],
+      "timeLimit": null,
+      "dailyLimit": 3
+    },
+    {
+      "id": "pune-quest-temple-visit",
+      "title": "मंदीर दर्शन",
+      "transliteration": "Mandar Darśana",
+      "english": "Temple Visit",
+      "description": "Visit the temple within Shaniwar Wada complex to learn about Marathi religious practices, rituals, and associated vocabulary.",
+      "cityId": "pune",
+      "districtId": "pune-shaniwar-wada",
+      "locationId": "pune-shaniwar-wada-temple",
+      "requiredWords": [
+        {"marathi": " मंदीर ", "transliteration": "mandir", "english": "temple"},
+        {"marathi": " पूजा ", "transliteration": "pūjā", "english": "worship"},
+        {"marathi": " आरती ", "transliteration": "ārtī", "english": "aarti"},
+        {"marathi": " प्रसाद ", "transliteration": "prasād", "english": "blessed offering"},
+        {"marathi": " घण्टी ", "transliteration": "ghaṇṭī", "english": "bell"}
+      ],
+      "difficulty": "intermediate",
+      "rewards": {
+        "xp": 35,
+        "coins": 20,
+        "items": ["temple-visit-token"]
+      },
+      "nextQuest": "pune-quest-bookstore-recommendation",
+      "npc": "pune-temple-priest-shastri",
+      "dialogueFile": "pune_quest_temple_visit_dialogue.json",
+      "prerequisites": ["pune-quest-market-shopping-list"],
+      "timeLimit": null,
+      "dailyLimit": 1
+    },
+    {
+      "id": "pune-quest-bookstore-recommendation",
+      "title": "पुस्तक advisement",
+      "transliteration": "Pustak Śīlaṅkaraṇ",
+      "english": "Bookstore Recommendation",
+      "description": "Visit a Marathi bookstore on J.M. Road to get book recommendations and discuss favorite Marathi authors and genres.",
+      "cityId": "pune",
+      "districtId": "pune-jmg-roads",
+      "locationId": "pune-jmg-bookstore",
+      "requiredWords": [
+        {"marathi": " पुस्तक ", "transliteration": "pustak", "english": "book"},
+        {"marathi": " लेखक ", "transliteration": "lekhak", "english": "author"},
+        {"marathi": " कथा ", "transliteration": "kathā", "english": "story"},
+        {"marathi": " कविता ", "transliteration": "kavitā", "english": "poem"},
+        {"marathi": " वाचन ", "transliteration": "vācana", "english": "reading"}
+      ],
+      "difficulty": "intermediate",
+      "rewards": {
+        "xp": 30,
+        "coins": 15,
+        "items": ["bookmark-literary-figure"]
+      },
+      "nextQuest": "pune-quest-cafe-conversation",
+      "npc": "pune-bookshop-owner-meena",
+      "dialogueFile": "pune_quest_bookstore_recommendation_dialogue.json",
+      "prerequisites": ["pune-quest-temple-visit"],
+      "timeLimit": null,
+      "dailyLimit": 2
+    },
+    {
+      "id": "pune-quest-cafe-conversation",
+      "title": "क Holden Gram",
+      "transliteration": "Chāhā Gušp",
+      "english": "Tea Shop Conversation",
+      "description": "Enjoy a conversation over cutting chai at a local cafe, practicing casual Marathi and learning about college life in Pune.",
+      "cityId": "pune",
+      "districtId": "pune-jmg-roads",
+      "locationId": "pune-jmg-cafe-culture",
+      "requiredWords": [
+        {"marathi": " चहा ", "transliteration": "chāhā", "english": "tea"},
+        {"marाठी": " गपशप ", "transliteration": "gapaśapa", "english": "chat"},
+        {"marathi": " मित्र ", "transliteration": "mitra", "english": "friend"},
+        {"marathi": " प्रवास ", "transliteration": "pravāsa", "english": "journey/trip"},
+        {"marathi": " भविष्य ", "transliteration": "bhaviṣya", "english": "future"}
+      ],
+      "difficulty": "beginner",
+      "rewards": {
+        "xp": 25,
+        "coins": 10,
+        "items": ["cafe-loyalty-stamp"]
+      },
+      "nextQuest": null,
+      "npc": "pune-cafe-owner-boman",
+      "dialogueFile": "pune_quest_cafe_conversation_dialogue.json",
+      "prerequisites": ["pune-quest-bookstore-recommendation"],
+      "timeLimit": null,
+      "dailyLimit": 5
+    },
+    {
+      "id": "pune-quest-emergency-directions",
+      "title": "आtertत मार्ग सूचना",
+      "transliteration": "Āvartta Mārg Suchanā",
+      "english": "Emergency Directions",
+      "description": "Learn to ask for and understand emergency directions to the nearest hospital or police station in Marathi.",
+      "cityId": "pune",
+      "districtId": "pune-camp-area",
+      "locationId": "pune-st-marys-church",
+      "requiredWords": [
+        {"marathi": " अस्पादळ ", "transliteration": "aspātala", "english": "hospital"},
+        {"marathi": " पुलिस स्टेशन ", "transliteration": "pulīs stēśan", "english": "police station"},
+        {"marathi": " दुर्घटना ", "transliteration": "durghaṭanā", "english": "accident"},
+        {"marathi": " मदद ", "transliteration": "madada", "english": "help"},
+        {"marathi": " जरे ", "transliteration": "jarē", "english": "quickly/fast"}
+      ],
+      "difficulty": "intermediate",
+      "rewards": {
+        "xp": 40,
+        "coins": 30,
+        "items": ["emergency-contact-card"]
+      },
+      "nextQuest": "pune-quest-medical-visit",
+      "npc": "pune-police-officer-nihal",
+      "dialogueFile": "pune_quest_emergency_directions_dialogue.json",
+      "prerequisites": [],
+      "timeLimit": null,
+      "dailyLimit": 1
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "lastUpdated": "2024-01-15",
+    "totalQuests": 7,
+    "description": "Sample quests data showing structure - to be expanded to 100+ quests"
+  }
+}

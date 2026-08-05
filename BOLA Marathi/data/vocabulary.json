@@ -1,0 +1,309 @@
+{
+  "vocabulary": {
+    "greetings": [
+      {
+        "marathi": "नमस्कार",
+        "transliteration": "namaskār",
+        "english": "hello / greeting",
+        "pronunciation": "nuh-muhs-kaar",
+        "partsOfSpeech": ["interjection", "noun"],
+        "usage": "Formal greeting used anytime of day",
+        "example": "नमस्कार, कसे आहात?",
+        "exampleTranslit": "Namaskār, kase āhāt?",
+        "exampleEng": "Hello, how are you?",
+        "difficulty": "beginner"
+      },
+      {
+        "marathi": "कसे ho?",
+        "transliteration": "kase?",
+        "english": "how are you?",
+        "pronunciation": "kah-say",
+        "partsOfSpeech": ["phrase"],
+        "usage": "Informal way to ask about someone's well-being",
+        "example": "होय, मी चांगलो आहे. तू कसे हो?",
+        "exampleTranslit": "Hoy, mī chānglo āhe. Tū kase ho?",
+        "exampleEng": "I'm good, how are you?",
+        "difficulty": "beginner"
+      },
+      {
+        "marathi": "सुप्रभात",
+        "transliteration": "suprabhāt",
+        "english": "good morning",
+        "pronunciation": "sue-pra-bhaat",
+        "partsOfSpeech": ["noun"],
+        "usage": "Used from sunrise until around 10 AM",
+        "example": "सुप्रभात! आजchus व hereditate चहा?",
+        "exampleTranslit": "Suprabhāt! Ājchas vāhərvāt chahā?",
+        "exampleEng": "Good morning! Want morning tea?",
+        "difficulty": "beginner"
+      },
+      {
+        "marathi": "शुभ संध्या",
+        "transliteration": "śubh sandhyā",
+        "english": "good evening",
+        "pronunciation": "shubh san-dhyaa",
+        "partsOfSpeech": ["noun"],
+        "usage": "Used from around 5 PM onwards",
+        "example": "शुभ संध्या! княacia evening walk?",
+        "exampleTranslit": "Shubh sandhyā! Kāy evening walk?",
+        "exampleEng": "Good evening! How about an evening walk?",
+        "difficulty": "beginner"
+      },
+      {
+        "marathi": "शुभ रात्रि",
+        "transliteration": "śubh rātrī",
+        "english": "good night",
+        "pronunciation": "shubh ra-tree",
+        "partsOfSpeech": ["noun"],
+        "usage": "Used when parting for the night or going to sleep",
+        "example": "तुमचा दिवस कस्तो आला? शुभ रात्रि!",
+        "exampleTranslit": "Tumchā divas kasto ālā? Shubh rātrī!",
+        "exampleEng": "How was your day? Good night!",
+        "difficulty": "beginner"
+      }
+    ],
+    "numbers": [
+      {
+        "marathi": "एक",
+        "transliteration": "ek",
+        "english": "one",
+        "pronunciation": "ek",
+        "partsOfSpeech": ["adjective", "noun"],
+        "usage": "Used for counting and quantities",
+        "example": "एक कप चहा",
+        "exampleTranslit": "Ek kap chāhā",
+        "exampleEng": "One cup of tea",
+        "difficulty": "beginner"
+      },
+      {
+        "marathi": "दोन",
+        "transliteration": "don",
+        "english": "two",
+        "pronunciation": "dohn",
+        "partsOfSpeech": ["adjective", "noun"],
+        "usage": "Used for counting and quantities",
+        "example": "दोन फळे",
+        "exampleTranslit": "Don phaḷe",
+        "exampleEng": "Two fruits",
+        "difficulty": "beginner"
+      },
+      {
+        "marathi": "तीन",
+        "transliteration": "tīn",
+        "english": "three",
+        "pronunciation": "teen",
+        "partsOfSpeech": ["adjective", "noun"],
+        "usage": "Used for counting and quantities",
+        "example": "तीन रस्ते",
+        "exampleTranscit": "Tīn raste",
+        "exampleEng": "Three ways/roads",
+        "difficulty": "beginner"
+      },
+      {
+        "marathi": "चार",
+        "transliteration": "chār",
+        "english": "four",
+        "pronunciation": "char",
+        "partsOfSpeech": ["adjective", "noun"],
+        "usage": "Used for counting and quantities",
+        "example": "चार वाजता",
+        "exampleTranslit": "Chār vājātā",
+        "exampleEng": "At four o'clock",
+        "difficulty": "beginner"
+      },
+      {
+        "marathi": "पाच",
+        "transliteration": "pāch",
+        "english": "five",
+        "pronunciation": "paach",
+        "partsOfSpeech": ["adjective", "noun"],
+        "usage": "Used for counting and quantities",
+        "example": "पाच दिवस",
+        "exampleTranslit": "Pāch divs",
+        "exampleEng": "Five days",
+        "difficulty": "beginner"
+      }
+    ],
+    "food_drink": [
+      {
+        "marathi": "चहा",
+        "transliteration": "chāhā",
+        "english": "tea",
+        "pronunciation": "cha-ha",
+        "partsOfSpeech": ["noun"],
+        "usage": "Refers to tea in general",
+        "example": "सकाळी चहा पिवुया के?",
+        "exampleTranslit": "Sakālī chāhā pivuyā ke?",
+        "exampleEng": "Shall we drink morning tea?",
+        "difficulty": "beginner"
+      },
+      {
+        "marathi": "क핫 कॉफी",
+        "transliteration": "kaṭiṅg kāphī",
+        "english": "cutting coffee",
+        "pronunciation": "kut-ting koh-fee",
+        "partsOfSpeech": ["noun"],
+        "usage": "Strong coffee served in small glasses (like cutting chai)",
+        "example": "OFFEE தேதா?",
+        "exampleTranslit": "Cutting coffee keli?",
+        "exampleEng": "Had cutting coffee?",
+        "difficulty": "intermediate"
+      },
+      {
+        "marathi": "वडा पाव",
+        "transliteration": "vaḍā pāv",
+        "english": "vada pav",
+        "pronunciation": "vuh-dah pahv",
+        "partsOfSpeech": ["noun"],
+        "usage": "Maharashtrian street food - potato fritter in bun",
+        "example": "वडा पाव खायला मन होत आहे?",
+        "exampleTranslit": "Vaḍā pāv khāyālā man hot āhe?",
+        "exampleEng": "Feeling like eating vada pav?",
+        "difficulty": "beginner"
+      },
+      {
+        "marathi": "misal pav",
+        "transliteration": "misāḷ pāv",
+        "english": "misal pav",
+        "pronunciation": "mee-saal pahv",
+        "partsOfSpeech": ["noun"],
+        "usage": "Spicy curry made from moth beans served with bread",
+        "example": "पुणेती misal pav खूप व्हखdre है?",
+        "exampleTranslit": "Puṇetī misāḷ pāv khup swādlisht āhe?",
+        "exampleEng": "Is misal pav very tasty in Pune?",
+        "difficulty": "intermediate"
+      },
+      {
+        "marathi": "पoha",
+        "transliteration": "poha",
+        "english": "poha (flattened rice)",
+        "pronunciation": "poh-hah",
+        "partsOfSpeech": ["noun"],
+        "usage": "Flattened rice breakfast dish with onions, potatoes",
+        "example": "सकाळी नाश्त्यासाठी पoha चांगला आहे?",
+        "exampleTranslit": "Sakālī nāsthyāsāṭi pohā chānglā āhe?",
+        "exampleEng": "Is poha good for breakfast?",
+        "difficulty": "beginner"
+      }
+    ],
+    "transportation": [
+      {
+        "marathi": "रिक्शा",
+        "transliteration": "rikshā",
+        "english": "rickshaw / auto-rickshaw",
+        "pronunciation": "rik-shah",
+        "partsOfSpeech": ["noun"],
+        "usage": "Three-wheeled vehicle for hire",
+        "example": "रिक्शा द्वारा स्टेशन जाणे",
+        "exampleTranslit": "Rikshā dvārā steshan jāṇe",
+        "exampleEng": "Go to station by rickshaw",
+        "difficulty": "beginner"
+      },
+      {
+        "marathi": "_LOCAL TRAIN",
+        "transliteration": "lokal ṭreyn",
+        "english": "local train",
+        "pronunciation": "loh-kal trayn",
+        "partsOfSpeech": ["noun"],
+        "usage": "Suburban railway system in Mumbai/Pune regions",
+        "example": "मुंबई लोकल ट्रेन छ点几点发车?",
+        "exampleTranslit": "Mumbaī lokāl ṭreyn kithe bajtā?",
+        "exampleEng": "What time does the Mumbai local train leave?",
+        "difficulty": "intermediate"
+      },
+      {
+        "marathi": "बस",
+        "transliteration": "bas",
+        "english": "bus",
+        "pronunciation": "bus",
+        "partsOfSpeech": ["noun"],
+        "usage": "Public bus transportation",
+        "example": "स्वतःस्ट temperatur क्या 노선?",
+        "exampleTranslit": "Svātasthān kis marg par?",
+        "exampleEng": "Which route from the stand?",
+        "difficulty": "beginner"
+      },
+      {
+        "marathi": "टैाकी",
+        "transliteration": "ṭākī",
+        "english": "taxi",
+        "pronunciation": "taa-kee",
+        "partsOfSpeech": ["noun"],
+        "usage": "Hired car for transportation",
+        "example": "हवाई अड्डा tendencies?",
+        "exampleTranslit": "Hawāī addaṭā taksī kēlī?",
+        "exampleEng": "Should we take a taxi to airport?",
+        "difficulty": "beginner"
+      }
+    ],
+    "directions": [
+      {
+        "marathi": "रीght",
+        "transliteration": "riṭh",
+        "english": "right",
+        "pronunciation": "rikt",
+        "partsOfSpeech": ["adjective", "adverb"],
+        "usage": "Directional term for right turn",
+        "example": "अगadur रीght मोड",
+        "exampleTranslit": "Agādhar riṭh moḍ",
+        "exampleEng": "Turn right ahead",
+        "difficulty": "beginner"
+      },
+      {
+        "marathi": "left",
+        "transliteration": "lefṭ",
+        "english": "left",
+        "pronunciation": "left",
+        "partsOfSpeech": ["adjective", "adverb"],
+        "usage": "Directional term for left turn",
+        "example": "शिवaji चौकstatecznie left",
+        "exampleTranslit": "Shivājī chauk javāb lat",
+        "exampleEng": "At Shivaji Chowk, go left",
+        "difficulty": "beginner"
+      },
+      {
+        "marathi": "straight",
+        "transliteration": "streṭh",
+        "english": "straight",
+        "pronunciation": "stret",
+        "partsOfSpeech": ["adjective", "adverb"],
+        "usage": "Continue without turning",
+        "example": "पुढे straight जायच?",
+        "exampleTranslit": "Pudhe streṭh jāyach?",
+        "exampleEng": "Should we go straight ahead?",
+        "difficulty": "beginner"
+      },
+      {
+        "marathi": "near",
+        "transliteration": "niār",
+        "english": "near",
+        "pronunciation": "near",
+        "partsOf": ["adjective", "preposition"],
+        "usage": "Indicates proximity",
+        "example": "रेलवे station Nähe चहा दुकान",
+        "exampleTranslit": "Relve steshan nēr chāhā dukān",
+        "exampleEng": "Tea shop near railway station",
+        "difficulty": "beginner"
+      },
+      {
+        "marathi": "far",
+        "transliteration": "fār",
+        "english": "far",
+        "pronunciation": "fahr",
+        "partsOfSpeech": ["adjective", "adverb"],
+        "usage": "Indicates distance",
+        "example": "ते द्वार खूप far आहेत",
+        "exampleTranslit": "Te dvār khūp fār āhet",
+        "exampleEng": "Those doors are very far",
+        "difficulty": "beginner"
+      }
+    ]
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "lastUpdated": "2024-01-15",
+    "totalCategories": 5,
+    "totalWords": 25,
+    "description": "Sample vocabulary data showing categorization - to be expanded to 1500+ words across 15+ categories"
+  }
+}

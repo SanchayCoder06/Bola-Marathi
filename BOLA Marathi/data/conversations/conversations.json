@@ -1,0 +1,899 @@
+{
+  "pune_taxi_start": {
+    "npcName": "Rickshaw Dada (रिक्षावाले दादा)",
+    "npcAvatar": "🛺",
+    "npcText": "नमस्कार साहेब! शनिवार वाड्याला जायचे आहे का? (Hello sir! Do you want to go to Shaniwar Wada?)",
+    "npcAudioText": "नमस्कार साहेब! शनिवार वाड्याला जायचे आहे का?",
+    "options": [
+      {
+        "text": "हो दादा, किती भाडे होईल? (Yes brother, how much fare will it be?)",
+        "nextId": "pune_taxi_fare",
+        "reputationImpact": 10
+      },
+      {
+        "text": "हो, शनिवार वाडा चल. (Yes, go to Shaniwar Wada.)",
+        "nextId": "pune_taxi_rude",
+        "reputationImpact": -5
+      },
+      {
+        "text": "नाही, मला गरवारे कॉलेजला जायचे आहे. (No, I want to go to Garware College.)",
+        "nextId": "pune_taxi_alternate",
+        "reputationImpact": 5
+      }
+    ]
+  },
+  "pune_taxi_rude": {
+    "npcName": "Rickshaw Dada (रिक्षावाले दादा)",
+    "npcAvatar": "🛺",
+    "npcText": "साहेब, जरा आदराने बोला. आम्ही पण माणसं आहोत. (Sir, speak with respect. We are also humans.)",
+    "npcAudioText": "साहेब, जरा आदराने बोला. आम्ही पण माणसं आहोत.",
+    "options": [
+      {
+        "text": "माफ करा दादा, शनिवार वाड्याचे भाडे किती? (Sorry brother, how much fare to Shaniwar Wada?)",
+        "nextId": "pune_taxi_fare",
+        "reputationImpact": 10
+      },
+      {
+        "text": "भाडे मीटरनेच घेणार ना? (You will charge by the meter, right?)",
+        "nextId": "pune_taxi_meter",
+        "reputationImpact": 5
+      },
+      {
+        "text": "नको मग, मी दुसरी रिक्षा पाहतो. (Then I don't want, I will look for another rickshaw.)",
+        "nextId": "pune_taxi_exit",
+        "reputationImpact": -10
+      }
+    ]
+  },
+  "pune_taxi_alternate": {
+    "npcName": "Rickshaw Dada (रिक्षावाले दादा)",
+    "npcAvatar": "🛺",
+    "npcText": "तिथले ऐंशी रुपये होतील साहेब. बसायचे का? (That will be eighty rupees sir. Want to sit?)",
+    "npcAudioText": "तिथले ऐंशी रुपये होतील साहेब. बसायचे का?",
+    "options": [
+      {
+        "text": "हो दादा, चला. (Yes brother, let's go.)",
+        "nextId": "pune_taxi_success",
+        "reputationImpact": 10
+      },
+      {
+        "text": "ऐंशी रुपये खूप जास्त आहेत, सत्तर रुपये घ्या. (Eighty rupees is too much, take seventy.)",
+        "nextId": "pune_taxi_bargain",
+        "reputationImpact": 5
+      },
+      {
+        "text": "नको दादा, मीटरने चला. (No brother, go by the meter.)",
+        "nextId": "pune_taxi_meter",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_taxi_fare": {
+    "npcName": "Rickshaw Dada (रिक्षावाले दादा)",
+    "npcAvatar": "🛺",
+    "npcText": "पन्नास रुपये होतील साहेब. मीटरनेच आहे. चला, बसा. (Fifty rupees it will be sir. It is by the meter. Come, sit.)",
+    "npcAudioText": "पन्नास रुपये होतील साहेब. मीटरनेच आहे. चला, बसा.",
+    "options": [
+      {
+        "text": "ठीक आहे दादा, धन्यवाद, चला. (Okay brother, thank you, let's go.)",
+        "nextId": "pune_taxi_success",
+        "reputationImpact": 10
+      },
+      {
+        "text": "चाळीस रुपये द्या ना, रोजचे आहे आमचे. (Give for forty rupees please, it is our daily route.)",
+        "nextId": "pune_taxi_bargain",
+        "reputationImpact": 5
+      },
+      {
+        "text": "माझ्याकडे शंभर रुपयांची नोट आहे, सुट्टे आहेत का? (I have a hundred rupee note, do you have change?)",
+        "nextId": "pune_taxi_change",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_taxi_meter": {
+    "npcName": "Rickshaw Dada (रिक्षावाले दादा)",
+    "npcAvatar": "🛺",
+    "npcText": "हो साहेब, मीटर प्रमाणेच घेऊ. चला बसा. (Yes sir, we will take by the meter. Come sit.)",
+    "npcAudioText": "हो साहेब, मीटर प्रमाणेच घेऊ. चला बसा.",
+    "options": [
+      {
+        "text": "ठीक आहे दादा, चला मग. (Okay brother, let's go then.)",
+        "nextId": "pune_taxi_success",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_taxi_change": {
+    "npcName": "Rickshaw Dada (रिक्षावाले दादा)",
+    "npcAvatar": "🛺",
+    "npcText": "हो साहेब, सुट्टे आहेत माझ्याकडे. काळजी करू नका. (Yes sir, I have change. Don't worry.)",
+    "npcAudioText": "हो साहेब, सुट्टे आहेत माझ्याकडे. काळजी करू नका.",
+    "options": [
+      {
+        "text": "उत्तम, चला मग. (Great, let's go then.)",
+        "nextId": "pune_taxi_success",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_taxi_bargain": {
+    "npcName": "Rickshaw Dada (रिक्षावाले दादा)",
+    "npcAvatar": "🛺",
+    "npcText": "नाही साहेब, मीटर प्रमाणे पन्नास रुपयेच होतात. कमी नाही होणार. (No sir, it's fifty rupees by the meter. Won't be less.)",
+    "npcAudioText": "नाही साहेब, मीटर प्रमाणे पन्नास रुपयेच होतात. कमी नाही होणार.",
+    "options": [
+      {
+        "text": "ठीक आहे दादा, पन्नास रुपये देतो. चला. (Okay brother, I will give fifty rupees. Let's go.)",
+        "nextId": "pune_taxi_success",
+        "reputationImpact": 5
+      },
+      {
+        "text": "नको मग, मी चालत जातो. (No then, I will walk.)",
+        "nextId": "pune_taxi_exit",
+        "reputationImpact": -5
+      }
+    ]
+  },
+  "pune_taxi_success": {
+    "npcName": "Rickshaw Dada (रिक्षावाले दादा)",
+    "npcAvatar": "🛺",
+    "npcText": "चला, आलो शनिवार वाड्यावर! सुखरूप पोहोचलो! धन्यवाद साहेब! (Here we are, arrived at Shaniwar Wada! Reached safely! Thank you sir!)",
+    "npcAudioText": "चला, आलो शनिवार वाड्यावर! सुखरूप पोहोचलो! धन्यवाद साहेब!",
+    "options": [],
+    "isSuccess": true,
+    "xpAward": 50
+  },
+  "pune_taxi_exit": {
+    "npcName": "Rickshaw Dada (रिक्षावाले दादा)",
+    "npcAvatar": "🛺",
+    "npcText": "ठीक आहे साहेब, जशी तुमची इच्छा. (Okay sir, as you wish.)",
+    "npcAudioText": "ठीक आहे साहेब, जशी तुमची इच्छा.",
+    "options": [],
+    "isFailure": true
+  },
+  "pune_restaurant": {
+    "npcName": "Waiter Dada (वेटेर दादा)",
+    "npcAvatar": "👨‍🍳",
+    "npcText": "नमस्कार साहेब! स्वागत आहे. काय हवं तुम्हाला? (Hello sir! Welcome. What do you want?)",
+    "npcAudioText": "नमस्कार साहेब! स्वागत आहे. काय हवं तुम्हाला?",
+    "options": [
+      {
+        "text": "कृपया मला आधी पाणी द्याल का? (Please will you give me water first?)",
+        "nextId": "pune_restaurant_water",
+        "reputationImpact": 10
+      },
+      {
+        "text": "तुमच्याकडे खायला काय आहे? (What do you have to eat?)",
+        "nextId": "pune_restaurant_menu",
+        "reputationImpact": 10
+      },
+      {
+        "text": "मला बिल द्या. (Give me the bill.)",
+        "nextId": "pune_restaurant_bill_early",
+        "reputationImpact": 5
+      }
+    ]
+  },
+  "pune_restaurant_water": {
+    "npcName": "Waiter Dada (वेटेर दादा)",
+    "npcAvatar": "👨‍🍳",
+    "npcText": "नक्कीच साहेब, हे घ्या थंड पाणी! जेवणात काय आणू? (Sure sir, here is cold water! What shall I bring in food?)",
+    "npcAudioText": "नक्कीच साहेब, हे घ्या थंड पाणी! जेवणात काय आणू?",
+    "options": [
+      {
+        "text": "मला एक प्लेट मिसळ पाव द्या. (Give me one plate of Misal Pav.)",
+        "nextId": "pune_restaurant_order_misal",
+        "reputationImpact": 10
+      },
+      {
+        "text": "पिठलं भाकरी आहे का? (Do you have Pithla Bhakri?)",
+        "nextId": "pune_restaurant_order_pithla",
+        "reputationImpact": 10
+      },
+      {
+        "text": "मला फक्त चहा हवा आहे. (I only want tea.)",
+        "nextId": "pune_restaurant_order_tea",
+        "reputationImpact": 5
+      }
+    ]
+  },
+  "pune_restaurant_menu": {
+    "npcName": "Waiter Dada (वेटेर दादा)",
+    "npcAvatar": "👨‍🍳",
+    "npcText": "आमच्याकडे गरमागरम पिठलं भाकरी, पुणेरी मिसळ पाव आणि मऊ मोदक आहेत! (We have hot Pithla Bhakri, Puneri Misal Pav, and soft Modaks!)",
+    "npcAudioText": "आमच्याकडे गरमागरम पिठलं भाकरी, पुणेरी मिसळ पाव आणि मऊ मोदक आहेत!",
+    "options": [
+      {
+        "text": "मला एक मिसळ पाव द्या. (Give me one Misal Pav.)",
+        "nextId": "pune_restaurant_order_misal",
+        "reputationImpact": 10
+      },
+      {
+        "text": "एक पिठलं भाकरी आणि ताक द्या. (Give one Pithla Bhakri and buttermilk.)",
+        "nextId": "pune_restaurant_order_pithla",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_restaurant_order_misal": {
+    "npcName": "Waiter Dada (वेटेर दादा)",
+    "npcAvatar": "👨‍🍳",
+    "npcText": "उत्कृष्ट निवड साहेब! पाच मिनिटात आणतो. तिखट पाहिजे का? (Excellent choice sir! Bringing in 5 minutes. Do you want it spicy?)",
+    "npcAudioText": "उत्कृष्ट निवड साहेब! पाच मिनिटात आणतो. तिखट पाहिजे का?",
+    "options": [
+      {
+        "text": "हो, तिखट बनवा. (Yes, make it spicy.)",
+        "nextId": "pune_restaurant_eating",
+        "reputationImpact": 10
+      },
+      {
+        "text": "नाही, मध्यम तिखट ठेवा. (No, keep it medium spicy.)",
+        "nextId": "pune_restaurant_eating",
+        "reputationImpact": 10
+      },
+      {
+        "text": "तिखट नको, अजिबात तिखट नको. (No spicy, not at all spicy.)",
+        "nextId": "pune_restaurant_eating",
+        "reputationImpact": 5
+      }
+    ]
+  },
+  "pune_restaurant_order_pithla": {
+    "npcName": "Waiter Dada (वेटेर दादा)",
+    "npcAvatar": "👨‍🍳",
+    "npcText": "पिठलं भाकरी सोबत कांदा आणि ठेचा पण आणू का? (Shall I bring onions and dynamic chilly chutney alongside Pithla Bhakri?)",
+    "npcAudioText": "पिठलं भाकरी सोबत कांदा आणि ठेचा पण आणू का?",
+    "options": [
+      {
+        "text": "हो दादा, नक्कीच आणा! (Yes brother, surely bring it!)",
+        "nextId": "pune_restaurant_eating",
+        "reputationImpact": 10
+      },
+      {
+        "text": "नाही, फक्त पिठलं भाकरी द्या. (No, just give Pithla Bhakri.)",
+        "nextId": "pune_restaurant_eating",
+        "reputationImpact": 5
+      }
+    ]
+  },
+  "pune_restaurant_order_tea": {
+    "npcName": "Waiter Dada (वेटेर दादा)",
+    "npcAvatar": "👨‍🍳",
+    "npcText": "ठीक आहे साहेब, चहा लगेच आणतो. (Okay sir, bringing tea immediately.)",
+    "npcAudioText": "ठीक आहे साहेब, चहा लगेच आणतो.",
+    "options": [
+      {
+        "text": "धन्यवाद. (Thank you.)",
+        "nextId": "pune_restaurant_eating",
+        "reputationImpact": 5
+      }
+    ]
+  },
+  "pune_restaurant_eating": {
+    "npcName": "Waiter Dada (वेटेर दादा)",
+    "npcAvatar": "👨‍🍳",
+    "npcText": "हे घ्या तुमचे जेवण! चव कशी आहे साहेब? (Here is your food! How is the taste sir?)",
+    "npcAudioText": "हे घ्या तुमचे जेवण! चव कशी आहे साहेब?",
+    "options": [
+      {
+        "text": "जेवण खूप चवदार आहे! आता बिल द्या. (Food is very tasty! Now give the bill.)",
+        "nextId": "pune_restaurant_bill",
+        "reputationImpact": 10
+      },
+      {
+        "text": "चव छान आहे, पण मला अजून एक मोदक हवा आहे. (Taste is good, but I want one more Modak.)",
+        "nextId": "pune_restaurant_extra",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_restaurant_extra": {
+    "npcName": "Waiter Dada (वेटेर दादा)",
+    "npcAvatar": "👨‍🍳",
+    "npcText": "नक्कीच साहेब, हा घ्या गरम मोदक! अजून काही? (Sure sir, here is a hot Modak! Anything else?)",
+    "npcAudioText": "नक्कीच साहेब, हा घ्या गरम मोदक! अजून काही?",
+    "options": [
+      {
+        "text": "नाही धन्यवाद, आता बिल आणा. (No thank you, now bring the bill.)",
+        "nextId": "pune_restaurant_bill",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_restaurant_bill_early": {
+    "npcName": "Waiter Dada (वेटेर दादा)",
+    "npcAvatar": "👨‍🍳",
+    "npcText": "साहेब, तुम्ही अजून काही खाल्लेच नाही. बिल कशाचे देऊ? (Sir, you haven't eaten anything yet. What bill shall I give?)",
+    "npcAudioText": "साहेब, तुम्ही अजून काही खाल्लेच नाही. बिल कशाचे देऊ?",
+    "options": [
+      {
+        "text": "माफ करा, आधी मेनू दाखवा मग. (Sorry, show the menu first then.)",
+        "nextId": "pune_restaurant_menu",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_restaurant_bill": {
+    "npcName": "Waiter Dada (वेटेर दादा)",
+    "npcAvatar": "👨‍🍳",
+    "npcText": "एकूण ऐंशी रुपये झाले साहेब! (It is eighty rupees in total sir!)",
+    "npcAudioText": "एकूण ऐंशी रुपये झाले साहेब!",
+    "options": [
+      {
+        "text": "हे घ्या शंभर रुपये. उरलेले पैसे ठेवा. (Here is hundred rupees. Keep the change.)",
+        "nextId": "pune_restaurant_complete",
+        "reputationImpact": 15
+      },
+      {
+        "text": "मी ऑनलाईन पेमेंट (UPI) करू शकतो का? (Can I do online payment UPI?)",
+        "nextId": "pune_restaurant_upi",
+        "reputationImpact": 10
+      },
+      {
+        "text": "हे घ्या ऐंशी रुपये बरोबर. (Here is exactly eighty rupees.)",
+        "nextId": "pune_restaurant_complete",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_restaurant_upi": {
+    "npcName": "Waiter Dada (वेटेर दादा)",
+    "npcAvatar": "👨‍🍳",
+    "npcText": "हो साहेब, काउंटरवर क्यूआर कोड आहे, स्कॅन करा. (Yes sir, there is a QR code on the counter, scan it.)",
+    "npcAudioText": "हो साहेब, काउंटरवर क्यूआर कोड आहे, स्कॅन करा.",
+    "options": [
+      {
+        "text": "हो, मी पे केले आहे. धन्यवाद! (Yes, I have paid. Thank you!)",
+        "nextId": "pune_restaurant_complete",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_restaurant_complete": {
+    "npcName": "Waiter Dada (वेटेर दादा)",
+    "npcAvatar": "👨‍🍳",
+    "npcText": "खूप खूप धन्यवाद साहेब! पुन्हा या! (Thank you very much sir! Come again!)",
+    "npcAudioText": "खूप खूप धन्यवाद साहेब! पुन्हा या!",
+    "options": [],
+    "isSuccess": true,
+    "xpAward": 60,
+    "coinsAward": 1
+  },
+  "pune_market_bargain": {
+    "npcName": "Kaku (काकू - Shop Owner)",
+    "npcAvatar": "👩‍💼",
+    "npcText": "या साहेब, काय दाखवू? साडी की दागिने? (Come sir, what shall I show? Saree or jewelry?)",
+    "npcAudioText": "या साहेब, काय दाखवू? साडी की दागिने?",
+    "options": [
+      {
+        "text": "मला पुणेरी साडी दाखवा ना. (Show me Puneri Saree please.)",
+        "nextId": "pune_market_saree",
+        "reputationImpact": 10
+      },
+      {
+        "text": "दागिने कुठे मिळतील? (Where will I get jewelry?)",
+        "nextId": "pune_market_jewelry",
+        "reputationImpact": 10
+      },
+      {
+        "text": "इथे काही स्वस्त वस्तू आहेत का? (Are there any cheap items here?)",
+        "nextId": "pune_market_cheap",
+        "reputationImpact": 5
+      }
+    ]
+  },
+  "pune_market_saree": {
+    "npcName": "Kaku (काकू - Shop Owner)",
+    "npcAvatar": "👩‍💼",
+    "npcText": "ही बघा रेशमी पुणेरी साडी! किंमत पाचशे रुपये आहे. (Look at this silk Puneri Saree! The price is five hundred rupees.)",
+    "npcAudioText": "ही बघा रेशमी पुणेरी साडी! किंमत पाचशे रुपये आहे.",
+    "options": [
+      {
+        "text": "काकू, साडी खूप महाग आहे. काही सवलत द्या. (Aunt, the saree is very expensive. Give some discount.)",
+        "nextId": "pune_market_bargain_saree",
+        "reputationImpact": 10
+      },
+      {
+        "text": "मला यात दुसरा रंग हवा आहे. (I want another color in this.)",
+        "nextId": "pune_market_color",
+        "reputationImpact": 10
+      },
+      {
+        "text": "ठीक आहे, मी ही खरेदी करतो. (Okay, I will buy this.)",
+        "nextId": "pune_market_buy_saree",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_market_color": {
+    "npcName": "Kaku (काकू - Shop Owner)",
+    "npcAvatar": "👩‍💼",
+    "npcText": "आपल्याकडे लाल आणि हिरवा रंग पण आहे. हे पहा! (We have red and green color too. Look at this!)",
+    "npcAudioText": "आपल्याकडे लाल आणि हिरवा रंग पण आहे. हे पहा!",
+    "options": [
+      {
+        "text": "मला हिरवा रंग आवडला, याची किंमत किती? (I liked the green color, what is its price?)",
+        "nextId": "pune_market_saree_price",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_market_saree_price": {
+    "npcName": "Kaku (काकू - Shop Owner)",
+    "npcAvatar": "👩‍💼",
+    "npcText": "हिरव्या साडीची किंमत चारशे पन्नास रुपये आहे. (The price of green saree is four hundred and fifty rupees.)",
+    "npcAudioText": "हिरव्या साडीची किंमत चारशे पन्नास रुपये आहे.",
+    "options": [
+      {
+        "text": "चारशे रुपये घ्या ना काकू, प्लीज! (Take four hundred rupees aunt, please!)",
+        "nextId": "pune_market_bargain_saree",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_market_bargain_saree": {
+    "npcName": "Kaku (काकू - Shop Owner)",
+    "npcAvatar": "👩‍💼",
+    "npcText": "ठीक आहे साहेब, तुमच्यासाठी चारशे वीस रुपये लावू. यापेक्षा कमी नाही होणार. (Okay sir, for you we will charge four hundred and twenty rupees. Won't be less than this.)",
+    "npcAudioText": "ठीक आहे साहेब, तुमच्यासाठी चारशे वीस रुपये लावू. यापेक्षा कमी नाही होणार.",
+    "options": [
+      {
+        "text": "ठीक आहे काकू, चारशे वीस रुपये देतो. (Okay aunt, I will give four hundred and twenty rupees.)",
+        "nextId": "pune_market_buy_saree",
+        "reputationImpact": 10
+      },
+      {
+        "text": "नाही, मला नको आहे. (No, then I don't want it.)",
+        "nextId": "pune_market_exit",
+        "reputationImpact": -5
+      }
+    ]
+  },
+  "pune_market_buy_saree": {
+    "npcName": "Kaku (काकू - Shop Owner)",
+    "npcAvatar": "👩‍💼",
+    "npcText": "ठीक आहे साहेब, ही घ्या तुमची साडी. पिशवी हवी आहे का? (Okay sir, here is your saree. Do you want a bag?)",
+    "npcAudioText": "ठीक आहे साहेब, ही घ्या तुमची साडी. पिशवी हवी आहे का?",
+    "options": [
+      {
+        "text": "हो काकू, पिशवी द्या. (Yes aunt, give a bag.)",
+        "nextId": "pune_market_saree_complete",
+        "reputationImpact": 10
+      },
+      {
+        "text": "नाही, माझ्याकडे पिशवी आहे. (No, I have a bag.)",
+        "nextId": "pune_market_saree_complete",
+        "reputationImpact": 15
+      }
+    ]
+  },
+  "pune_market_jewelry": {
+    "npcName": "Kaku (काकू - Shop Owner)",
+    "npcAvatar": "👩‍💼",
+    "npcText": "दागिन्यांचे दुकान गल्लीच्या कोपऱ्यावर आहे. तिथे खूप सुंदर झुमके मिळतात! (The jewelry shop is at the corner of the lane. You get very beautiful earrings there!)",
+    "npcAudioText": "दागिन्यांचे दुकान गल्लीच्या कोपऱ्यावर आहे. तिथे खूप सुंदर झुमके मिळतात!",
+    "options": [
+      {
+        "text": "धन्यवाद काकू, मी तिथे जातो. (Thank you aunt, I will go there.)",
+        "nextId": "pune_market_jewelry_redirect",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_market_jewelry_redirect": {
+    "npcName": "Kaku (काकू - Shop Owner)",
+    "npcAvatar": "👩‍💼",
+    "npcText": "पुन्हा या साहेब, काही हवे असल्यास सांगा. (Come again sir, let me know if you need anything.)",
+    "npcAudioText": "पुन्हा या साहेब, काही हवे असल्यास सांगा.",
+    "options": [],
+    "isSuccess": true,
+    "xpAward": 50
+  },
+  "pune_market_cheap": {
+    "npcName": "Kaku (काकू - Shop Owner)",
+    "npcAvatar": "👩‍💼",
+    "npcText": "आमच्याकडे पन्नास रुपयांचे लहान बटवे आहेत. ते खूप छान आहेत! (We have small purses for fifty rupees. They are very nice!)",
+    "npcAudioText": "आमच्याकडे पन्नास रुपयांचे लहान बटवे आहेत. ते खूप छान आहेत!",
+    "options": [
+      {
+        "text": "मला दोन बटवे द्या. (Give me two purses.)",
+        "nextId": "pune_market_saree_complete",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_market_saree_complete": {
+    "npcName": "Kaku (काकू - Shop Owner)",
+    "npcAvatar": "👩‍💼",
+    "npcText": "खरेदी केल्याबद्दल धन्यवाद साहेब! शनिवार वाड्याला नक्की भेट द्या! (Thank you for shopping sir! Do visit Shaniwar Wada!)",
+    "npcAudioText": "खरेदी केल्याबद्दल धन्यवाद साहेब! शनिवार वाड्याला नक्की भेट द्या!",
+    "options": [],
+    "isSuccess": true,
+    "xpAward": 50
+  },
+  "pune_market_exit": {
+    "npcName": "Kaku (काकू - Shop Owner)",
+    "npcAvatar": "👩‍💼",
+    "npcText": "ठीक आहे, जशी तुमची इच्छा. (Okay, as you wish.)",
+    "npcAudioText": "ठीक आहे, जशी तुमची इच्छा.",
+    "options": [],
+    "isFailure": true
+  },
+  "pune_directions": {
+    "npcName": "Student (विद्यार्थी - Local College Student)",
+    "npcAvatar": "🧑‍🎓",
+    "npcText": "नमस्कार मित्रा! शनिवार वाड्याचा रस्ता शोधतोयस का? (Hello friend! Are you searching for Shaniwar Wada road?)",
+    "npcAudioText": "नमस्कार मित्रा! शनिवार वाड्याचा रस्ता शोधतोयस का?",
+    "options": [
+      {
+        "text": "हो मित्रा, शनिवार वाडा कुठे आहे? (Yes friend, where is Shaniwar Wada?)",
+        "nextId": "pune_directions_way",
+        "reputationImpact": 10
+      },
+      {
+        "text": "शनिवार वाड्याचे तिकिट कुठे मिळते? (Where do you get Shaniwar Wada ticket?)",
+        "nextId": "pune_directions_ticket",
+        "reputationImpact": 10
+      },
+      {
+        "text": "मला रस्ता माहीत नाही, मदत कर. (I don't know the road, help me.)",
+        "nextId": "pune_directions_help",
+        "reputationImpact": 5
+      }
+    ]
+  },
+  "pune_directions_way": {
+    "npcName": "Student (विद्यार्थी - Local College Student)",
+    "npcAvatar": "🧑‍🎓",
+    "npcText": "इथून सरळ पुढे जा, नंतर पहिल्या चौकातून उजवीकडे वळा. (Go straight from here, then turn right at the first intersection.)",
+    "npcAudioText": "इथून सरळ पुढे जा, नंतर पहिल्या चौकातून उजवीकडे वळा.",
+    "options": [
+      {
+        "text": "तिथून किती अंतर आहे? (How far is it from there?)",
+        "nextId": "pune_directions_distance",
+        "reputationImpact": 10
+      },
+      {
+        "text": "पायी जाता येईल का? (Can we go on foot?)",
+        "nextId": "pune_directions_walk",
+        "reputationImpact": 10
+      },
+      {
+        "text": "धन्यवाद मित्रा, तुझ्या मदतीसाठी! (Thank you friend, for your help!)",
+        "nextId": "pune_directions_success",
+        "reputationImpact": 15
+      }
+    ]
+  },
+  "pune_directions_distance": {
+    "npcName": "Student (विद्यार्थी - Local College Student)",
+    "npcAvatar": "🧑‍🎓",
+    "npcText": "फक्त पाच मिनिटांचे अंतर आहे, खूप जवळ आहे. (It is only five minutes distance, very near.)",
+    "npcAudioText": "फक्त पाच मिनिटांचे अंतर आहे, खूप जवळ आहे.",
+    "options": [
+      {
+        "text": "ठीक आहे, मी पायीच जातो. धन्यवाद! (Okay, I will walk. Thank you!)",
+        "nextId": "pune_directions_success",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_directions_walk": {
+    "npcName": "Student (विद्यार्थी - Local College Student)",
+    "npcAvatar": "🧑‍🎓",
+    "npcText": "हो, पायी जाणे सोपे आहे, रिक्षाची गरज नाही. (Yes, walking is easy, no need for a rickshaw.)",
+    "npcAudioText": "हो, पायी जाणे सोपे आहे, रिक्षाची गरज नाही.",
+    "options": [
+      {
+        "text": "खूप छान, धन्यवाद मित्रा! (Very nice, thank you friend!)",
+        "nextId": "pune_directions_success",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_directions_ticket": {
+    "npcName": "Student (विद्यार्थी - Local College Student)",
+    "npcAvatar": "🧑‍🎓",
+    "npcText": "तिकिट काउंटर मुख्य दरवाज्यापाशीच आहे. तिकिट २५ रुपये आहे. (The ticket counter is right near the main gate. The ticket is 25 rupees.)",
+    "npcAudioText": "तिकिट काउंटर मुख्य दरवाज्यापाशीच आहे. तिकिट २५ रुपये आहे.",
+    "options": [
+      {
+        "text": "शनिवार वाडा आज उघडा आहे का? (Is Shaniwar Wada open today?)",
+        "nextId": "pune_directions_open",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_directions_open": {
+    "npcName": "Student (विद्यार्थी - Local College Student)",
+    "npcAvatar": "🧑‍🎓",
+    "npcText": "हो, शनिवार वाडा रोज सकाळी आठ ते संध्याकाळी सहा वाजेपर्यंत उघडा असतो. (Yes, Shaniwar Wada is open daily from eight in the morning until six in the evening.)",
+    "npcAudioText": "हो, शनिवार वाडा रोज सकाळी आठ ते संध्याकाळी सहा वाजेपर्यंत उघडा असतो.",
+    "options": [
+      {
+        "text": "मी आता निघतो, धन्यवाद! (I am leaving now, thank you!)",
+        "nextId": "pune_directions_success",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_directions_help": {
+    "npcName": "Student (विद्यार्थी - Local College Student)",
+    "npcAvatar": "🧑‍🎓",
+    "npcText": "काळजी करू नकोस, मी पण त्याच बाजूला चाललो आहे. मेरे सोबतीला ये. (Don't worry, I am also walking that way. Come with me.)",
+    "npcAudioText": "काळजी करू नकोस, मी पण त्याच बाजूला चाललो आहे. मेरे सोबतीला ये.",
+    "options": [
+      {
+        "text": "अरे वा, खूप खूप धन्यवाद मित्रा! (Wow, thank you very much friend!)",
+        "nextId": "pune_directions_success",
+        "reputationImpact": 15
+      }
+    ]
+  },
+  "pune_directions_success": {
+    "npcName": "Student (विद्यार्थी - Local College Student)",
+    "npcAvatar": "🧑‍🎓",
+    "npcText": "शनिवार वाडा समोरच आहे! तुझा दिवस चांगला जावो! (Shaniwar Wada is right in front! Have a good day!)",
+    "npcAudioText": "शनिवार वाडा समोरच आहे! तुझा दिवस चांगला जावो!",
+    "options": [],
+    "isSuccess": true,
+    "xpAward": 50
+  },
+  "pune_neighbor": {
+    "npcName": "Vahini (शेजारच्या वहिनी - Neighbor)",
+    "npcAvatar": "👩",
+    "npcText": "नमस्कार! तुम्ही नवीन भाडेकरू आहात का? (Hello! Are you the new tenant?)",
+    "npcAudioText": "नमस्कार! तुम्ही नवीन भाडेकरू आहात का?",
+    "options": [
+      {
+        "text": "हो वहिनी, मी कालच राहायला आलो. (Yes sister-in-law/madam, I moved in yesterday.)",
+        "nextId": "pune_neighbor_intro",
+        "reputationImpact": 10
+      },
+      {
+        "text": "हो, मी नवीन आहे. कचरा कुठे टाकायचा? (Yes, I am new. Where to throw garbage?)",
+        "nextId": "pune_neighbor_trash",
+        "reputationImpact": 5
+      },
+      {
+        "text": "नमस्कार वहिनी, पाणी वेळेवर येते का? (Hello madam, does water come on time?)",
+        "nextId": "pune_neighbor_water",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_neighbor_intro": {
+    "npcName": "Vahini (शेजारच्या वहिनी - Neighbor)",
+    "npcAvatar": "👩",
+    "npcText": "पुण्यात स्वागत आहे! तुमचे नाव काय? (Welcome to Pune! What is your name?)",
+    "npcAudioText": "पुण्यात स्वागत आहे! तुमचे नाव काय?",
+    "options": [
+      {
+        "text": "माझे नाव जॉन आहे. आणि तुमचे? (My name is John. And yours?)",
+        "nextId": "pune_neighbor_name",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_neighbor_name": {
+    "npcName": "Vahini (शेजारच्या वहिनी - Neighbor)",
+    "npcAvatar": "👩",
+    "npcText": "माझे नाव सविता आहे. काही मदत हवी असल्यास नक्की सांगा. (My name is Savita. Do let me know if you need any help.)",
+    "npcAudioText": "माझे नाव सविता आहे. काही मदत हवी असल्यास नक्की सांगा.",
+    "options": [
+      {
+        "text": "नक्कीच वहिनी, खूप खूप धन्यवाद. (Surely madam, thank you very much.)",
+        "nextId": "pune_neighbor_success",
+        "reputationImpact": 10
+      },
+      {
+        "text": "वहिनी, इथे कचऱ्याची गाडी कधी येते? (Madam, when does the garbage truck come here?)",
+        "nextId": "pune_neighbor_trash",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_neighbor_trash": {
+    "npcName": "Vahini (शेजारच्या वहिनी - Neighbor)",
+    "npcAvatar": "👩",
+    "npcText": "कचऱ्याची गाडी रोज सकाळी नऊ वाजता येते. सुका आणि ओला कचरा वेगळा ठेवावा लागतो. (The garbage truck comes daily at nine in the morning. Dry and wet garbage needs to be kept separate.)",
+    "npcAudioText": "कचऱ्याची गाडी रोज सकाळी नऊ वाजता येते. सुका आणि ओला कचरा वेगळा ठेवावा लागतो.",
+    "options": [
+      {
+        "text": "ठीक आहे वहिनी, मी लक्षात ठेवेन. (Okay madam, I will keep in mind.)",
+        "nextId": "pune_neighbor_success",
+        "reputationImpact": 10
+      },
+      {
+        "text": "पाणी २४ तास असते का? (Is there water 24 hours?)",
+        "nextId": "pune_neighbor_water",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_neighbor_water": {
+    "npcName": "Vahini (शेजारच्या वहिनी - Neighbor)",
+    "npcAvatar": "👩",
+    "npcText": "नाही, पाणी फक्त सकाळी दोन तास आणि संध्याकाळी दोन तास येते. बादल्या भरून ठेवाव्या लागतात. (No, water only comes for two hours in morning and two hours in evening. You have to fill buckets.)",
+    "npcAudioText": "नाही, पाणी फक्त सकाळी दोन तास आणि संध्याकाळी दोन तास येते. बादल्या भरून ठेवाव्या लागतात.",
+    "options": [
+      {
+        "text": "बापरे! मला बादली विकत घ्यावी लागेल. (Oh my! I will have to buy a bucket.)",
+        "nextId": "pune_neighbor_bucket",
+        "reputationImpact": 10
+      },
+      {
+        "text": "ठीक आहे, माहितीबद्दल धन्यवाद. (Okay, thank you for the information.)",
+        "nextId": "pune_neighbor_success",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_neighbor_bucket": {
+    "npcName": "Vahini (शेजारच्या वहिनी - Neighbor)",
+    "npcAvatar": "👩",
+    "npcText": "हो, बाजारातून एक मोठी बादली घेऊन या. जवळच दुकान आहे. (Yes, bring a big bucket from the market. There is a shop nearby.)",
+    "npcAudioText": "हो, बाजारातून एक मोठी बादली घेऊन या. जवळच दुकान आहे.",
+    "options": [
+      {
+        "text": "मी आजच आणतो, धन्यवाद वहिनी! (I will bring it today, thank you madam!)",
+        "nextId": "pune_neighbor_success",
+        "reputationImpact": 15
+      }
+    ]
+  },
+  "pune_neighbor_success": {
+    "npcName": "Vahini (शेजारच्या वहिनी - Neighbor)",
+    "npcAvatar": "👩",
+    "npcText": "ठीक आहे जॉन, शेजारी राहून एकमेकांना मदत करूया. (Okay John, let's help each other as neighbors.)",
+    "npcAudioText": "ठीक आहे जॉन, शेजारी राहून एकमेकांना मदत करूया.",
+    "options": [],
+    "isSuccess": true,
+    "xpAward": 50
+  },
+  "pune_mango_seller": {
+    "npcName": "Bhaiya (फळ विक्रेता - Fruit Seller)",
+    "npcAvatar": "🥭",
+    "npcText": "ताजे देवगड हापूस आंबे आहेत साहेब! शंभर टक्के गोड! काय भाव देऊ? (Fresh Devgad Alphonso mangoes are here sir! Hundred percent sweet! What rate shall I give?)",
+    "npcAudioText": "ताजे देवगड हापूस आंबे आहेत साहेब! शंभर टक्के गोड! काय भाव देऊ?",
+    "options": [
+      {
+        "text": "आंबे कसे दिले दादा? (How are the mangoes priced brother?)",
+        "nextId": "pune_mango_price",
+        "reputationImpact": 10
+      },
+      {
+        "text": "एक डझन आंबे कितीला आहेत? (How much for one dozen mangoes?)",
+        "nextId": "pune_mango_price",
+        "reputationImpact": 10
+      },
+      {
+        "text": "खूप महाग आंबे विकताय तुम्ही. (You sell very expensive mangoes.)",
+        "nextId": "pune_mango_rude",
+        "reputationImpact": -5
+      }
+    ]
+  },
+  "pune_mango_rude": {
+    "npcName": "Bhaiya (फळ विक्रेता - Fruit Seller)",
+    "npcAvatar": "🥭",
+    "npcText": "साहेब, ओरिजिनल हापूस आंबे आहेत! बाजारात यापेक्षा स्वस्त नाही मिळणार. (Sir, they are original Alphonso mangoes! You won't get cheaper than this in the market.)",
+    "npcAudioText": "साहेब, ओरिजिनल हापूस आंबे आहेत! बाजारात यापेक्षा स्वस्त नाही मिळणार.",
+    "options": [
+      {
+        "text": "बरं, एका डझनची किंमत काय? (Alright, what is the price of one dozen?)",
+        "nextId": "pune_mango_price",
+        "reputationImpact": 10
+      },
+      {
+        "text": "कमी करणार असाल तरच घेतो. (I will buy only if you reduce the price.)",
+        "nextId": "pune_mango_bargain_ask",
+        "reputationImpact": 5
+      }
+    ]
+  },
+  "pune_mango_price": {
+    "npcName": "Bhaiya (फळ विक्रेता - Fruit Seller)",
+    "npcAvatar": "🥭",
+    "npcText": "सहाशे रुपये डझन साहेब. आंबे एकदम पिकलेले आणि चवदार आहेत. (Six hundred rupees a dozen sir. Mangoes are fully ripe and tasty.)",
+    "npcAudioText": "सहाशे रुपये डझन साहेब. आंबे एकदम पिकलेले आणि चवदार आहेत.",
+    "options": [
+      {
+        "text": "सहाशे रुपये खूप जास्त आहेत, पाचशे रुपये घ्या. (Six hundred is too much, take five hundred.)",
+        "nextId": "pune_mango_bargain_success",
+        "reputationImpact": 10
+      },
+      {
+        "text": "काही सवलत मिळेल का? (Will we get some discount?)",
+        "nextId": "pune_mango_bargain_ask",
+        "reputationImpact": 10
+      },
+      {
+        "text": "ठीक आहे, एक डझन द्या. (Okay, give one dozen.)",
+        "nextId": "pune_mango_buy_direct",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_mango_bargain_ask": {
+    "npcName": "Bhaiya (फळ विक्रेता - Fruit Seller)",
+    "npcAvatar": "🥭",
+    "npcText": "चला, तुमच्यासाठी साडेपाचशे रुपये लावतो. यापेक्षा एक रुपया कमी नाही होणार. (Come, for you I will charge five hundred and fifty. Not one rupee less than this.)",
+    "npcAudioText": "चला, तुमच्यासाठी साडेपाचशे रुपये लावतो. यापेक्षा एक रुपया कमी नाही होणार.",
+    "options": [
+      {
+        "text": "ठीक आहे, साडेपाचशे रुपये देतो. चांगले आंबे निवडडून द्या. (Okay, I will give five hundred and fifty. Select and give good mangoes.)",
+        "nextId": "pune_mango_buy_select",
+        "reputationImpact": 10
+      },
+      {
+        "text": "पाचशे वीस रुपये घ्या ना दादा. (Take five hundred and twenty rupees brother.)",
+        "nextId": "pune_mango_bargain_final",
+        "reputationImpact": 5
+      }
+    ]
+  },
+  "pune_mango_bargain_success": {
+    "npcName": "Bhaiya (फळ विक्रेता - Fruit Seller)",
+    "npcAvatar": "🥭",
+    "npcText": "पाचशे रुपये खूप कमी होतात साहेब, पण आज बोहनीची वेळ आहे म्हणून देतो. चला घ्या! (Five hundred is too low sir, but it is morning sales time so I will give. Come take!)",
+    "npcAudioText": "पाचशे रुपये खूप कमी होतात साहेब, पण आज बोहनीची वेळ आहे म्हणून देतो. चला घ्या!",
+    "options": [
+      {
+        "text": "धन्यवाद दादा, हे घ्या पाचशे रुपये. (Thank you brother, here is five hundred rupees.)",
+        "nextId": "pune_mango_success",
+        "reputationImpact": 15
+      }
+    ]
+  },
+  "pune_mango_bargain_final": {
+    "npcName": "Bhaiya (फळ विक्रेता - Fruit Seller)",
+    "npcAvatar": "🥭",
+    "npcText": "ठीक आहे साहेब, द्या पाचशे वीस रुपये. पण कोणाला सांगू नका! (Okay sir, give five hundred and twenty rupees. But don't tell anyone!)",
+    "npcAudioText": "ठीक आहे साहेब, द्या पाचशे वीस रुपये. पण कोणाला सांगू नका!",
+    "options": [
+      {
+        "text": "नक्कीच दादा, धन्यवाद! (Surely brother, thank you!)",
+        "nextId": "pune_mango_success",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_mango_buy_direct": {
+    "npcName": "Bhaiya (फळ विक्रेता - Fruit Seller)",
+    "npcAvatar": "🥭",
+    "npcText": "हे घ्या एक डझन एकदम भारी आंबे! सहाशे रुपये झाले साहेब. (Here is one dozen very heavy/nice mangoes! It is six hundred rupees sir.)",
+    "npcAudioText": "हे घ्या एक डझन एकदम भारी आंबे! सहाशे रुपये झाले साहेब.",
+    "options": [
+      {
+        "text": "हे घ्या सहाशे रुपये, धन्यवाद. (Here is six hundred rupees, thank you.)",
+        "nextId": "pune_mango_success",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_mango_buy_select": {
+    "npcName": "Bhaiya (फळ विक्रेता - Fruit Seller)",
+    "npcAvatar": "🥭",
+    "npcText": "हे घ्या निवडलेले ताजे आंबे! सफर सुखाची असो! (Here are selected fresh mangoes! Have a nice journey!)",
+    "npcAudioText": "हे घ्या निवडलेले ताजे आंबे! सफर सुखाची असो!",
+    "options": [
+      {
+        "text": "खूप खूप धन्यवाद दादा. (Thank you very much brother.)",
+        "nextId": "pune_mango_success",
+        "reputationImpact": 10
+      }
+    ]
+  },
+  "pune_mango_success": {
+    "npcName": "Bhaiya (फळ विक्रेता - Fruit Seller)",
+    "npcAvatar": "🥭",
+    "npcText": "पुन्हा या साहेब! आंबे आवडले तर नक्की सांगा! (Come again sir! Do let me know if you liked the mangoes!)",
+    "npcAudioText": "पुन्हा या साहेब! आंबे आवडले तर नक्की सांगा!",
+    "options": [],
+    "isSuccess": true,
+    "xpAward": 50,
+    "coinsAward": 1
+  }
+}

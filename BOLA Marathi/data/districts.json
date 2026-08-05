@@ -1,0 +1,475 @@
+{
+  "districts": [
+    {
+      "id": "pune-shaniwar-wada",
+      "name": "Shaniwar Wada Area",
+      "cityId": "pune",
+      "description": "Historic area surrounding the majestic Shaniwar Wada fort, seat of the Peshwa rulers. This area is rich in history, traditional Maharashtrian architecture, and cultural significance.",
+      "unlockRequirement": {
+        "type": "storyProgress",
+        "value": 0,
+        "description": "Available from start"
+      },
+      "themeColor": "#8B4513",
+      "xpReward": 100,
+      "backgroundImage": "assets/images/districts/pune_shaniwar_wada.jpg",
+      "locations": [
+        "pune-shaniwar-wada-fort",
+        "pune-shaniwar-wada-market",
+        "pune-shaniwar-wada-temple",
+        "pune-shaniwar-wada-chaitanya"
+      ],
+      "npcs": [
+        "pune-guide-appasaheb",
+        "pune-historian-vishwas",
+        "pune-sweet-seller-lata"
+      ],
+      "ambientSounds": ["pune-city-ambience", "temple-bells-distance"],
+      "timeOfDayModifiers": {
+        "morning": {"multiplier": 1.2, "description": "Morning prayers and market opening"},
+        "afternoon": {"multiplier": 1.0, "description": "Standard exploration time"},
+        "evening": {"multiplier": 1.5, "description": "Evening aarti and cultural programs"},
+        "night": {"multiplier": 0.7, "description": "Limited access after dark"}
+      }
+    },
+    {
+      "id": "pune-jmg-roads",
+      "name": "J.M. Road Area",
+      "cityId": "pune",
+      "description": "Jungli Maharaj Road - popular college area filled with bookstores, cafes, and youth culture. Known for its Marathi bookshops and intellectual atmosphere.",
+      "unlockRequirement": {
+        "type": "xpThreshold",
+        "value": 500,
+        "description": "Reach 500 XP to explore J.M. Road area"
+      },
+      "themeColor": "#3498DB",
+      "xpReward": 150,
+      "backgroundImage": "assets/images/districts/pune_jmg_road.jpg",
+      "locations": [
+        "pune-jmg-bookstore",
+        "pune-jmg-cafe-culture",
+        "pune-jmg-student-hangout",
+        "pune-jmg-marathi-library"
+      ],
+      "npcs": [
+        "pune-professor-deshmukh",
+        "pune-student-anjali",
+        "pune-bookshop-owner-meena"
+      ],
+      "ambientSounds": ["college-chatter", "pages-turning", "coffee-machine"],
+      "timeOfDayModifiers": {
+        "morning": {"multiplier": 1.0, "description": "College students heading to class"},
+        "afternoon": {"multiplier": 1.3, "description": "Peak study and discussion time"},
+        "evening": {"multiplier": 1.1, "description": "Evening tuition and group studies"},
+        "night": {"multiplier": 0.8, "description": "Quieter, some late-night study groups"}
+      }
+    },
+    {
+      "id": "pune-camp-area",
+      "name": "Camp Area",
+      "cityId": "pune",
+      "description": "Historical British cantonment area with beautiful architecture, churches, and wide tree-lined streets. Known for its old-world charm and military history.",
+      "unlockRequirement": {
+        "type": "xpThreshold",
+        "value": 12: "Reach 000 XP"CampArea
+},
+"themeColor": #9B59B6
+]},
+{
+"xpReward": 200,
+"backgroundImage": "assets/images/districts/pune_camp_area.jpg",
+"locations": [
+"pune-st.maryschurch",
+"pune-burramainbuilding",
+"pune-boatclubwanderings",
+"pune-rumbiarea"
+],
+"npcs": [
+"pune-colonel-higgins",
+"pune-churchfather-michael",
+"pune-vendorsouthindianfilters"
+],
+"ambient Sounds": [
+"church-bells",
+"horse-carriage-distant",
+"leaves-rustling"
+],
+"timeOfDayModifiers": {
+"morning": {
+"multiplier": 1.1,
+"description": "Morning walks and military parade practice"
+},
+"afternoon": {
+"multiplier": 1.0,
+"description": "Peaceful afternoon for architecture appreciation"
+},
+"evening": {
+"multiplier": 1.2,
+"description": "Beautiful sunset views, ideal for leisurely walks"
+},
+"night": {
+"multiplier": 0.9,
+"description": "Quiet and serene, perfect for contemplative strolls"
+}
+}
+},
+{
+"id": "pune-koregaon-park",
+"name": "Koregaon Park",
+"cityId": "pune",
+"description": "Upscale residential area known for its organic cafes, boutiques, and international cuisine. Popular among expatriates and young professionals.",
+"unlockRequirement": {
+"type": "xpThreshold",
+"value": 2000,
+"description": "Reach 2,000 XP to explore Koregaon Park"
+},
+"themeColor": "#2ECC71",
+"xpReward": 250,
+"backgroundImage": "assets/images/districts/pune_koregaon_park.jpg",
+"locations": [
+"pune-osho-international",
+"pune-japanese-garden",
+"pune-organic-market",
+"pune-boutique-street"
+],
+"npcs": [
+"pune-cafe-owner-rohan",
+"pune-yoga-instructor-isha",
+"pune-boutique-manager-sneha"
+],
+"ambientSounds": ["soft-jazz", "espresso-machine", "light-conversation"],
+"timeOfDayModifiers": {
+"morning": {
+"multiplier": 1.3,
+"description": "Yoga practitioners and morning joggers"
+},
+"afternoon": {
+"multiplier": 0.9,
+"description": "Quieter afternoon, perfect for leisurely browsing"
+},
+"evening": {
+"multiplier": 1.4,
+"description": "Peak dining and socializing hours"
+},
+"night": {
+"multiplier": 1.1,
+"description": "Lively nightlife and late-night dining"
+}
+}
+},
+{
+"id": "pune-deccan-gymkhana",
+"name": "Deccan Gymkhana",
+"cityId": "pune",
+"description": "Residential and commercial area known for its educational institutions, hospitals, and the famous Deccan Gymkhana club.",
+"unlockRequirement": {
+"type": "xpThreshold",
+"value": 3000,
+"description": "Reach 3,000 XP to explore Deccan Gymkhana"
+},
+"themeColor": "#F39C12",
+"xpReward": 200,
+"backgroundImage": "assets/images/districts/pune_deccan_gymkhana.jpg",
+"locations": [
+"pune-deccan-hospital",
+"pune-law-college",
+"pune-gymkhana-club",
+"pune-sports-complex"
+],
+"npcs": [
+"pune-doctor-deshmukh",
+"pune-professor-ijjat",
+"pune-coach-kamble"
+],
+"ambientSounds": ["hospital-intercom", "whistle-blowing", "students-chatting"],
+"timeOfDayModifiers": {
+"morning": {
+"multiplier": 1.2,
+"description": "Morning rounds and college lectures"
+},
+"afternoon": {
+"multiplier": 1.0,
+"description": "Regular hospital visits and academic activities"
+},
+"evening": {
+"multiplier": 1.1,
+"description": "Sports practice and evening consultations"
+},
+"night": {
+"multiplier": 0.8,
+"description": "Reduced activity, mainly emergency services"
+}
+}
+},
+{
+"id": "pune-sinhagad-road",
+"name": "Sinhagad Road",
+"cityId": "pune",
+"description": "Scenic route leading to Sinhagad Fort, famous for its agricultural produce, especially vegetables and fruits, and traditional Maharashtrian cuisine.",
+"unlockRequirement": {
+"type": "xpThreshold",
+"value": 4000,
+"description": "Reach 4,000 XP to explore Sinhagad Road"
+},
+"themeColor": "#27AE60",
+"xpReward": 300,
+"backgroundImage": "assets/images/districts/pune_sinhagad_road.jpg",
+"locations": [
+"pune-vegetable-market",
+"pune-misti-shop",
+"pune-mango-orchard",
+"pune-wine-yard"
+],
+"npcs": [
+"pune-farmer-ramdas",
+"pune-vegetable-vendor-lata",
+"pune-milkman-balu"
+],
+"ambientSounds": ["bullock-cart", "birds-chirping", "distant-tractor"],
+"timeOfDayModifiers": {
+"morning": {
+"multiplier": 1.5,
+"description": "Early market activity and farming work"
+},
+"afternoon": {
+"multiplier": 1.0,
+"description": "Steady agricultural trade continues"
+},
+"evening": {
+"multiplier": 0.8,
+"description": "Market closing, farmers returning home"
+},
+"night": {
+"multiplier": 0.3,
+"description": "Very limited activity, mostly residential"
+}
+}
+},
+{
+"id": "pune-jangli-maharaj",
+"name": "Jangli Maharaj Road",
+"cityId": "pune",
+"description": "Another name for J.M. Road area, focusing on its cultural and educational significance as a student hub with numerous coaching classes and bookstores.",
+"unlockRequirement": {
+"type": "xpThreshold",
+"value": 1500,
+"description": "Reach 1,500 XP to explore Jangli Maharaj Road"
+},
+"themeColor": "#9B59B6",
+"xpReward": 175,
+"backgroundImage": "assets/images/districts/pune_jangli_maharaj.jpg",
+"locations": [
+"pune-coaching-centre",
+"pune-library-secondhand",
+"pune-stationery-shop",
+"pune-photocopy-shop"
+],
+"npcs": [
+"pune-coach-rana",
+"pune-librarian-meena",
+"pune-stationery-seller-vikas"
+],
+"ambientSounds": ["bell-ringing", "pages-flipping", "chalk-on-blackboard"],
+"timeOfDayModifiers": {
+"morning": {
+"multiplier": 1.4,
+"description": "Students rushing to morning classes"
+},
+"afternoon": {
+"multiplier": 1.2,
+"description": "Study groups and doubt-clearing sessions"
+},
+"evening": {
+"multiplier": 1.3,
+"description": "Evening tuition classes peak time"
+},
+"night": {
+"multiplier": 0.6,
+"description": "Most classes end, some self-study continues"
+}
+}
+},
+{
+"id": "pune-laxmi-road",
+"name": "Laxmi Road",
+"cityId": "pune",
+"description": "One of Pune's oldest and busiest commercial streets, famous for its jewelry shops, traditional clothing stores, and bustling market atmosphere.",
+"unlockRequirement": {
+"type": "xpThreshold",
+"value": 2500,
+"description": "Reach 2,500 XP to explore Laxmi Road"
+},
+"themeColor": "#E74C3C",
+"xpReward": 225,
+"backgroundImage": "assets/images/districts/pune_laxmi_road.jpg",
+"locations": [
+"pune-jewelry-shop",
+"pune-saree-emporium",
+"pune-spice-market",
+"pune-street-food-stall"
+],
+"npcs": [
+"pune-jeweler-joshi",
+"pune-saree-seller-lakshmi",
+"pune-spice-merchant-madhav"
+],
+"ambientSounds": ["bangle-jingling", "fabric-rustling", "street-vendor-calls"],
+"timeOfDayModifiers": {
+"morning": {
+"multiplier": 1.1,
+"description": "Shop owners opening their establishments"
+},
+"afternoon": {
+"multiplier": 1.3,
+"description": "Peak shopping hours for household essentials"
+},
+"evening": {
+"multiplier": 1.4,
+"description": "Festive atmosphere, ideal for wedding shopping"
+},
+"night": {
+"multiplier": 0.7,
+"description": "Most shops close, some food stalls remain open"
+}
+}
+},
+{
+"id": "pune-fc-road",
+"name": "Fergusson College Road",
+"cityId": "pune",
+"description": "Educational hub named after the prestigious Fergusson College, featuring academic institutions, student accommodations, and lively street culture.",
+"unlockRequirement": {
+"type": "xpThreshold",
+"value": 3500,
+"description": "Reach 3,500 XP to explore Fergusson College Road"
+},
+"themeColor": "#34495E",
+"xpReward": 200,
+"backgroundImage": "assets/images/districts/pune_fc_road.jpg",
+"locations": [
+"pune-fergusson-college",
+"pune-student-hostel",
+"pune-academic-bookstore",
+"pune-student-canteen"
+],
+"npcs": [
+"pune-professor-joshi",
+"pune-hostel-warden-savita",
+"pune-canteen-owner-dattu"
+],
+"ambientSounds": ["college-bell", "laughter-shouting", "bicycle-bell"],
+"timeOfDayModifiers": {
+"morning": {
+"multiplier": 1.5,
+"description": "Students rushing to morning lectures"
+},
+"afternoon": {
+"multiplier": 1.2,
+"description": "Labs, practicals, and group study sessions"
+},
+"evening": {
+"multiplier": 1.3,
+"description": "Assignment completion and project work peak"
+},
+"night": {
+"multiplier": 0.7,
+"description": "Library lights on, some late-night studying"
+}
+}
+},
+{
+"id": "pune-mg-road",
+"name": "M.G. Road",
+"cityId": "pune",
+"description": "Mahatma Gandhi Road - one of Pune's main arterial roads connecting various parts of the city, lined with commercial establishments, banks, and restaurants.",
+"unlockRequirement": {
+"type": "xpThreshold",
+"value": 4500,
+"description": "Reach 4,500 XP to explore M.G. Road"
+},
+"themeColor": "#1ABC9C",
+"xpReward": 175,
+"backgroundImage": "assets/images/districts/pune_mg_road.jpg",
+"locations": [
+"pune-bank-of-maharashtra",
+"pune-restaurant-row",
+"pune-pharmacy-store",
+"pune-taxi-stand"
+],
+"npcs": [
+"pune-bank-manager-shah",
+"pune-restaurant-owner-anita",
+"pune-pharmacist-leena"
+],
+"ambientSounds": ["vehicle-honk", "announcement-microphone", "footsteps-on-pavement"],
+"timeOfDayModifiers": {
+"morning": {
+"multiplier": 1.1,
+"description": "Commuters and early business opening"
+},
+"afternoon": {
+"multiplier": 1.2,
+"description": "Lunch crowd and business meetings"
+},
+"evening": {
+"multiplier": 1.3,
+"description": "After-work dining and shopping peak"
+},
+"night": {
+"multiplier": 0.9,
+"description": "Steady flow of late diners and night-shift workers"
+}
+}
+},
+{
+"id": "pune-dp-road",
+"name": "D.P. Road",
+"cityId": "pune",
+"description": "Datatransfer Prohibited Road - popular shopping destination known for its street fashion, junk food joints, and youthful vibe.",
+"unlockRequirement": {
+"type": "xpThreshold",
+"value": 5000,
+"description": "Reach 5,000 XP to explore D.P. Road"
+},
+"themeColor": "#E67E22",
+"xpReward": 200,
+"backgroundImage": "assets/images/districts/pune_dp_road.jpg",
+"locations": [
+"pune-street-fashion",
+"pune-chaat-bhandar",
+"pune-video-game-parlor",
+"pune-ice-cream-corner"
+],
+"npcs": [
+"pune-fashion-vendor-pooja",
+"pune-chaat-wallah-santosh",
+"pune-gamer-teen-akash"
+],
+"ambientSounds": ["sizzling-oil", "loud-music", "laughter-shouting"],
+"timeOfDayModifiers": {
+"morning": {
+"multiplier": 0.8,
+"description": "Slow start, mostly setup and preparation"
+},
+"afternoon": {
+"multiplier": 1.4,
+"description": "Student lunch break hotspot"
+},
+"evening": {
+"multiplier": 1.6,
+"description": "Peak hangout time for teenagers and young adults"
+},
+"night": {
+"multiplier": 1.2,
+"description": "Late-night snacking and socializing continues"
+}
+}
+}
+],
+"metadata": {
+"version": "1.0.0",
+"lastUpdated": "2024-01-15",
+"totalDistricts": 10,
+"description": "Detailed districts data for Pune city in BOLA Marathi Journey Mode"
+}
+}

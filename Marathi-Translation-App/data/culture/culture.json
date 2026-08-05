@@ -1,0 +1,28 @@
+{
+  "cultureCards": [
+    {
+      "id": "culture-pune-misal",
+      "title": "Puneri Misal Pav",
+      "category": "Food 🍛",
+      "description": "Misal Pav is a iconic spicy dish of Maharashtra. The Puneri version features a savory sprout curry (Usal) topped with crispy farsan, chopped onions, and lemon, served with soft bread rolls.",
+      "cityId": "pune",
+      "unlockXp": 50
+    },
+    {
+      "id": "culture-pune-ganpati",
+      "title": "Ganeshotsav",
+      "category": "Festival 🏮",
+      "description": "Introduced in its public form by Lokmanya Tilak in Pune, Ganesh Chaturthi is a 10-day festival of massive scale, culminating in grand musical processions of Dhol-Tasha drums on Anant Chaturdashi.",
+      "cityId": "pune",
+      "unlockXp": 150
+    },
+    {
+      "id": "culture-pune-shaniwarwada",
+      "title": "Shaniwar Wada",
+      "category": "History 🏰",
+      "description": "Built in 1732, Shaniwar Wada was the fortified seat of the Peshwas of the Maratha Empire. Though mostly destroyed by fires, its massive stone gates stand as a symbol of Maratha pride.",
+      "cityId": "pune",
+      "unlockXp": 300
+    }
+  ]
+}

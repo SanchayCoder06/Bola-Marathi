@@ -1,0 +1,582 @@
+{
+  "npcs": [
+    {
+      "id": "pune-tea-stall-owner-kisan",
+      "name": "किसान रामदास",
+      "transliteration": "Kisān Rāmadās",
+      "englishName": "Kisan Ramdas",
+      "age": 45,
+      "profession": "Tea Stall Owner",
+      "personality": "Warm, patient, loves sharing stories about Pune's history while serving cutting chai",
+      "avatarImage": "assets/images/npcs/avatars/kisan_tea_stall.jpg",
+      "portraitImage": "assets/images/npcs/portraits/kisan_tea_stall_portrait.png",
+      "voice": "male_middle_age_marathi_accent",
+      "city": "pune",
+      "district": "pune-fc-road",
+      "languages": ["Marathi", "Hindi"],
+      "friendshipLevel": 0,
+      "dialogueFile": "pune_npc_kisan_tea_stall.json",
+      "quests": [
+        "pune-quest-morning-chai-routine",
+        "pune-quest-tea-stall-supplies"
+      ],
+      "reward": {
+        "xp": 25,
+        "coins": 15,
+        "item": "special_masala_chai_recipe"
+      }
+    },
+    {
+      "id": "pune-rickshaw-driver-santosh",
+      "name": "संतोष कदम",
+      "transliteration": "Santōś Kaḍam",
+      "englishName": "Santosh Kadam",
+      "age": 32,
+      "profession": "Auto Rickshaw Driver",
+      "personality": "Cheerful, knows all shortcuts in Pune, often shares local gossip",
+      "avatarImage": "assets/images/npcs/avatars/santosh_rickshaw.jpg",
+      "portraitImage": "assets/images/npcs/portraits/santosh_rickshaw_portrait.png",
+      "voice": "male_young_adult_marathi_accent",
+      "city": "pune",
+      "district": "pune-mg-road",
+      "languages": ["Marathi", "Hindi", "English"],
+      "friendshipLevel": 0,
+      "dialogueFile": "pune_npc_santosh_rickshaw.json",
+      "quests": [
+        "pune-quest-rickshaw-route-learning",
+        "pune-quest-navigate-to-shaniwar-wada"
+      ],
+      "reward": {
+        "xp": 30,
+        "coins": 20,
+        "item": "rickshaw-driver-tip"
+      }
+    },
+    {
+      "id": "pune-college-student-anjali",
+      "name": "अंजली जोशी",
+      "transliteration": "Añjalī Jośī",
+      "englishName": "Anjali Joshi",
+      "age": 20,
+      "profession": "College Student",
+      "personality": "Studious, passionate about Marathi literature, helps others with language practice",
+      "avatarImage": "assets/images/npcs/avatars/anjali_student.jpg",
+      "portraitImage": "assets/images/npcs/portraits/anjali_student_portrait.png",
+      "voice": "female_young_adult_marathi_accent",
+      "city": "pune",
+      "district": "pune-jmg-roads",
+      "languages": ["Marathi", "English"],
+      "friendshipLevel": 0,
+      "dialogueFile": "pune_npc_anjali_student.json",
+      "quests": [
+        "pune-quest-literature-discussion",
+        "pune-quest-book-recommendation-exchange"
+      ],
+      "reward": {
+        "xp": 20,
+        "coins": 10,
+        "item": "marathi-poetry-bookmark"
+      }
+    },
+    {
+      "id": "pune-grandmother-shantabai",
+      "name": "शांताबाई देशमुख",
+      "transliteration": "Śāṭābāī Deśmukh",
+      "englishName": "Shantabai Deshmukh",
+      "age": 68,
+      "profession": "Homemaker / Grandmother",
+      "personality": "Wise, traditional, loves teaching grandchildren Marathi proverbs and recipes",
+      "avatarImage": "assets/images/npcs/avatars/shantabai_grandmother.jpg",
+      "portraitImage": "assets/images/npcs/portraits/shantabai_grandmother_portrait.png",
+      "voice": "female_elderly_marathi_accent",
+      "city": "pune",
+      "district": "pune-laxmi-camp-area",
+      "languages": ["Marathi"],
+      "friendshipLevel": 0,
+      "dialogueFile": "pune_npc_shantabai_grandmother.json",
+      "quests": [
+        "pune-quest-traditional-recipe-learning",
+        "pune-quest-marathi-proverbs-collection"
+      ],
+      "reward": {
+        "xp": 35,
+        "coins": 25,
+        "item": "family-recipe-book"
+      }
+    },
+    {
+      "id": "pune-police-officer-nihal",
+      "name": "nihAL भोसले",
+      "transliteration": "nihāl Bhōsle",
+      "englishName": "Nihal Bhosle",
+      "age": 38,
+      "profession": "Police Officer",
+      "personality": "Helpful, professional, ensures safety while being approachable for directions",
+      "avatarImage": "assets/images/npcs/avatars/nihal_police.jpg",
+      "portraitImage": "assets/images/npcs/portraits/nihal_police_portrait.png",
+      "voice": "male_middle_age_marathi_accent",
+      "city": "pune",
+      "district": "pune-camp-area",
+      "languages": ["Marathi", "Hindi", "English"],
+      "friendshipLevel": 0,
+      "dialogueFile": "pune_npc_nihal_police.json",
+      "quests": [
+        "pune-quest-report-lost-item",
+        "pune-quest-emergency-directions"
+      ],
+      "reward": {
+        "xp": 40,
+        "coins": 30,
+        "item": "police-assistance-badge"
+      }
+    },
+    {
+      "id": "pune-fruit-seller-lata",
+      "name": "लATA KUMBHAR",
+      "transliteration": "Lāṭā Kuṃbhār",
+      "englishName": "Lata Kumbhar",
+      "age": 28,
+      "profession": "Fruit Seller",
+      "personality": "Energetic, knows seasonal fruits best, offers samples to regular customers",
+      "avatarImage": "assets/images/npcs/avatars/lata_fruit.jpg",
+      "portraitImage": "assets/images/npcs/portraits/lata_fruit_portrait.png",
+      "voice": "female_young_adult_marathi_accent",
+      "city": "pune",
+      "district": "pune-laxmi-road",
+      "languages": ["Marathi", "Hindi"],
+      "friendshipLevel": 0,
+      "dialogueFile": "pune_npc_lata_fruit.json",
+      "quests": [
+        "pune-quest-seasonal-fruit-identification",
+        "pune-quest-fruit-bargaining-practice"
+      ],
+      "reward": {
+        "xp": 25,
+        "coins": 15,
+        "item": "fresh-fruit-sample"
+      }
+    },
+    {
+      "id": "pune-flower-vendor-seema",
+      "name": "सीमा फुलारी",
+      "transliteration": "Sīmā Phulārī",
+      "englishName": "Seema Phulari",
+      "age": 35,
+      "profession": "Flower Vendor",
+      "personality": "Cheerful, knowledgeable about flowers used in Marathi rituals and celebrations",
+      "avatarImage": "assets/images/npcs/avatars/seema_flower.jpg",
+      "portraitImage": "assets/images/npcs/portraits/seema_flower_portrait.png",
+      "voice": "female_young_adult_marathi_accent",
+      "city": "pune",
+      "district": "pune-shaniwar-wada",
+      "languages": ["Marathi", "Hindi"],
+      "friendshipLevel": 0,
+      "dialogueFile": "pune_npc_seema_flower.json",
+      "quests": [
+        "pune-quest-flower-for-puja",
+        "pune-quest-wedding-decoration-planning"
+      ],
+      "reward": {
+        "xp": 20,
+        "coins": 12,
+        "item": "marigold-garland"
+      }
+    },
+    {
+      "id": "pune-waiter-rohan",
+      "name": "रोहन मोरे",
+      "transliteration": "Rohan More",
+      "englishName": "Rohan More",
+      "age": 26,
+      "profession": "Restaurant Waiter",
+      "personality": "Attentive, knowledgeable about menu, recommends local specialties",
+      "avatarImage": "assets/images/npcs/avatars/rohan_waiter.jpg",
+      "portraitImage": "assets/images/npcs/portraits/rohan_waiter_portrait.png",
+      "voice": "male_young_adult_marathi_accent",
+      "city": "pune",
+      "district": "pune-mg-road",
+      "languages": ["Marathi", "Hindi", "English"],
+      "friendshipLevel": 0,
+      "dialogueFile": "pune_npc_rohan_waiter.json",
+      "quests": [
+        "pune-quest-restaurant-order-complete",
+        "pune-quest-special-dish-recommendation"
+      ],
+      "reward": {
+        "xp": 30,
+        "coins": 20,
+        "item": "discount-coupon-next-visit"
+      }
+    },
+    {
+      "id": "pune-temple-priest-shastri",
+      "name": "शास्त्री जोशी",
+      "transliteration": "Śāstrī Jośī",
+      "englishName": "Shastri Joshi",
+      "age": 55,
+      "profession": "Temple Priest",
+      "personality": "Knowledgeable, serene, explains religious rituals and their significance in Marathi culture",
+      "avatarImage": "assets/images/npcs/avatars/shastri_temple.jpg",
+      "portraitImage": "assets/images/npcs/portraits/shastri_temple_portrait.png",
+      "voice": "male_middle_age_marathi_accent",
+      "city": "pune",
+      "district": "pune-shaniwar-wada",
+      "languages": ["Marathi", "Sanskrit"],
+      "friendshipLevel": 0,
+      "dialogueFile": "pune_npc_shastri_temple.json",
+      "quests": [
+        "pune-quest-temple-ritual-learning",
+        "pune-quest-festival-explanation"
+      ],
+      "reward": {
+        "xp": 35,
+        "coins": 25,
+        "item": "blessed-prasad"
+      }
+    },
+    {
+      "id": "pune-bus-conductor-vijay",
+      "name": "विजय देशपांडे",
+      "transliteration": "Vijay Deśpāṇḍe",
+      "englishName": "Vijay Deshpande",
+      "age": 42,
+      "profession": "Bus Conductor",
+      "personality": "Efficient, helps tourists with routes, calls out stops in melodic Marathi",
+      "avatarImage": "assets/images/npcs/avatars/vijay_bus.jpg",
+      "portraitImage": "assets/images/npcs/portraits/vijay_bus_portrait.png",
+      "voice": "male_middle_age_marathi_accent",
+      "city": "pune",
+      "district": "pune-dp-road",
+      "languages": ["Marathi", "Hindi"],
+      "friendshipLevel": 0,
+      "dialogueFile": "pune_npc_vijay_bus.json",
+      "quests": [
+        "pune-quest-bus-route-learning",
+        "pune-quest-fare-calculation-practice"
+      ],
+      "reward": {
+        "xp": 25,
+        "coins": 18,
+        "item": "bus-pass-day"
+      }
+    },
+    {
+      "id": "pune-doctor-deshmukh",
+      "name": "डॉ. सुनिता देशमुख",
+      "transliteration": "Ḍo. Sunītā Deśmukh",
+      "englishName": "Dr. Sunita Deshmukh",
+      "age": 40,
+      "profession": "Doctor",
+      "personality": "Caring, professional, explains medical conditions clearly in simple Marathi",
+      "avatarImage": "assets/images/npcs/avatars/sunita_doctor.jpg",
+      "portraitImage": "assets/images/npcs/portraits/sunita_doctor_portrait.png",
+      "voice": "female_middle_age_marathi_accent",
+      "city": "pune",
+      "district": "pune-deccan-gymkhana",
+      "languages": ["Marathi", "Hindi", "English"],
+      "friendshipLevel": 0,
+      "dialogueFile": "pune_npc_sunita_doctor.json",
+      "quests": [
+        "pune-quest-describe-symptoms",
+        "pune-quest-medicine-instructions-understand"
+      ],
+      "reward": {
+        "xp": 45,
+        "coins": 35,
+        "item": "health-tip-pamphlet"
+      }
+    },
+    {
+      "id": "pune-pharmacist-leena",
+      "name": "लीना कुलकर्णी",
+      "transliteration": "Līnā Kulkarṇī",
+      "englishName": "Leena Kulkarni",
+      "age": 33,
+      "profession": "Pharmacist",
+      "personality": "Helpful, explains dosage and timings patiently, knows home remedies",
+      "avatarImage": "assets/images/npcs/avatars/leena_pharmacist.jpg",
+      "portraitImage": "assets/images/npcs/portraits/leena_pharmacist_portrait.png",
+      "voice": "female_young_adult_marathi_accent",
+      "city": "pune",
+      "district": "pune-mg-road",
+      "languages": ["Marathi", "Hindi"],
+      "friendshipLevel": 0,
+      "dialogueFile": "pune_npc_leena_pharmacist.json",
+      "quests": [
+        "pune-quest-medicine-purchase",
+        "pune-quest-dosage-instructions-follow"
+      ],
+      "reward": {
+        "xp": 30,
+        "coins": 20,
+        "item": "first-aid-sample-pack"
+      }
+    },
+    {
+      "id": "pune-tailor-shankar",
+      "name": "शंकर लोहार",
+      "transliteration": "Śaṅkar Lohār",
+      "englishName": "Shankar Lohar",
+      "age": 50,
+      "profession": "Tailor",
+      "personality": "Skillful, traditional, takes pride in well-fitted traditional Marathi attire",
+      "avatarImage": "assets/images/npcs/avatars/shankar_tailor.jpg",
+      "portraitImage": "assets/images/npcs/portraits/shankar_tailor_portrait.png",
+      "voice": "male_middle_age_marathi_accent",
+      "city": "pune",
+      "district": "pune-laxmi-road",
+      "languages": ["Marathi", "Hindi"],
+      "friendshipLevel": 0,
+      "dialogueFile": "pune_npc_shankar_tailor.json",
+      "quests": [
+        "pune-quest-traditional-attire-measurement",
+        "pune-quest-wedding-outfit-planning"
+      ],
+      "reward": {
+        "xp": 35,
+        "coins": 25,
+        "item": "measurement-tape-keychain"
+      }
+    },
+    {
+      "id": "pune-librarian-meena",
+      "name": "मीना दांदेकर",
+      "transliteration": "Mīnā Daṇḍekār",
+      "englishName": "Meena Dandekar",
+      "age": 48,
+      "profession": "Librarian",
+      "personality": "Knowledgeable, helpful, loves guiding readers to perfect Marathi books",
+      "avatarImage": "assets/images/npcs/avatars/meena_librarian.jpg",
+      "portraitImage": "assets/images/npcs/portraits/meena_librarian_portrait.png",
+      "voice": "female_middle_age_marathi_accent",
+      "city": "pune",
+      "district": "pune-jmg-roads",
+      "languages": ["Marathi", "Hindi"],
+      "friendshipLevel": 0,
+      "dialogueFile": "pune_npc_meena_librarian.json",
+      "quests": [
+        "pune-quest-book-search-help",
+        "pune-quest-reading-recommendations"
+      ],
+      "reward": {
+        "xp": 25,
+        "coins": 15,
+        "item": "bookmark-literary-quote"
+      }
+    },
+    {
+      "id": "pune-tourist-robert",
+      "name": "रॉबर्ट स्मिथ",
+      "transliteration": "Rōbert Smith",
+      "englishName": "Robert Smith",
+      "age": 35,
+      "profession": "Tourist",
+      "personality": "Curious, enthusiastic about learning Marathi, often asks for recommendations",
+      "avatarImage": "assets/images/npcs/avatars/robert_tourist.jpg",
+      "portraitImage": "assets/images/npcs/portraits/robert_tourist_portrait.png",
+      "voice": "male_young_adult_english_accent",
+      "city": "pune",
+      "district": "pune-camp-area",
+      "languages": ["English", "Learning Marathi"],
+      "friendshipLevel": 0,
+      "dialogueFile": "pune_npc_robert_tourist.json",
+      "quests": [
+        "pune-quest-give-directions-to-tourist",
+        "pune-quest-recommend-marathi-dishes"
+      ],
+      "reward": {
+        "xp": 20,
+        "coins": 10,
+        "item": "tourist-thank-you-note"
+      }
+    },
+    {
+      "id": "pune-hotel-receptionist-priya",
+      "name": "प्रिया होटलर",
+      "transliteration": "Priyā Hoṭelar",
+      "englishName": "Priya Hotel Receptionist",
+      "age": 28,
+      "profession": "Hotel Receptionist",
+      "personality": "Professional, welcoming, knowledgeable about local attractions and Marathi customs",
+      "avatarImage": "assets/images/npcs/avatars/priya_hotel.jpg",
+      "portraitImage": "assets/images/npcs/portraits/priya_hotel_portrait.png",
+      "voice": "female_young_adult_marathi_accent",
+      "city": "pune",
+      "district": "pune-mg-road",
+      "languages": ["Marathi", "Hindi", "English"],
+      "friendshipLevel": 0,
+      "dialogueFile": "pune_npc_priya_hotel.json",
+      "quests": [
+        "pune-quest-hotel-check-in",
+        "pune-quest-local-attraction-recommendations"
+      ],
+      "reward": {
+        "xp": 30,
+        "coins": 20,
+        "item": "hotel-coupon-free-breakfast"
+      }
+    },
+    {
+      "id": "pune-auto-driver-ramesh",
+      "name": "रमेश गवली",
+      "transliteration": "Rāmēś Gavālī",
+      "englishName": "Ramesh Gavali",
+      "age": 38,
+      "profession": "Auto Driver",
+      "personality": "Friendly, negotiates fares fairly, knows all local landmarks",
+      "avatarImage": "assets/images/npcs/avatars/ramesh_auto.jpg",
+      "portraitImage": "assets/images/npcs/portraits/ramesh_auto_portrait.png",
+      "voice": "male_middle_age_marathi_accent",
+      "city": "pune",
+      "district": "pune-fc-road",
+      "languages": ["Marathi", "Hindi"],
+      "friendshipLevel": 0,
+      "dialogueFile": "pune_npc_ramesh_auto.json",
+      "quests": [
+        "pune-quest-auto-fare-negotiation",
+        "pune-quest-shortest-route-finding"
+      ],
+      "reward": {
+        "xp": 25,
+        "coins": 18,
+        "item": "auto-rickshaw-coupon"
+      }
+    },
+    {
+      "id": "pune-shopkeeper-vikas",
+      "name": "विकास suasalke",
+      "transliteration": "Vikās Sālunske",
+      "englishName": "Vikas Salunske",
+      "age": 35,
+      "profession": "General Store Shopkeeper",
+      "personality": "Helpful, stocks daily essentials, offers credit to regular customers",
+      "avatarImage": "assets/images/npcs/avatars/vikas_shop.jpg",
+      "portraitImage": "assets/images/npcs/portraits/vikas_shop_portrait.png",
+      "voice": "male_middle_age_marathi_accent",
+      "city": "pune",
+      "district": "pune-shaniwar-wada",
+      "languages": ["Marathi", "Hindi"],
+      "friendshipLevel": 0,
+      "dialogueFile": "pune_npc_vikas_shop.json",
+      "quests": [
+        "pune-quest-grocery-shopping-list",
+        "pune-quest-bill-calculation-practice"
+      ],
+      "reward": {
+        "xp": 30,
+        "coins": 20,
+        "item": "loyalty-card-stamp"
+      }
+    },
+    {
+      "id": "pune-security-guard-sunil",
+      "name": "सुनिल पाटिल",
+      "transliteration": "Sunīl Pāṭil",
+      "englishName": "Sunil Patil",
+      "age": 32,
+      "profession": "Security Guard",
+      "personality": "Vigilant yet helpful, ensures safety while being approachable",
+      "avatarImage": "assets/images/npcs/avatars/sunil_security.jpg",
+      "portraitImage": "assets/images/npcs/portraits/sunil_security_portrait.png",
+      "voice": "male_middle_age_marathi_accent",
+      "city": "pune",
+      "district": "pune-deccan-gymkhana",
+      "languages": ["Marathi", "Hindi"],
+      "friendshipLevel": 0,
+      "dialogueFile": "pune_npc_sunil_security.json",
+      "quests": [
+        "pune-quest-report-suspicious-activity",
+        "pune-quest-emergency-exit-location"
+      ],
+      "reward": {
+        "xp": 25,
+        "coins": 15,
+        "item": "security-badge-replica"
+      }
+    },
+    {
+      "id": "pune-friend-neha",
+      "name": "नेहा पाटIL",
+      "transliteration": "Nehā Pāṭil",
+      "englishName": "Neha Patil",
+      "age": 22,
+      "profession": "College Friend",
+      "personality": "Supportive, practices Marathi with you, shares college life experiences",
+      "avatarImage": "assets/images/npcs/avatars/neha_friend.jpg",
+      "portraitImage": "assets/images/npcs/portraits/neha_friend_portrait.png",
+      "voice": "female_young_adult_marathi_accent",
+      "city": "pune",
+      "district": "pune-jmg-roads",
+      "languages": ["Marathi", "English"],
+      "friendshipLevel": 0,
+      "dialogueFile": "pune_npc_neha_friend.json",
+      "quests": [
+        "pune-quest-study-session-together",
+        "pune-quest-college-event-planning"
+      ],
+      "reward": {
+        "xp": 20,
+        "coins": 12,
+        "item": "friendship-bracelet"
+      }
+    },
+    {
+      "id": "pune-mumbai-chai-wallah",
+      "name": "विजय चहावाला",
+      "transliteration": "Vijay Chahāvālā",
+      "englishName": "Vijay Chai Wallah",
+      "age": 40,
+      "profession": "Chai Wallah (Tea Vendor)",
+      "personality": "Serves cutting chai at Mumbai local train stations, knows all regular commuters",
+      "avatarImage": "assets/images/npcs/avatars/vijay_chai_mumbai.jpg",
+      "portraitImage": "assets/images/npcs/portraits/vijay_chai_mumbai_portrait.png",
+      "voice": "male_middle_age_marathi_accent",
+      "city": "mumbai",
+      "district": "mumbai-central",
+      "languages": ["Marathi", "Hindi", "English"],
+      "friendshipLevel": 0,
+      "dialogueFile": "mumbai_npc_vijay_chai.json",
+      "quests": [
+        "mumbai-quest-morning-chai-commute",
+        "mumbai-quest-chai-for-crowd-management"
+      ],
+      "reward": {
+        "xp": 25,
+        "coins": 15,
+        "item": "chai-coupon-booklet"
+      }
+    },
+    {
+      "id": "pune-mumbai-local-train-guard",
+      "name": "प्रवीण अधिकारी",
+      "transliteration": "Praviṇ More",
+      "englishName": "Praviṇ More",
+      "age": "35",
+      "profession": "Local Train Guard",
+      "personality": "Ensures passenger safety, helps with luggage, announces stations in Marathi",
+      "avatarImage": "assets/images/npcs/avatars/praveen_train_guard.jpg",
+      "portraitImage": "assets/images/npcs/portraits/praveen_train_guard_portrait.png",
+      "voice": "male_middle_age_marathi_accent",
+      "city": "mumbai",
+      "district": "mumbai-west",
+      "languages": ["Marathi", "Hindi", "English"],
+      "friendshipLevel": 0,
+      "dialogueFile": "mumbai_npc_praveen_train_guard.json",
+      "quests": [
+        "mumbai-quest-navigate-local-trains",
+        "mumbai-quest-help-elderly-passenger"
+      ],
+      "reward": {
+        "xp": 30,
+        "coins": 25,
+        "item": "local-train-monthly-pass-discount"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "lastUpdated": "2024-01-15",
+    "totalNpcs": 20,
+    "description": "Sample NPCs data showing structure - to be expanded to 40+ NPCs"
+  }
+}

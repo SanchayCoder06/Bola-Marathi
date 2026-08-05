@@ -1,0 +1,29 @@
+# Large data files and databases
+*.db
+*.parquet
+*.csv
+data.csv/
+marathi_dictionary.json
+marathi_dictionary1.json
+
+# Build and deployment outputs
+node_modules/
+.output/
+.wrangler/
+.tanstack/
+dist/
+build/
+out/
+
+# Python caching & environments
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# System & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

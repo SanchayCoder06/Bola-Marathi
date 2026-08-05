@@ -1,0 +1,158 @@
+{
+  "cities": [
+    {
+      "id": "pune",
+      "name": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "description": "The cultural capital of Maharashtra, known for its educational institutions, historical significance, and vibrant Marathi culture. Pune beautifully blends traditional Marathi heritage with modern cosmopolitan culture.",
+      "unlockRequirement": {
+        "type": "storyProgress",
+        "value": 0,
+        "description": "Starting city - unlocked at beginning"
+      },
+      "coordinates": {
+        "latitude": 18.5204,
+        "longitude": 73.8567
+      },
+      "backgroundImage": "assets/images/cities/pune_background.jpg",
+      "mapImage": "assets/images/maps/pune_map.png",
+      "themeColor": "#FF9F1C",
+      "unlockXp": 0,
+      "districts": [
+        "pune-shaniwar-wada",
+        "pune-jmg-roads",
+        "pune-camp-area",
+        "pune-koregaon-park",
+        "pune-deccan-gymkhana",
+        "pune-sinhagad-road",
+        "pune-jangli-maharaj",
+        "pune-laxmi-road",
+        "pune-fc-road",
+        "pune-mg-road",
+        "pune-dp-road",
+        "pune-aundh",
+        "pune-baner",
+        "pune-kothrud",
+        "pune-hadapsar",
+        "pune-viman-nagar",
+        "pune-kharadi",
+        "pune-hinjewadi",
+        "pune-swargate",
+        "pune-swargate"
+      ]
+    },
+    {
+      "id": "mumbai",
+      "name": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "description": "The financial capital of India and the heart of Bollywood, Mumbai is a bustling metropolis where Marathi culture merges with cosmopolitan energy. Known for its local trains, street food, and resilient spirit.",
+      "unlockRequirement": {
+        "type": "xpThreshold",
+        "value": 5000,
+        "description": "Reach 5,000 XP to unlock Mumbai"
+      },
+      "coordinates": {
+        "latitude": 19.0760,
+        "longitude": 72.8777
+      },
+      "backgroundImage": "assets/images/cities/mumbai_background.jpg",
+      "mapImage": "assets/images/maps/mumbai_map.png",
+      "themeColor": "#FF4136",
+      "unlockXp": 5000,
+      "districts": [
+        "mumbai-south",
+        "mumbai-central",
+        "mumbai-west",
+        "mumbai-east",
+        "mumbai-navimumbai",
+        "mumbai-thane"
+      ]
+    },
+    {
+      "id": "nashik",
+      "name": "Nashik",
+      "state": "Maharashtra",
+      "country": "India",
+      "description": "Known as the 'Wine Capital of India', Nashik is famous for its vineyards, temples, and as one of the sites for the Kumbh Mela. The city has deep religious significance and growing modern industries.",
+      "unlockRequirement": {
+        "type": "xpThreshold",
+        "value": 15000,
+        "description": "Reach 15,000 XP to unlock Nashik"
+      },
+      "coordinates": {
+        "latitude": 20.0059,
+        "longitude": 73.7910
+      },
+      "backgroundImage": "assets/images/cities/nashik_background.jpg",
+      "mapImage": "assets/images/maps/nashik_map.png",
+      "themeColor": "#2ECC71",
+      "unlockXp": 15000,
+      "districts": [
+        "nashik-central",
+        "nashik-panchavati",
+        "nashik-sinnar",
+        "nashik-igatpuri"
+      ]
+    },
+    {
+      "id": "nagpur",
+      "name": "Nagpur",
+      "state": "Maharashtra",
+      "country": "India",
+      "description": "Known as the 'Orange City' for its famous Nagpur oranges, this city is the geographical center of India and an important commercial and political center of the Vidarbha region.",
+      "unlockRequirement": {
+        "type": "xpThreshold",
+        "value": 25000,
+        "description": "Reach 25,000 XP to unlock Nagpur"
+      },
+      "coordinates": {
+        "latitude": 21.1458,
+        "longitude": 79.0882
+      },
+      "backgroundImage": "assets/images/cities/nagpur_background.jpg",
+      "mapImage": "assets/images/maps/nagpur_map.png",
+      "themeColor": "#FF851B",
+      "unlockXp": 25000,
+      "districts": [
+        "nagpur-central",
+        "nagpur-sitabuldi",
+        "nagpur-sadar",
+        "nagpur-lakadganj"
+      ]
+    },
+    {
+      "id": "aurangabad",
+      "name": "Aurangabad",
+      "state": "Maharashtra",
+      "country": "India",
+      "description": "Named after the Mughal emperor Aurangzeb, this historical city is famous for the Ajanta and Ellora caves (UNESCO World Heritage Sites), Bibi ka Maqbara, and its rich medieval history.",
+      "unlockRequirement": {
+        "type": "xpThreshold",
+        "value": 35000,
+        "description": "Reach 35,000 XP to unlock Aurangabad"
+      },
+      "coordinates": {
+        "latitude": 19.8762,
+        "longitude": 75.3433
+      },
+      "backgroundImage": "assets/images/cities/aurangabad_background.jpg",
+      "mapImage": "assets/images/maps/aurangabad_map.png",
+      "themeColor": "#8E44AD",
+      "unlockXp": 35000,
+      "districts": [
+        "aurangabad-central",
+        "aurangabad-silly",
+        "aurangabad-heidarabad",
+        "aurangabad-chikalthana"
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "lastUpdated": "2024-01-15",
+    "totalCities": 5,
+    "description": "Master cities data for BOLA Marathi Journey Mode"
+  }
+}

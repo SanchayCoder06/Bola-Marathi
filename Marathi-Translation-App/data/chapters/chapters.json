@@ -1,0 +1,58 @@
+{
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "title": "Arriving in Pune",
+      "cityId": "pune",
+      "unlockRequirement": null,
+      "scenarios": [
+        "pune_taxi_start"
+      ]
+    },
+    {
+      "chapterNumber": 2,
+      "title": "Dining at Durvankur",
+      "cityId": "pune",
+      "unlockRequirement": "completion_pune_taxi_start",
+      "scenarios": [
+        "pune_restaurant"
+      ]
+    },
+    {
+      "chapterNumber": 3,
+      "title": "Bargaining at Tulshibaug",
+      "cityId": "pune",
+      "unlockRequirement": "completion_pune_restaurant",
+      "scenarios": [
+        "pune_market_bargain"
+      ]
+    },
+    {
+      "chapterNumber": 4,
+      "title": "Finding Shaniwar Wada",
+      "cityId": "pune",
+      "unlockRequirement": "completion_pune_market_bargain",
+      "scenarios": [
+        "pune_directions"
+      ]
+    },
+    {
+      "chapterNumber": 5,
+      "title": "Meeting the Neighbor",
+      "cityId": "pune",
+      "unlockRequirement": "completion_pune_directions",
+      "scenarios": [
+        "pune_neighbor"
+      ]
+    },
+    {
+      "chapterNumber": 6,
+      "title": "Buying Mangoes",
+      "cityId": "pune",
+      "unlockRequirement": "completion_pune_neighbor",
+      "scenarios": [
+        "pune_mango_seller"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2286 @@
+[
+  {
+    "id": "m3",
+    "title": "Numbers & Time",
+    "titleMarathi": "संख्या आणि वेळ",
+    "description": "Master counting, dates, telling time, and schedules",
+    "icon": "⏰",
+    "totalLessons": 15,
+    "estimatedHours": 5,
+    "difficulty": "beginner",
+    "lessons": [
+      {
+        "id": "m3-l1",
+        "title": "Numbers 1-10",
+        "titleMarathi": "संख्या १ ते १०",
+        "lessonNumber": 1,
+        "culturalNote": "Counting in Marathi uses unique Devanagari numerals. Standard counting is used for items, money, and time.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m3-l1-p1",
+            "marathi": "एक",
+            "transliteration": "Ek",
+            "english": "One",
+            "difficulty": "beginner",
+            "usage": "Counting 1"
+          },
+          {
+            "id": "m3-l1-p2",
+            "marathi": "दोन",
+            "transliteration": "Don",
+            "english": "Two",
+            "difficulty": "beginner",
+            "usage": "Counting 2"
+          },
+          {
+            "id": "m3-l1-p3",
+            "marathi": "तीन",
+            "transliteration": "Teen",
+            "english": "Three",
+            "difficulty": "beginner",
+            "usage": "Counting 3"
+          },
+          {
+            "id": "m3-l1-p4",
+            "marathi": "चार",
+            "transliteration": "Chaar",
+            "english": "Four",
+            "difficulty": "beginner",
+            "usage": "Counting 4"
+          },
+          {
+            "id": "m3-l1-p5",
+            "marathi": "पाच",
+            "transliteration": "Paach",
+            "english": "Five",
+            "difficulty": "beginner",
+            "usage": "Counting 5"
+          },
+          {
+            "id": "m3-l1-p6",
+            "marathi": "सहा",
+            "transliteration": "Sahaa",
+            "english": "Six",
+            "difficulty": "beginner",
+            "usage": "Counting 6"
+          },
+          {
+            "id": "m3-l1-p7",
+            "marathi": "सात",
+            "transliteration": "Saat",
+            "english": "Seven",
+            "difficulty": "beginner",
+            "usage": "Counting 7"
+          },
+          {
+            "id": "m3-l1-p8",
+            "marathi": "आठ",
+            "transliteration": "Aath",
+            "english": "Eight",
+            "difficulty": "beginner",
+            "usage": "Counting 8"
+          },
+          {
+            "id": "m3-l1-p9",
+            "marathi": "नऊ",
+            "transliteration": "Nau",
+            "english": "Nine",
+            "difficulty": "beginner",
+            "usage": "Counting 9"
+          },
+          {
+            "id": "m3-l1-p10",
+            "marathi": "दहा",
+            "transliteration": "Dahaa",
+            "english": "Ten",
+            "difficulty": "beginner",
+            "usage": "Counting 10"
+          }
+        ]
+      },
+      {
+        "id": "m3-l2",
+        "title": "Numbers 11-20",
+        "titleMarathi": "संख्या ११ ते २०",
+        "lessonNumber": 2,
+        "culturalNote": "Numbers from 11 to 20 have unique names in Marathi. Practicing these is essential for transactions and telephone numbers.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m3-l2-p1",
+            "marathi": "अकरा",
+            "transliteration": "Akaraa",
+            "english": "Eleven",
+            "difficulty": "beginner",
+            "usage": "Counting 11"
+          },
+          {
+            "id": "m3-l2-p2",
+            "marathi": "बारा",
+            "transliteration": "Baaraa",
+            "english": "Twelve",
+            "difficulty": "beginner",
+            "usage": "Counting 12"
+          },
+          {
+            "id": "m3-l2-p3",
+            "marathi": "तेरा",
+            "transliteration": "Teraa",
+            "english": "Thirteen",
+            "difficulty": "beginner",
+            "usage": "Counting 13"
+          },
+          {
+            "id": "m3-l2-p4",
+            "marathi": "चौदा",
+            "transliteration": "Chaudaa",
+            "english": "Fourteen",
+            "difficulty": "beginner",
+            "usage": "Counting 14"
+          },
+          {
+            "id": "m3-l2-p5",
+            "marathi": "पंधरा",
+            "transliteration": "Pandharaa",
+            "english": "Fifteen",
+            "difficulty": "beginner",
+            "usage": "Counting 15"
+          },
+          {
+            "id": "m3-l2-p6",
+            "marathi": "सोळा",
+            "transliteration": "SoLaa",
+            "english": "Sixteen",
+            "difficulty": "beginner",
+            "usage": "Counting 16"
+          },
+          {
+            "id": "m3-l2-p7",
+            "marathi": "सतरा",
+            "transliteration": "Sataraa",
+            "english": "Seventeen",
+            "difficulty": "beginner",
+            "usage": "Counting 17"
+          },
+          {
+            "id": "m3-l2-p8",
+            "marathi": "अठरा",
+            "transliteration": "Atharaa",
+            "english": "Eighteen",
+            "difficulty": "beginner",
+            "usage": "Counting 18"
+          },
+          {
+            "id": "m3-l2-p9",
+            "marathi": "एकोणीस",
+            "transliteration": "EkoNees",
+            "english": "Nineteen",
+            "difficulty": "beginner",
+            "usage": "Counting 19"
+          },
+          {
+            "id": "m3-l2-p10",
+            "marathi": "वीस",
+            "transliteration": "Vees",
+            "english": "Twenty",
+            "difficulty": "beginner",
+            "usage": "Counting 20"
+          }
+        ]
+      },
+      {
+        "id": "m3-l3",
+        "title": "Tens & 100",
+        "titleMarathi": "दशकांचे गट आणि १००",
+        "lessonNumber": 3,
+        "culturalNote": "Counting in tens (30, 40, 50...) is crucial for prices and counting larger quantities. 'Shambhar' is 100.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m3-l3-p1",
+            "marathi": "तीस",
+            "transliteration": "Tees",
+            "english": "Thirty",
+            "difficulty": "beginner",
+            "usage": "Counting 30"
+          },
+          {
+            "id": "m3-l3-p2",
+            "marathi": "चाळीस",
+            "transliteration": "ChaaLees",
+            "english": "Forty",
+            "difficulty": "beginner",
+            "usage": "Counting 40"
+          },
+          {
+            "id": "m3-l3-p3",
+            "marathi": "पन्नास",
+            "transliteration": "Pannaas",
+            "english": "Fifty",
+            "difficulty": "beginner",
+            "usage": "Counting 50"
+          },
+          {
+            "id": "m3-l3-p4",
+            "marathi": "साठ",
+            "transliteration": "Saath",
+            "english": "Sixty",
+            "difficulty": "beginner",
+            "usage": "Counting 60"
+          },
+          {
+            "id": "m3-l3-p5",
+            "marathi": "सत्तर",
+            "transliteration": "Sattar",
+            "english": "Seventy",
+            "difficulty": "beginner",
+            "usage": "Counting 70"
+          },
+          {
+            "id": "m3-l3-p6",
+            "marathi": "ऐंशी",
+            "transliteration": "Ainshee",
+            "english": "Eighty",
+            "difficulty": "beginner",
+            "usage": "Counting 80"
+          },
+          {
+            "id": "m3-l3-p7",
+            "marathi": "नव्वद",
+            "transliteration": "Navvad",
+            "english": "Ninety",
+            "difficulty": "beginner",
+            "usage": "Counting 90"
+          },
+          {
+            "id": "m3-l3-p8",
+            "marathi": "शंभर",
+            "transliteration": "Shambhar",
+            "english": "One Hundred",
+            "difficulty": "beginner",
+            "usage": "Counting 100"
+          }
+        ]
+      },
+      {
+        "id": "m3-l4",
+        "title": "Ordinals & Fractions",
+        "titleMarathi": "क्रमवाचक आणि अपूर्णांक",
+        "lessonNumber": 4,
+        "culturalNote": "Fractions like 'Paav' (quarter), 'Ardhaa' (half), and 'Paun' (three-quarters) are heavily used in vegetable markets.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m3-l4-p1",
+            "marathi": "पहिला",
+            "transliteration": "Pahilaa",
+            "english": "First",
+            "difficulty": "beginner",
+            "usage": "Order - 1st"
+          },
+          {
+            "id": "m3-l4-p2",
+            "marathi": "दुसरा",
+            "transliteration": "Dusraa",
+            "english": "Second",
+            "difficulty": "beginner",
+            "usage": "Order - 2nd"
+          },
+          {
+            "id": "m3-l4-p3",
+            "marathi": "तिसरा",
+            "transliteration": "Tisraa",
+            "english": "Third",
+            "difficulty": "beginner",
+            "usage": "Order - 3rd"
+          },
+          {
+            "id": "m3-l4-p4",
+            "marathi": "पाव",
+            "transliteration": "Paav",
+            "english": "Quarter (1/4)",
+            "difficulty": "beginner",
+            "usage": "Fraction - 250g or 0.25"
+          },
+          {
+            "id": "m3-l4-p5",
+            "marathi": "अर्धा",
+            "transliteration": "Ardhaa",
+            "english": "Half (1/2)",
+            "difficulty": "beginner",
+            "usage": "Fraction - 500g or 0.5"
+          },
+          {
+            "id": "m3-l4-p6",
+            "marathi": "पाऊण",
+            "transliteration": "PauN",
+            "english": "Three-quarters (3/4)",
+            "difficulty": "beginner",
+            "usage": "Fraction - 750g or 0.75"
+          },
+          {
+            "id": "m3-l4-p7",
+            "marathi": "सव्वा",
+            "transliteration": "Savvaa",
+            "english": "One and a quarter (1.25)",
+            "difficulty": "beginner",
+            "usage": "Fraction - 1.25"
+          },
+          {
+            "id": "m3-l4-p8",
+            "marathi": "दीड",
+            "transliteration": "Deed",
+            "english": "One and a half (1.5)",
+            "difficulty": "beginner",
+            "usage": "Fraction - 1.5"
+          },
+          {
+            "id": "m3-l4-p9",
+            "marathi": "अडीच",
+            "transliteration": "Adeech",
+            "english": "Two and a half (2.5)",
+            "difficulty": "beginner",
+            "usage": "Fraction - 2.5"
+          }
+        ]
+      },
+      {
+        "id": "m3-l5",
+        "title": "Asking the Time",
+        "titleMarathi": "वेळ विचारणे",
+        "lessonNumber": 5,
+        "culturalNote": "Asking the time is usually polite. Use 'kiti' (how many/much) and 'vaajle' (struck/sounded).",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m3-l5-p1",
+            "marathi": "किती वाजले?",
+            "transliteration": "Kiti vaajale?",
+            "english": "What time is it?",
+            "difficulty": "beginner",
+            "usage": "Common time inquiry"
+          },
+          {
+            "id": "m3-l5-p2",
+            "marathi": "वेळ काय झाली आहे?",
+            "transliteration": "VeL kaay jhaali aahe?",
+            "english": "What is the time?",
+            "difficulty": "beginner",
+            "usage": "Alternative time inquiry"
+          },
+          {
+            "id": "m3-l5-p3",
+            "marathi": "तुमच्या घड्याळात किती वाजलेत?",
+            "transliteration": "Tumchyaa ghaDyaaLaat kiti vaajalet?",
+            "english": "What is the time by your watch?",
+            "difficulty": "beginner",
+            "usage": "Polite watch inquiry"
+          },
+          {
+            "id": "m3-l5-p4",
+            "marathi": "बस कधी सुटणार आहे?",
+            "transliteration": "Bus kadhi suTNaar aahe?",
+            "english": "When will the bus leave?",
+            "difficulty": "beginner",
+            "usage": "Transport timing inquiry"
+          },
+          {
+            "id": "m3-l5-p5",
+            "marathi": "दुकानाची वेळ काय आहे?",
+            "transliteration": "Dukaanachee veL kaay aahe?",
+            "english": "What are the shop timings?",
+            "difficulty": "beginner",
+            "usage": "Business hours inquiry"
+          },
+          {
+            "id": "m3-l5-p6",
+            "marathi": "किती वेळ लागेल?",
+            "transliteration": "Kiti veL laagel?",
+            "english": "How much time will it take?",
+            "difficulty": "beginner",
+            "usage": "Duration inquiry"
+          },
+          {
+            "id": "m3-l5-p7",
+            "marathi": "कार्यक्रम कधी सुरू होईल?",
+            "transliteration": "Kaaryakram kadhi suroo hoeel?",
+            "english": "When will the program start?",
+            "difficulty": "beginner",
+            "usage": "Event schedule inquiry"
+          },
+          {
+            "id": "m3-l5-p8",
+            "marathi": "तुमच्याकडे वेळ आहे का?",
+            "transliteration": "Tumchyaakade veL aahe ka?",
+            "english": "Do you have time?",
+            "difficulty": "beginner",
+            "usage": "Asking for someone's time"
+          }
+        ]
+      },
+      {
+        "id": "m3-l6",
+        "title": "Telling the Time",
+        "titleMarathi": "वेळ सांगणे",
+        "lessonNumber": 6,
+        "culturalNote": "Marathi uses 'vaajle' to say it is X o'clock. For half past, use 'saaDe'. For quarter past, 'savvaa'. For quarter to, 'pauNe'.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m3-l6-p1",
+            "marathi": "एक वाजला आहे",
+            "transliteration": "Ek vaajalaa aahe",
+            "english": "It is one o'clock",
+            "difficulty": "beginner",
+            "usage": "Telling 1:00"
+          },
+          {
+            "id": "m3-l6-p2",
+            "marathi": "दोन वाजले आहेत",
+            "transliteration": "Don vaajale aahet",
+            "english": "It is two o'clock",
+            "difficulty": "beginner",
+            "usage": "Telling 2:00"
+          },
+          {
+            "id": "m3-l6-p3",
+            "marathi": "सव्वा तीन वाजलेत",
+            "transliteration": "Savvaa teen vaajalet",
+            "english": "It is quarter past three",
+            "difficulty": "beginner",
+            "usage": "Telling 3:15"
+          },
+          {
+            "id": "m3-l6-p4",
+            "marathi": "साडे चार वाजलेत",
+            "transliteration": "SaaDe chaar vaajalet",
+            "english": "It is half past four",
+            "difficulty": "beginner",
+            "usage": "Telling 4:30"
+          },
+          {
+            "id": "m3-l6-p5",
+            "marathi": "पावणे पाच वाजलेत",
+            "transliteration": "PauNe paach vaajalet",
+            "english": "It is quarter to five",
+            "difficulty": "beginner",
+            "usage": "Telling 4:45"
+          },
+          {
+            "id": "m3-l6-p6",
+            "marathi": "दीड वाजला आहे",
+            "transliteration": "Deed vaajalaa aahe",
+            "english": "It is one-thirty (1:30)",
+            "difficulty": "beginner",
+            "usage": "Telling 1:30"
+          },
+          {
+            "id": "m3-l6-p7",
+            "marathi": "अडीच वाजले आहेत",
+            "transliteration": "Adeech vaajale aahet",
+            "english": "It is two-thirty (2:30)",
+            "difficulty": "beginner",
+            "usage": "Telling 2:30"
+          },
+          {
+            "id": "m3-l6-p8",
+            "marathi": "बारा वाजले आहेत",
+            "transliteration": "Baaraa vaajale aahet",
+            "english": "It is twelve o'clock (noon/night)",
+            "difficulty": "beginner",
+            "usage": "Telling 12:00"
+          }
+        ]
+      },
+      {
+        "id": "m3-l7",
+        "title": "Parts of the Day",
+        "titleMarathi": "दिवसाचे भाग",
+        "lessonNumber": 7,
+        "culturalNote": "Understanding parts of the day helps in setting appointments and planning routines.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m3-l7-p1",
+            "marathi": "सकाळ",
+            "transliteration": "SakaaL",
+            "english": "Morning",
+            "difficulty": "beginner",
+            "usage": "Morning time"
+          },
+          {
+            "id": "m3-l7-p2",
+            "marathi": "दुपार",
+            "transliteration": "Dupaar",
+            "english": "Afternoon / Noon",
+            "difficulty": "beginner",
+            "usage": "Midday time"
+          },
+          {
+            "id": "m3-l7-p3",
+            "marathi": "संध्याकाळ",
+            "transliteration": "SandhyaakaaL",
+            "english": "Evening",
+            "difficulty": "beginner",
+            "usage": "Evening time"
+          },
+          {
+            "id": "m3-l7-p4",
+            "marathi": "रात्र",
+            "transliteration": "Raatra",
+            "english": "Night",
+            "difficulty": "beginner",
+            "usage": "Night time"
+          },
+          {
+            "id": "m3-l7-p5",
+            "marathi": "पहाट",
+            "transliteration": "PahaaT",
+            "english": "Dawn / Early Morning",
+            "difficulty": "beginner",
+            "usage": "Predawn hours (3 AM - 5 AM)"
+          },
+          {
+            "id": "m3-l7-p6",
+            "marathi": "मध्यरात्र",
+            "transliteration": "Madhyaraatra",
+            "english": "Midnight",
+            "difficulty": "beginner",
+            "usage": "12 AM"
+          },
+          {
+            "id": "m3-l7-p7",
+            "marathi": "आज सकाळी",
+            "transliteration": "Aaj sakaaLi",
+            "english": "Today morning",
+            "difficulty": "beginner",
+            "usage": "Earlier today"
+          },
+          {
+            "id": "m3-l7-p8",
+            "marathi": "आज रात्री",
+            "transliteration": "Aaj raatri",
+            "english": "Tonight",
+            "difficulty": "beginner",
+            "usage": "Later tonight"
+          }
+        ]
+      },
+      {
+        "id": "m3-l8",
+        "title": "Days of the Week",
+        "titleMarathi": "आठवड्याचे दिवस",
+        "lessonNumber": 8,
+        "culturalNote": "Days of the week end in '-vaar'. Knowing them is vital for plans and schedules.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m3-l8-p1",
+            "marathi": "सोमवार",
+            "transliteration": "Somvaar",
+            "english": "Monday",
+            "difficulty": "beginner",
+            "usage": "First day of workweek"
+          },
+          {
+            "id": "m3-l8-p2",
+            "marathi": "मंगळवार",
+            "transliteration": "MangaLvaar",
+            "english": "Tuesday",
+            "difficulty": "beginner",
+            "usage": "Day 2"
+          },
+          {
+            "id": "m3-l8-p3",
+            "marathi": "बुधवार",
+            "transliteration": "Budhvaar",
+            "english": "Wednesday",
+            "difficulty": "beginner",
+            "usage": "Day 3"
+          },
+          {
+            "id": "m3-l8-p4",
+            "marathi": "गुरुवार",
+            "transliteration": "Guruvaar",
+            "english": "Thursday",
+            "difficulty": "beginner",
+            "usage": "Day 4"
+          },
+          {
+            "id": "m3-l8-p5",
+            "marathi": "शुक्रवार",
+            "transliteration": "Shukravaar",
+            "english": "Friday",
+            "difficulty": "beginner",
+            "usage": "Day 5"
+          },
+          {
+            "id": "m3-l8-p6",
+            "marathi": "शनिवार",
+            "transliteration": "Shanivaar",
+            "english": "Saturday",
+            "difficulty": "beginner",
+            "usage": "Weekend day"
+          },
+          {
+            "id": "m3-l8-p7",
+            "marathi": "रविवार",
+            "transliteration": "Ravivaar",
+            "english": "Sunday",
+            "difficulty": "beginner",
+            "usage": "Holiday / Weekend day"
+          },
+          {
+            "id": "m3-l8-p8",
+            "marathi": "आठवडा",
+            "transliteration": "Aathavadaa",
+            "english": "Week",
+            "difficulty": "beginner",
+            "usage": "7-day period"
+          }
+        ]
+      },
+      {
+        "id": "m3-l9",
+        "title": "Months & Seasons",
+        "titleMarathi": "महिने आणि ऋतू",
+        "lessonNumber": 9,
+        "culturalNote": "Maharashtra has three primary seasons: UnhaLaa (summer), Pausaala (monsoon), and Hivaala (winter).",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m3-l9-p1",
+            "marathi": "महिना",
+            "transliteration": "Mahinaa",
+            "english": "Month",
+            "difficulty": "beginner",
+            "usage": "Calendar month"
+          },
+          {
+            "id": "m3-l9-p2",
+            "marathi": "वर्ष",
+            "transliteration": "Varsha",
+            "english": "Year",
+            "difficulty": "beginner",
+            "usage": "Calendar year"
+          },
+          {
+            "id": "m3-l9-p3",
+            "marathi": "उन्हाळा",
+            "transliteration": "UnhaaLaa",
+            "english": "Summer",
+            "difficulty": "beginner",
+            "usage": "Hot season (March-May)"
+          },
+          {
+            "id": "m3-l9-p4",
+            "marathi": "पावसाळा",
+            "transliteration": "PaousaaLaa",
+            "english": "Monsoon / Rainy Season",
+            "difficulty": "beginner",
+            "usage": "Rainy season (June-September)"
+          },
+          {
+            "id": "m3-l9-p5",
+            "marathi": "हिवाळा",
+            "transliteration": "HivaaLaa",
+            "english": "Winter",
+            "difficulty": "beginner",
+            "usage": "Cold season (October-February)"
+          },
+          {
+            "id": "m3-l9-p6",
+            "marathi": "जानेवारी",
+            "transliteration": "Jaanevaari",
+            "english": "January",
+            "difficulty": "beginner",
+            "usage": "Calendar month 1"
+          },
+          {
+            "id": "m3-l9-p7",
+            "marathi": "दिवाळी ऑक्टोबर किंवा नोव्हेंबरमध्ये असते",
+            "transliteration": "DivaaLi October kimvaa November-madhye aste",
+            "english": "Diwali is in October or November",
+            "difficulty": "beginner",
+            "usage": "Season reference"
+          },
+          {
+            "id": "m3-l9-p8",
+            "marathi": "पावसाळा जूनमध्ये सुरू होतो",
+            "transliteration": "PaousaaLaa June-madhye suroo hoto",
+            "english": "Monsoon starts in June",
+            "difficulty": "beginner",
+            "usage": "Season start reference"
+          }
+        ]
+      },
+      {
+        "id": "m3-l10",
+        "title": "Relative Time",
+        "titleMarathi": "सापेक्ष वेळ",
+        "lessonNumber": 10,
+        "culturalNote": "Terms like 'today', 'tomorrow', 'yesterday' are essential for basic storytelling and scheduling.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m3-l10-p1",
+            "marathi": "आज",
+            "transliteration": "Aaj",
+            "english": "Today",
+            "difficulty": "beginner",
+            "usage": "Current day"
+          },
+          {
+            "id": "m3-l10-p2",
+            "marathi": "उद्या",
+            "transliteration": "Udyaa",
+            "english": "Tomorrow",
+            "difficulty": "beginner",
+            "usage": "Next day"
+          },
+          {
+            "id": "m3-l10-p3",
+            "marathi": "काल",
+            "transliteration": "Kaal",
+            "english": "Yesterday",
+            "difficulty": "beginner",
+            "usage": "Previous day"
+          },
+          {
+            "id": "m3-l10-p4",
+            "marathi": "परवा",
+            "transliteration": "Parvaa",
+            "english": "Day before yesterday / Day after tomorrow",
+            "difficulty": "beginner",
+            "usage": "Context decides past or future (2 days away)"
+          },
+          {
+            "id": "m3-l10-p5",
+            "marathi": "आता",
+            "transliteration": "Aataa",
+            "english": "Now",
+            "difficulty": "beginner",
+            "usage": "Immediately"
+          },
+          {
+            "id": "m3-l10-p6",
+            "marathi": "नंतर",
+            "transliteration": "Nantar",
+            "english": "Later",
+            "difficulty": "beginner",
+            "usage": "In the future"
+          },
+          {
+            "id": "m3-l10-p7",
+            "marathi": "आधी",
+            "transliteration": "Aadhi",
+            "english": "Before / Earlier",
+            "difficulty": "beginner",
+            "usage": "In the past"
+          },
+          {
+            "id": "m3-l10-p8",
+            "marathi": "लवकरच",
+            "transliteration": "Lavkarach",
+            "english": "Soon",
+            "difficulty": "beginner",
+            "usage": "Shortly"
+          }
+        ]
+      },
+      {
+        "id": "m3-l11",
+        "title": "Frequency Adverbs",
+        "titleMarathi": "वारंवारता दर्शक शब्द",
+        "lessonNumber": 11,
+        "culturalNote": "Adverbs like 'always' and 'never' clarify your habits and preferences.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m3-l11-p1",
+            "marathi": "नेहमी",
+            "transliteration": "Nehmi",
+            "english": "Always",
+            "difficulty": "beginner",
+            "usage": "100% frequency"
+          },
+          {
+            "id": "m3-l11-p2",
+            "marathi": "कधीकधी",
+            "transliteration": "Kadhikadhi",
+            "english": "Sometimes",
+            "difficulty": "beginner",
+            "usage": "Partial frequency"
+          },
+          {
+            "id": "m3-l11-p3",
+            "marathi": "कधीच नाही",
+            "transliteration": "Kadhich naahi",
+            "english": "Never",
+            "difficulty": "beginner",
+            "usage": "0% frequency"
+          },
+          {
+            "id": "m3-l11-p4",
+            "marathi": "रोज",
+            "transliteration": "Roj",
+            "english": "Daily / Every day",
+            "difficulty": "beginner",
+            "usage": "Daily habit"
+          },
+          {
+            "id": "m3-l11-p5",
+            "marathi": "दर आठवड्याला",
+            "transliteration": "Dar aathavDyaalaa",
+            "english": "Every week",
+            "difficulty": "beginner",
+            "usage": "Weekly frequency"
+          },
+          {
+            "id": "m3-l11-p6",
+            "marathi": "पुन्हा पुन्हा",
+            "transliteration": "Punhaa punhaa",
+            "english": "Repeatedly / Again and again",
+            "difficulty": "beginner",
+            "usage": "Repetition"
+          },
+          {
+            "id": "m3-l11-p7",
+            "marathi": "अधूनमधून",
+            "transliteration": "Adhoon-madhoon",
+            "english": "Occasionally",
+            "difficulty": "beginner",
+            "usage": "Spontaneous frequency"
+          },
+          {
+            "id": "m3-l11-p8",
+            "marathi": "सहसा",
+            "transliteration": "Sahasaa",
+            "english": "Usually / Generally",
+            "difficulty": "beginner",
+            "usage": "Habitual frequency"
+          }
+        ]
+      },
+      {
+        "id": "m3-l12",
+        "title": "Duration",
+        "titleMarathi": "कालावधी",
+        "lessonNumber": 12,
+        "culturalNote": "Units of time like minutes and hours are useful for quantifying waiting times.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m3-l12-p1",
+            "marathi": "सेकंद",
+            "transliteration": "Second",
+            "english": "Second",
+            "difficulty": "beginner",
+            "usage": "Time unit"
+          },
+          {
+            "id": "m3-l12-p2",
+            "marathi": "मिनिट",
+            "transliteration": "Minit",
+            "english": "Minute",
+            "difficulty": "beginner",
+            "usage": "Time unit"
+          },
+          {
+            "id": "m3-l12-p3",
+            "marathi": "तास",
+            "transliteration": "Taas",
+            "english": "Hour",
+            "difficulty": "beginner",
+            "usage": "Time unit"
+          },
+          {
+            "id": "m3-l12-p4",
+            "marathi": "दिवस",
+            "transliteration": "Divas",
+            "english": "Day",
+            "difficulty": "beginner",
+            "usage": "Time unit"
+          },
+          {
+            "id": "m3-l12-p5",
+            "marathi": "दहा मिनिटे थांबा",
+            "transliteration": "Dahaa minite thaanbaa",
+            "english": "Wait for ten minutes",
+            "difficulty": "beginner",
+            "usage": "Instruction to wait"
+          },
+          {
+            "id": "m3-l12-p6",
+            "marathi": "मला दोन तास लागतील",
+            "transliteration": "Malaa don taas laageetil",
+            "english": "It will take me two hours",
+            "difficulty": "beginner",
+            "usage": "Estimating time"
+          },
+          {
+            "id": "m3-l12-p7",
+            "marathi": "तो तीन दिवस सुट्टीवर आहे",
+            "transliteration": "To teen divas suTTeevar aahe",
+            "english": "He is on leave for three days",
+            "difficulty": "beginner",
+            "usage": "Duration of absence"
+          },
+          {
+            "id": "m3-l12-p8",
+            "marathi": "अर्धा तास",
+            "transliteration": "Ardhaa taas",
+            "english": "Half an hour",
+            "difficulty": "beginner",
+            "usage": "30 minutes"
+          }
+        ]
+      },
+      {
+        "id": "m3-l13",
+        "title": "Timelines & Schedules",
+        "titleMarathi": "वेळापत्रक आणि वेळमर्यादा",
+        "lessonNumber": 13,
+        "culturalNote": "Talking about when things start, end, or when you are free.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m3-l13-p1",
+            "marathi": "कधी सुरू होणार?",
+            "transliteration": "Kadhi suroo hoNaar?",
+            "english": "When will it start?",
+            "difficulty": "beginner",
+            "usage": "Starting time inquiry"
+          },
+          {
+            "id": "m3-l13-p2",
+            "marathi": "कधी संपणार?",
+            "transliteration": "Kadhi sanpNaar?",
+            "english": "When will it end?",
+            "difficulty": "beginner",
+            "usage": "Ending time inquiry"
+          },
+          {
+            "id": "m3-l13-p3",
+            "marathi": "वेळेवर या",
+            "transliteration": "VeLevar yaa",
+            "english": "Come on time",
+            "difficulty": "beginner",
+            "usage": "Admonition for punctuality"
+          },
+          {
+            "id": "m3-l13-p4",
+            "marathi": "मला उशीर झाला आहे",
+            "transliteration": "Malaa usheer jhaalaa aahe",
+            "english": "I am late",
+            "difficulty": "beginner",
+            "usage": "Apologizing for lateness"
+          },
+          {
+            "id": "m3-l13-p5",
+            "marathi": "वेळ संपली",
+            "transliteration": "VeL sanplee",
+            "english": "Time is up",
+            "difficulty": "beginner",
+            "usage": "Deadline notification"
+          },
+          {
+            "id": "m3-l13-p6",
+            "marathi": "माझ्याकडे वेळ नाही",
+            "transliteration": "Maajhyaakade veL naahi",
+            "english": "I don't have time",
+            "difficulty": "beginner",
+            "usage": "Expressing busyness"
+          },
+          {
+            "id": "m3-l13-p7",
+            "marathi": "मी मोकळा आहे",
+            "transliteration": "Mee mokaLaa aahe",
+            "english": "I am free (male)",
+            "difficulty": "beginner",
+            "usage": "Expressing availability"
+          },
+          {
+            "id": "m3-l13-p8",
+            "marathi": "मी मोकळी आहे",
+            "transliteration": "Mee mokaLee aahe",
+            "english": "I am free (female)",
+            "difficulty": "beginner",
+            "usage": "Expressing availability"
+          }
+        ]
+      },
+      {
+        "id": "m3-l14",
+        "title": "Date & Year",
+        "titleMarathi": "दिनांक आणि वर्ष",
+        "lessonNumber": 14,
+        "culturalNote": "Asking for or stating specific calendar dates.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m3-l14-p1",
+            "marathi": "आजची तारीख काय आहे?",
+            "transliteration": "Aajchee taareekh kaay aahe?",
+            "english": "What is today's date?",
+            "difficulty": "beginner",
+            "usage": "Date inquiry"
+          },
+          {
+            "id": "m3-l14-p2",
+            "marathi": "आज चौदा तारीख आहे",
+            "transliteration": "Aaj chaudaa taareekh aahe",
+            "english": "Today is the 14th",
+            "difficulty": "beginner",
+            "usage": "Stating date"
+          },
+          {
+            "id": "m3-l14-p3",
+            "marathi": "तुमचा वाढदिवस कधी असतो?",
+            "transliteration": "Tumchaa vaadhdivas kadhi asto?",
+            "english": "When is your birthday?",
+            "difficulty": "beginner",
+            "usage": "Birthday inquiry"
+          },
+          {
+            "id": "m3-l14-p4",
+            "marathi": "नवीन वर्ष",
+            "transliteration": "Naveen varsha",
+            "english": "New Year",
+            "difficulty": "beginner",
+            "usage": "Festive greeting context"
+          },
+          {
+            "id": "m3-l14-p5",
+            "marathi": "या वर्षात",
+            "transliteration": "Yaa varshaat",
+            "english": "In this year",
+            "difficulty": "beginner",
+            "usage": "Yearly timeline"
+          },
+          {
+            "id": "m3-l14-p6",
+            "marathi": "पुढच्या महिन्यात",
+            "transliteration": "PuDhchyaa mahinyaat",
+            "english": "Next month",
+            "difficulty": "beginner",
+            "usage": "Monthly timeline"
+          },
+          {
+            "id": "m3-l14-p7",
+            "marathi": "मागील वर्षी",
+            "transliteration": "Maageel varshi",
+            "english": "Last year",
+            "difficulty": "beginner",
+            "usage": "Past timeline"
+          },
+          {
+            "id": "m3-l14-p8",
+            "marathi": "तारीख बदलली आहे",
+            "transliteration": "Taareekh badallee aahe",
+            "english": "The date has changed",
+            "difficulty": "beginner",
+            "usage": "Schedule adjustment"
+          }
+        ]
+      },
+      {
+        "id": "m3-l15",
+        "title": "Age & Milestones",
+        "titleMarathi": "वय आणि टप्पे",
+        "lessonNumber": 15,
+        "culturalNote": "Discussing age, longevity, and key life milestones.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m3-l15-p1",
+            "marathi": "तुमचं वय किती आहे?",
+            "transliteration": "Tumcham vay kiti aahe?",
+            "english": "How old are you?",
+            "difficulty": "beginner",
+            "usage": "Age inquiry"
+          },
+          {
+            "id": "m3-l15-p2",
+            "marathi": "मी पंचवीस वर्षांचा आहे",
+            "transliteration": "Mee panchvees varshaanchaa aahe",
+            "english": "I am 25 years old (male)",
+            "difficulty": "beginner",
+            "usage": "Stating age"
+          },
+          {
+            "id": "m3-l15-p3",
+            "marathi": "मी पंचवीस वर्षांची आहे",
+            "transliteration": "Mee panchvees varshaanchee aahe",
+            "english": "I am 25 years old (female)",
+            "difficulty": "beginner",
+            "usage": "Stating age"
+          },
+          {
+            "id": "m3-l15-p4",
+            "marathi": "माझा मुलगा दहा वर्षांचा आहे",
+            "transliteration": "Maajhaa mulgaa dahaa varshaanchaa aahe",
+            "english": "My son is ten years old",
+            "difficulty": "beginner",
+            "usage": "Talking about child's age"
+          },
+          {
+            "id": "m3-l15-p5",
+            "marathi": "लहान बाळ",
+            "transliteration": "Lahaan baaL",
+            "english": "Small baby",
+            "difficulty": "beginner",
+            "usage": "Infancy descriptor"
+          },
+          {
+            "id": "m3-l15-p6",
+            "marathi": "तरुण",
+            "transliteration": "TarooN",
+            "english": "Young / Youth",
+            "difficulty": "beginner",
+            "usage": "Adulthood descriptor"
+          },
+          {
+            "id": "m3-l15-p7",
+            "marathi": "वृद्ध / वयस्कर",
+            "transliteration": "Vruddha / Vayaskar",
+            "english": "Elderly / Old",
+            "difficulty": "beginner",
+            "usage": "Old age descriptor"
+          },
+          {
+            "id": "m3-l15-p8",
+            "marathi": "दीर्घायुषी व्हा",
+            "transliteration": "Deerghaayushi vhaa",
+            "english": "May you live long",
+            "difficulty": "beginner",
+            "usage": "Traditional blessing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m4",
+    "title": "At the Market",
+    "titleMarathi": "बाजारात",
+    "description": "Shop for groceries, vegetables, bargaining and paying",
+    "icon": "🛍️",
+    "totalLessons": 15,
+    "estimatedHours": 5,
+    "difficulty": "beginner",
+    "lessons": [
+      {
+        "id": "m4-l1",
+        "title": "Finding a Shop",
+        "titleMarathi": "दुकान शोधणे",
+        "lessonNumber": 1,
+        "culturalNote": "Asking where to buy daily necessities. 'Kuthe' is the keyword for 'where'.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m4-l1-p1",
+            "marathi": "बाजार कुठे आहे?",
+            "transliteration": "Baajaar kuthe aahe?",
+            "english": "Where is the market?",
+            "difficulty": "beginner",
+            "usage": "General market direction"
+          },
+          {
+            "id": "m4-l1-p2",
+            "marathi": "किराणा दुकान कुठे आहे?",
+            "transliteration": "KiraaNaa dukaan kuthe aahe?",
+            "english": "Where is the grocery store?",
+            "difficulty": "beginner",
+            "usage": "Grocery search"
+          },
+          {
+            "id": "m4-l1-p3",
+            "marathi": "भाजीचे दुकान कुठे आहे?",
+            "transliteration": "Bhaajeechen dukaan kuthe aahe?",
+            "english": "Where is the vegetable shop?",
+            "difficulty": "beginner",
+            "usage": "Vegetable shop search"
+          },
+          {
+            "id": "m4-l1-p4",
+            "marathi": "जवळच सुपरमार्केट आहे ka?",
+            "transliteration": "JavaLach supermarket aahe ka?",
+            "english": "Is there a supermarket nearby?",
+            "difficulty": "beginner",
+            "usage": "Supermarket search"
+          },
+          {
+            "id": "m4-l1-p5",
+            "marathi": "कपड्यांचे दुकान",
+            "transliteration": "KapDyaanche dukaan",
+            "english": "Clothing store",
+            "difficulty": "beginner",
+            "usage": "Shopping location"
+          },
+          {
+            "id": "m4-l1-p6",
+            "marathi": "औषधांचे दुकान",
+            "transliteration": "Aushadhaanche dukaan",
+            "english": "Pharmacy",
+            "difficulty": "beginner",
+            "usage": "Medical shop search"
+          },
+          {
+            "id": "m4-l1-p7",
+            "marathi": "हे दुकान कधी उघडतं?",
+            "transliteration": "He dukaan kadhi ughaDatan?",
+            "english": "When does this shop open?",
+            "difficulty": "beginner",
+            "usage": "Inquiring shop hours"
+          },
+          {
+            "id": "m4-l1-p8",
+            "marathi": "हे दुकान कधी बंद होतं?",
+            "transliteration": "He dukaan kadhi band hotan?",
+            "english": "When does this shop close?",
+            "difficulty": "beginner",
+            "usage": "Inquiring closing hours"
+          }
+        ]
+      },
+      {
+        "id": "m4-l2",
+        "title": "Shop Greetings",
+        "titleMarathi": "दुकानदाराशी संभाषण",
+        "lessonNumber": 2,
+        "culturalNote": "Starting a friendly exchange with a shopkeeper (dukaandaar).",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m4-l2-p1",
+            "marathi": "नमस्कार काका",
+            "transliteration": "Namaskaar kaakaa",
+            "english": "Hello Uncle",
+            "difficulty": "beginner",
+            "usage": "Friendly respect to male shopkeeper"
+          },
+          {
+            "id": "m4-l2-p2",
+            "marathi": "मला मदत हवी आहे",
+            "transliteration": "Malaa madat havee aahe",
+            "english": "I need help",
+            "difficulty": "beginner",
+            "usage": "Seeking assistance"
+          },
+          {
+            "id": "m4-l2-p3",
+            "marathi": "तुमच्याकडे ... आहे का?",
+            "transliteration": "Tumchyaakade ... aahe ka?",
+            "english": "Do you have ...?",
+            "difficulty": "beginner",
+            "usage": "Checking stock"
+          },
+          {
+            "id": "m4-l2-p4",
+            "marathi": "मला ... दाखवा",
+            "transliteration": "Malaa ... daakhvaa",
+            "english": "Please show me ...",
+            "difficulty": "beginner",
+            "usage": "Asking to view items"
+          },
+          {
+            "id": "m4-l2-p5",
+            "marathi": "हे काय आहे?",
+            "transliteration": "He kaay aahe?",
+            "english": "What is this?",
+            "difficulty": "beginner",
+            "usage": "Asking about unidentified item"
+          },
+          {
+            "id": "m4-l2-p6",
+            "marathi": "ते काय आहे?",
+            "transliteration": "Te kaay aahe?",
+            "english": "What is that?",
+            "difficulty": "beginner",
+            "usage": "Asking about distant item"
+          },
+          {
+            "id": "m4-l2-p7",
+            "marathi": "मला दुसरं काहीतरी दाखवा",
+            "transliteration": "Malaa dusaram kaahitari daakhvaa",
+            "english": "Show me something else",
+            "difficulty": "beginner",
+            "usage": "Asking for alternatives"
+          },
+          {
+            "id": "m4-l2-p8",
+            "marathi": "हे नवीन आहे का?",
+            "transliteration": "He naveen aahe ka?",
+            "english": "Is this new?",
+            "difficulty": "beginner",
+            "usage": "Checking freshness/arrival"
+          }
+        ]
+      },
+      {
+        "id": "m4-l3",
+        "title": "Asking for Prices",
+        "titleMarathi": "किंमत विचारणे",
+        "lessonNumber": 3,
+        "culturalNote": "The most fundamental market phrase. 'Kiti' means how much.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m4-l3-p1",
+            "marathi": "याची किंमत काय आहे?",
+            "transliteration": "Yaachee kinmat kaay aahe?",
+            "english": "What is its price?",
+            "difficulty": "beginner",
+            "usage": "Asking price of single item"
+          },
+          {
+            "id": "m4-l3-p2",
+            "marathi": "हे कितीला दिले?",
+            "transliteration": "He kiteelaa dile?",
+            "english": "How much for this?",
+            "difficulty": "beginner",
+            "usage": "Very common informal price inquiry"
+          },
+          {
+            "id": "m4-l3-p3",
+            "marathi": "एक किलोचे किती?",
+            "transliteration": "Ek keeloche kiti?",
+            "english": "How much for one kilogram?",
+            "difficulty": "beginner",
+            "usage": "Rate per kilogram"
+          },
+          {
+            "id": "m4-l3-p4",
+            "marathi": "डझनचे किती?",
+            "transliteration": "Dazanche kiti?",
+            "english": "How much for a dozen?",
+            "difficulty": "beginner",
+            "usage": "Rate per dozen (usually bananas/mangoes)"
+          },
+          {
+            "id": "m4-l3-p5",
+            "marathi": "फार महाग आहे!",
+            "transliteration": "Phaar mahaag aahe!",
+            "english": "It is very expensive!",
+            "difficulty": "beginner",
+            "usage": "Expressing shock at price"
+          },
+          {
+            "id": "m4-l3-p6",
+            "marathi": "स्वस्त आहे",
+            "transliteration": "Svast aahe",
+            "english": "It is cheap / reasonable",
+            "difficulty": "beginner",
+            "usage": "Agreeing on price"
+          },
+          {
+            "id": "m4-l3-p7",
+            "marathi": "एकूण किती झाले?",
+            "transliteration": "EkooN kiti jhaale?",
+            "english": "How much is the total?",
+            "difficulty": "beginner",
+            "usage": "Asking for final bill"
+          },
+          {
+            "id": "m4-l3-p8",
+            "marathi": "सुट्टे पैसे आहेत का?",
+            "transliteration": "SuTTe paise aahet ka?",
+            "english": "Do you have change?",
+            "difficulty": "beginner",
+            "usage": "Change inquiry"
+          }
+        ]
+      },
+      {
+        "id": "m4-l4",
+        "title": "Bargaining",
+        "titleMarathi": "भाव करणे",
+        "lessonNumber": 4,
+        "culturalNote": "Bargaining is common in street markets in Maharashtra. Be polite but firm. Use 'thodaa' (a little) and 'kami karaa' (reduce).",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m4-l4-p1",
+            "marathi": "थोडं कमी करा ना",
+            "transliteration": "Thodam kami karaa naa",
+            "english": "Please reduce the price a little",
+            "difficulty": "beginner",
+            "usage": "Polite request to lower price"
+          },
+          {
+            "id": "m4-l4-p2",
+            "marathi": "योग्य भाव लावा",
+            "transliteration": "Yogya bhaav laavaa",
+            "english": "Charge a fair price",
+            "difficulty": "beginner",
+            "usage": "Asking for reasonable rate"
+          },
+          {
+            "id": "m4-l4-p3",
+            "marathi": "मी नेहमी येतो इथे",
+            "transliteration": "Mee nehmi yeto ithe",
+            "english": "I come here regularly (male)",
+            "difficulty": "beginner",
+            "usage": "Building rapport to bargain"
+          },
+          {
+            "id": "m4-l4-p4",
+            "marathi": "मी नेहमी येते इथे",
+            "transliteration": "Mee nehmi yete ithe",
+            "english": "I come here regularly (female)",
+            "difficulty": "beginner",
+            "usage": "Building rapport to bargain"
+          },
+          {
+            "id": "m4-l4-p5",
+            "marathi": "नाही, हे खूप जास्त आहे",
+            "transliteration": "Naahi, he khoop jaasta aahe",
+            "english": "No, this is too much",
+            "difficulty": "beginner",
+            "usage": "Refusing high price"
+          },
+          {
+            "id": "m4-l4-p6",
+            "marathi": "पन्नास रुपयाला द्याल का?",
+            "transliteration": "Pannaas rupayaalaa dyaal ka?",
+            "english": "Will you give it for 50 rupees?",
+            "difficulty": "beginner",
+            "usage": "Offering a specific price"
+          },
+          {
+            "id": "m4-l4-p7",
+            "marathi": "शेवटचा भाव सांगा",
+            "transliteration": "ShevaTchaa bhaav saangaa",
+            "english": "Tell me your final price",
+            "difficulty": "beginner",
+            "usage": "Ending the negotiation"
+          },
+          {
+            "id": "m4-l4-p8",
+            "marathi": "ठीक आहे, पॅक करा",
+            "transliteration": "Theek aahe, pack karaa",
+            "english": "Okay, pack it",
+            "difficulty": "beginner",
+            "usage": "Agreeing to buy"
+          }
+        ]
+      },
+      {
+        "id": "m4-l5",
+        "title": "Quantities & Weights",
+        "titleMarathi": "प्रमाण आणि वजन",
+        "lessonNumber": 5,
+        "culturalNote": "Ordering vegetables by weight: 'Kilo' and 'Gram' are standard.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m4-l5-p1",
+            "marathi": "मला अर्धा किलो द्या",
+            "transliteration": "Malaa ardhaa keelo dyaa",
+            "english": "Give me half a kilo",
+            "difficulty": "beginner",
+            "usage": "Ordering 500g"
+          },
+          {
+            "id": "m4-l5-p2",
+            "marathi": "पाव किलो",
+            "transliteration": "Paav keelo",
+            "english": "Quarter kilo (250 grams)",
+            "difficulty": "beginner",
+            "usage": "Ordering 250g"
+          },
+          {
+            "id": "m4-l5-p3",
+            "marathi": "एक किलो बटाटे द्या",
+            "transliteration": "Ek keelo baTaate dyaa",
+            "english": "Give me one kilo of potatoes",
+            "difficulty": "beginner",
+            "usage": "Vegetable order"
+          },
+          {
+            "id": "m4-l5-p4",
+            "marathi": "दोनशे पन्नास ग्रॅम",
+            "transliteration": "Donshe pannaas gram",
+            "english": "250 grams",
+            "difficulty": "beginner",
+            "usage": "Specific weight metric"
+          },
+          {
+            "id": "m4-l5-p5",
+            "marathi": "थोडे जास्त द्या",
+            "transliteration": "Thode jaasta dyaa",
+            "english": "Give a little more",
+            "difficulty": "beginner",
+            "usage": "Asking to top up"
+          },
+          {
+            "id": "m4-l5-p6",
+            "marathi": "कमी करा",
+            "transliteration": "Kami karaa",
+            "english": "Reduce the weight / quantity",
+            "difficulty": "beginner",
+            "usage": "Adjusting amount"
+          },
+          {
+            "id": "m4-l5-p7",
+            "marathi": "एक जुडी कोथिंबीर",
+            "transliteration": "Ek judee kothimbeer",
+            "english": "One bunch of coriander",
+            "difficulty": "beginner",
+            "usage": "Bunch-based quantity"
+          },
+          {
+            "id": "m4-l5-p8",
+            "marathi": "अजून एक द्या",
+            "transliteration": "Ajoon ek dyaa",
+            "english": "Give one more",
+            "difficulty": "beginner",
+            "usage": "Adding one item"
+          }
+        ]
+      },
+      {
+        "id": "m4-l6",
+        "title": "Fruits & Vegetables",
+        "titleMarathi": "फळे आणि भाज्या",
+        "lessonNumber": 6,
+        "culturalNote": "Common produce terms in Maharashtra. Mangoes (Haapoos) are highly celebrated.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m4-l6-p1",
+            "marathi": "कांदा",
+            "transliteration": "Kaandaa",
+            "english": "Onion",
+            "difficulty": "beginner",
+            "usage": "Essential vegetable"
+          },
+          {
+            "id": "m4-l6-p2",
+            "marathi": "बटाटा",
+            "transliteration": "BaTaaTaa",
+            "english": "Potato",
+            "difficulty": "beginner",
+            "usage": "Common vegetable"
+          },
+          {
+            "id": "m4-l6-p3",
+            "marathi": "टोमॅटो",
+            "transliteration": "Tomato",
+            "english": "Tomato",
+            "difficulty": "beginner",
+            "usage": "Common vegetable"
+          },
+          {
+            "id": "m4-l6-p4",
+            "marathi": "आंबा",
+            "transliteration": "Aanbaa",
+            "english": "Mango",
+            "difficulty": "beginner",
+            "usage": "Fruit"
+          },
+          {
+            "id": "m4-l6-p5",
+            "marathi": "केळी",
+            "transliteration": "KeLee",
+            "english": "Bananas",
+            "difficulty": "beginner",
+            "usage": "Fruit"
+          },
+          {
+            "id": "m4-l6-p6",
+            "marathi": "सफरचंद",
+            "transliteration": "Safarachand",
+            "english": "Apple",
+            "difficulty": "beginner",
+            "usage": "Fruit"
+          },
+          {
+            "id": "m4-l6-p7",
+            "marathi": "भाजी ताजी आहे का?",
+            "transliteration": "Bhaajee taajee aahe ka?",
+            "english": "Is the vegetable fresh?",
+            "difficulty": "beginner",
+            "usage": "Checking quality"
+          },
+          {
+            "id": "m4-l6-p8",
+            "marathi": "हे आंबे गोड आहेत का?",
+            "transliteration": "He aanbe god aahet ka?",
+            "english": "Are these mangoes sweet?",
+            "difficulty": "beginner",
+            "usage": "Checking fruit taste"
+          }
+        ]
+      },
+      {
+        "id": "m4-l7",
+        "title": "Groceries & Staples",
+        "titleMarathi": "किराणा आणि धान्य",
+        "lessonNumber": 7,
+        "culturalNote": "Common ingredients in Maharashtrian kitchens: rice, oil, wheat flour.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m4-l7-p1",
+            "marathi": "तांदूळ",
+            "transliteration": "TaandooL",
+            "english": "Rice",
+            "difficulty": "beginner",
+            "usage": "Staple"
+          },
+          {
+            "id": "m4-l7-p2",
+            "marathi": "गहू",
+            "transliteration": "Gahoo",
+            "english": "Wheat",
+            "difficulty": "beginner",
+            "usage": "Staple"
+          },
+          {
+            "id": "m4-l7-p3",
+            "marathi": "तेल",
+            "transliteration": "Tel",
+            "english": "Oil (Cooking oil)",
+            "difficulty": "beginner",
+            "usage": "Cooking ingredient"
+          },
+          {
+            "id": "m4-l7-p4",
+            "marathi": "साखर",
+            "transliteration": "Saakhar",
+            "english": "Sugar",
+            "difficulty": "beginner",
+            "usage": "Ingredient"
+          },
+          {
+            "id": "m4-l7-p5",
+            "marathi": "मीठ",
+            "transliteration": "Meeth",
+            "english": "Salt",
+            "difficulty": "beginner",
+            "usage": "Ingredient"
+          },
+          {
+            "id": "m4-l7-p6",
+            "marathi": "दूध",
+            "transliteration": "Doodh",
+            "english": "Milk",
+            "difficulty": "beginner",
+            "usage": "Dairy"
+          },
+          {
+            "id": "m4-l7-p7",
+            "marathi": "चहापत्ती",
+            "transliteration": "Chahaapattee",
+            "english": "Tea leaves",
+            "difficulty": "beginner",
+            "usage": "Daily essential"
+          },
+          {
+            "id": "m4-l7-p8",
+            "marathi": "मसाले",
+            "transliteration": "Masaale",
+            "english": "Spices",
+            "difficulty": "beginner",
+            "usage": "Flavorings"
+          }
+        ]
+      },
+      {
+        "id": "m4-l8",
+        "title": "Clothes Shopping",
+        "titleMarathi": "कपड्यांची खरेदी",
+        "lessonNumber": 8,
+        "culturalNote": "Shopping for traditional wear like Sarees or Kurta, or modern wear.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m4-l8-p1",
+            "marathi": "मला कुर्ता दाखवा",
+            "transliteration": "Malaa kurta daakhvaa",
+            "english": "Please show me a Kurta",
+            "difficulty": "beginner",
+            "usage": "Traditional wear search"
+          },
+          {
+            "id": "m4-l8-p2",
+            "marathi": "मला साडी खरेदी करायची आहे",
+            "transliteration": "Malaa saadee kharedi karaaychee aahe",
+            "english": "I want to buy a saree",
+            "difficulty": "beginner",
+            "usage": "Saree shopping"
+          },
+          {
+            "id": "m4-l8-p3",
+            "marathi": "कापड चांगलं आहे का?",
+            "transliteration": "Kaapad chaangalam aahe ka?",
+            "english": "Is the fabric good?",
+            "difficulty": "beginner",
+            "usage": "Checking fabric quality"
+          },
+          {
+            "id": "m4-l8-p4",
+            "marathi": "सुती कपडे",
+            "transliteration": "Sutee kapade",
+            "english": "Cotton clothes",
+            "difficulty": "beginner",
+            "usage": "Material preference"
+          },
+          {
+            "id": "m4-l8-p5",
+            "marathi": "रेशमी कापड",
+            "transliteration": "Reshmee kaapad",
+            "english": "Silk fabric",
+            "difficulty": "beginner",
+            "usage": "Material preference"
+          },
+          {
+            "id": "m4-l8-p6",
+            "marathi": "हे धुवून आकुंचन पावेल का?",
+            "transliteration": "He dhuvoon aakunchan paavel ka?",
+            "english": "Will this shrink after washing?",
+            "difficulty": "beginner",
+            "usage": "Care inquiry"
+          },
+          {
+            "id": "m4-l8-p7",
+            "marathi": "नवीन फॅशन",
+            "transliteration": "Naveen fashion",
+            "english": "Latest fashion",
+            "difficulty": "beginner",
+            "usage": "Trend inquiry"
+          },
+          {
+            "id": "m4-l8-p8",
+            "marathi": "साधे कपडे",
+            "transliteration": "Saadhe kapade",
+            "english": "Simple clothes",
+            "difficulty": "beginner",
+            "usage": "Style preference"
+          }
+        ]
+      },
+      {
+        "id": "m4-l9",
+        "title": "Colors & Sizes",
+        "titleMarathi": "रंग आणि आकार",
+        "lessonNumber": 9,
+        "culturalNote": "Specifying what style, color, or fit you want.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m4-l9-p1",
+            "marathi": "मला लाल रंगात दाखवा",
+            "transliteration": "Malaa laal rangaat daakhvaa",
+            "english": "Show it to me in red",
+            "difficulty": "beginner",
+            "usage": "Color preference"
+          },
+          {
+            "id": "m4-l9-p2",
+            "marathi": "पांढरा रंग",
+            "transliteration": "Paandhraa rang",
+            "english": "White color",
+            "difficulty": "beginner",
+            "usage": "Color choice"
+          },
+          {
+            "id": "m4-l9-p3",
+            "marathi": "काळा रंग",
+            "transliteration": "KaaLaa rang",
+            "english": "Black color",
+            "difficulty": "beginner",
+            "usage": "Color choice"
+          },
+          {
+            "id": "m4-l9-p4",
+            "marathi": "हिरवा रंग",
+            "transliteration": "Hirvaa rang",
+            "english": "Green color",
+            "difficulty": "beginner",
+            "usage": "Color choice"
+          },
+          {
+            "id": "m4-l9-p5",
+            "marathi": "हा आकार लहान आहे",
+            "transliteration": "Haa aakaar lahaan aahe",
+            "english": "This size is small",
+            "difficulty": "beginner",
+            "usage": "Size fit descriptor"
+          },
+          {
+            "id": "m4-l9-p6",
+            "marathi": "मला मोठा आकार हवा आहे",
+            "transliteration": "Malaa moThaa aakaar havaa aahe",
+            "english": "I want a larger size",
+            "difficulty": "beginner",
+            "usage": "Asking for bigger fit"
+          },
+          {
+            "id": "m4-l9-p7",
+            "marathi": "माप बरोबर आहे",
+            "transliteration": "Maap barobar aahe",
+            "english": "The fit is correct",
+            "difficulty": "beginner",
+            "usage": "Good size fit"
+          },
+          {
+            "id": "m4-l9-p8",
+            "marathi": "ट्रायल रूम कुठे आहे?",
+            "transliteration": "Trial room kuthe aahe?",
+            "english": "Where is the trial room?",
+            "difficulty": "beginner",
+            "usage": "Fitting room inquiry"
+          }
+        ]
+      },
+      {
+        "id": "m4-l10",
+        "title": "Quality & Condition",
+        "titleMarathi": "दर्जा आणि स्थिती",
+        "lessonNumber": 10,
+        "culturalNote": "Inspecting items for defects or ensuring high quality.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m4-l10-p1",
+            "marathi": "हे जुनं वाटतंय",
+            "transliteration": "He junam vaTatay",
+            "english": "This looks old",
+            "difficulty": "beginner",
+            "usage": "Noting wear"
+          },
+          {
+            "id": "m4-l10-p2",
+            "marathi": "यात काही दोष आहे का?",
+            "transliteration": "Yaat kaahi dosh aahe ka?",
+            "english": "Is there any defect in this?",
+            "difficulty": "beginner",
+            "usage": "Checking for damage"
+          },
+          {
+            "id": "m4-l10-p3",
+            "marathi": "हे खराब आहे",
+            "transliteration": "He kharaab aahe",
+            "english": "This is bad / spoiled",
+            "difficulty": "beginner",
+            "usage": "Rejecting item"
+          },
+          {
+            "id": "m4-l10-p4",
+            "marathi": "खूप उत्तम दर्जा आहे",
+            "transliteration": "Khoop uttam darjaa aahe",
+            "english": "The quality is excellent",
+            "difficulty": "beginner",
+            "usage": "Praising quality"
+          },
+          {
+            "id": "m4-l10-p5",
+            "marathi": "टिकाऊ आहे का?",
+            "transliteration": "Tikaau aahe ka?",
+            "english": "Is it durable?",
+            "difficulty": "beginner",
+            "usage": "Checking longevity"
+          },
+          {
+            "id": "m4-l10-p6",
+            "marathi": "हे ओरिजिनल आहे का?",
+            "transliteration": "He original aahe ka?",
+            "english": "Is this original/genuine?",
+            "difficulty": "beginner",
+            "usage": "Checking authenticity"
+          },
+          {
+            "id": "m4-l10-p7",
+            "marathi": "स्वदेशी",
+            "transliteration": "Swadeshi",
+            "english": "Locally made / Indian",
+            "difficulty": "beginner",
+            "usage": "Local origin preference"
+          },
+          {
+            "id": "m4-l10-p8",
+            "marathi": "पक्की खात्री",
+            "transliteration": "Pakkee khaatree",
+            "english": "Guaranteed",
+            "difficulty": "beginner",
+            "usage": "Confirming warranty/assurance"
+          }
+        ]
+      },
+      {
+        "id": "m4-l11",
+        "title": "Paying / Cash / Card",
+        "titleMarathi": "पैसे देणे आणि पेमेंट",
+        "lessonNumber": 11,
+        "culturalNote": "Handling transaction methods. Digital payments (UPI / GPay) are highly prevalent in India now.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m4-l11-p1",
+            "marathi": "पैसे कसे द्यायचे?",
+            "transliteration": "Paise kase dyaayache?",
+            "english": "How do I pay?",
+            "difficulty": "beginner",
+            "usage": "Payment method inquiry"
+          },
+          {
+            "id": "m4-l11-p2",
+            "marathi": "मी गुगल पे करू का?",
+            "transliteration": "Mee Google Pay karoo ka?",
+            "english": "Can I pay via Google Pay (UPI)?",
+            "difficulty": "beginner",
+            "usage": "Common mobile payment inquiry"
+          },
+          {
+            "id": "m4-l11-p3",
+            "marathi": "कार्ड चालेल का?",
+            "transliteration": "Card chaalel ka?",
+            "english": "Will a card work?",
+            "difficulty": "beginner",
+            "usage": "Credit/debit card inquiry"
+          },
+          {
+            "id": "m4-l11-p4",
+            "marathi": "फक्त रोख पैसे",
+            "transliteration": "Fakta rokh paise",
+            "english": "Cash only",
+            "difficulty": "beginner",
+            "usage": "Cash warning"
+          },
+          {
+            "id": "m4-l11-p5",
+            "marathi": "हे घ्या पैसे",
+            "transliteration": "He ghyaa paise",
+            "english": "Here is the money",
+            "difficulty": "beginner",
+            "usage": "Handing over payment"
+          },
+          {
+            "id": "m4-l11-p6",
+            "marathi": "बाकीचे पैसे द्या",
+            "transliteration": "Baakeeche paise dyaa",
+            "english": "Give back the change",
+            "difficulty": "beginner",
+            "usage": "Asking for balance due"
+          },
+          {
+            "id": "m4-l11-p7",
+            "marathi": "पावती मिळेल का?",
+            "transliteration": "Paavatee miLel ka?",
+            "english": "Can I get a receipt/bill?",
+            "difficulty": "beginner",
+            "usage": "Asking for invoice"
+          },
+          {
+            "id": "m4-l11-p8",
+            "marathi": "मी ऑनलाईन पैसे पाठवलेत",
+            "transliteration": "Mee online paise paaThavalet",
+            "english": "I have sent the money online",
+            "difficulty": "beginner",
+            "usage": "Confirming digital transfer"
+          }
+        ]
+      },
+      {
+        "id": "m4-l12",
+        "title": "Carrying / Bags",
+        "titleMarathi": "पिशवी आणि वाहून नेणे",
+        "lessonNumber": 12,
+        "culturalNote": "Carrying items. Plastic bags are banned/restricted in Maharashtra; cloth bags (kaaPdee pishvee) are preferred.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m4-l12-p1",
+            "marathi": "पिशवी मिळेल का?",
+            "transliteration": "Pishvee miLel ka?",
+            "english": "Can I get a bag?",
+            "difficulty": "beginner",
+            "usage": "Asking for carry bag"
+          },
+          {
+            "id": "m4-l12-p2",
+            "marathi": "माझ्याकडे स्वतःची पिशवी आहे",
+            "transliteration": "Maajhyaakade svataahchee pishvee aahe",
+            "english": "I have my own bag",
+            "difficulty": "beginner",
+            "usage": "Refusing shop bag"
+          },
+          {
+            "id": "m4-l12-p3",
+            "marathi": "कापडी पिशवी",
+            "transliteration": "Kaapdee pishvee",
+            "english": "Cloth bag",
+            "difficulty": "beginner",
+            "usage": "Eco-friendly option"
+          },
+          {
+            "id": "m4-l12-p4",
+            "marathi": "प्लास्टिक पिशवी नका देऊ",
+            "transliteration": "Plastic pishvee nakaa deoo",
+            "english": "Please do not give a plastic bag",
+            "difficulty": "beginner",
+            "usage": "Refusing plastic"
+          },
+          {
+            "id": "m4-l12-p5",
+            "marathi": "हे सामान खूप जड आहे",
+            "transliteration": "He saamaan khoop jaD aahe",
+            "english": "This luggage/groceries is very heavy",
+            "difficulty": "beginner",
+            "usage": "Stating weight challenge"
+          },
+          {
+            "id": "m4-l12-p6",
+            "marathi": "मला गाडीपर्यंत न्यायला मदत करा",
+            "transliteration": "Malaa gaDee-paryant nyaaylaa madat karaa",
+            "english": "Help me carry this to the vehicle",
+            "difficulty": "beginner",
+            "usage": "Asking for delivery help"
+          },
+          {
+            "id": "m4-l12-p7",
+            "marathi": "यात पॅक करा",
+            "transliteration": "Yaat pack karaa",
+            "english": "Pack it in this",
+            "difficulty": "beginner",
+            "usage": "Packaging direction"
+          },
+          {
+            "id": "m4-l12-p8",
+            "marathi": "हे सुरक्षित बांधा",
+            "transliteration": "He surakshit baandhaa",
+            "english": "Tie this securely",
+            "difficulty": "beginner",
+            "usage": "Securing items"
+          }
+        ]
+      },
+      {
+        "id": "m4-l13",
+        "title": "Returning & Exchanging",
+        "titleMarathi": "परत करणे आणि बदलणे",
+        "lessonNumber": 13,
+        "culturalNote": "Dealing with product returns or exchange conditions.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m4-l13-p1",
+            "marathi": "हे मला बदलायचे आहे",
+            "transliteration": "He malaa badlaayache aahe",
+            "english": "I want to exchange this",
+            "difficulty": "beginner",
+            "usage": "Requesting exchange"
+          },
+          {
+            "id": "m4-l13-p2",
+            "marathi": "रिफंड मिळेल का?",
+            "transliteration": "Refund miLel ka?",
+            "english": "Can I get a refund?",
+            "difficulty": "beginner",
+            "usage": "Asking for money back"
+          },
+          {
+            "id": "m4-l13-p3",
+            "marathi": "माझ्याकडे बिल आहे",
+            "transliteration": "Maajhyaakade bill aahe",
+            "english": "I have the bill",
+            "difficulty": "beginner",
+            "usage": "Proving purchase"
+          },
+          {
+            "id": "m4-l13-p4",
+            "marathi": "हे घरी गेल्यावर आवडलं नाही",
+            "transliteration": "He gharee gelyaavar aavaDala naahi",
+            "english": "I didn't like this after going home",
+            "difficulty": "beginner",
+            "usage": "Reason for return"
+          },
+          {
+            "id": "m4-l13-p5",
+            "marathi": "दुसरं काही निवडा",
+            "transliteration": "Dusaram kaahi nivDaa",
+            "english": "Select something else",
+            "difficulty": "beginner",
+            "usage": "Shopkeeper suggestion to swap"
+          },
+          {
+            "id": "m4-l13-p6",
+            "marathi": "नियम काय आहेत?",
+            "transliteration": "Niyam kaay aahet?",
+            "english": "What are the rules/policies?",
+            "difficulty": "beginner",
+            "usage": "Return policy inquiry"
+          },
+          {
+            "id": "m4-l13-p7",
+            "marathi": "बदलून मिळणे शक्य आहे का?",
+            "transliteration": "Badaloon miLNe shakya aahe ka?",
+            "english": "Is an exchange possible?",
+            "difficulty": "beginner",
+            "usage": "Exchange possibility inquiry"
+          },
+          {
+            "id": "m4-l13-p8",
+            "marathi": "यावर सूट आहे का?",
+            "transliteration": "Yaavar sooT aahe ka?",
+            "english": "Is there a discount on this?",
+            "difficulty": "beginner",
+            "usage": "Discount inquiry"
+          }
+        ]
+      },
+      {
+        "id": "m4-l14",
+        "title": "Street Vendors",
+        "titleMarathi": "फेरीवाले आणि हातगाडी",
+        "lessonNumber": 14,
+        "culturalNote": "Interacting with roadside carts ('haatgaadee') and vendors.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m4-l14-p1",
+            "marathi": "भाऊ, हे काय भाव दिले?",
+            "transliteration": "Bhaau, he kaay bhaav dile?",
+            "english": "Brother, what's the rate?",
+            "difficulty": "beginner",
+            "usage": "Friendly inquiry to street vendor"
+          },
+          {
+            "id": "m4-l14-p2",
+            "marathi": "ताजे आहेत का?",
+            "transliteration": "Taaje aahet ka?",
+            "english": "Are they fresh?",
+            "difficulty": "beginner",
+            "usage": "Checking fresh produce"
+          },
+          {
+            "id": "m4-l14-p3",
+            "marathi": "तोलून द्या",
+            "transliteration": "Toloon dyaa",
+            "english": "Weigh it properly",
+            "difficulty": "beginner",
+            "usage": "Ensuring correct measure"
+          },
+          {
+            "id": "m4-l14-p4",
+            "marathi": "वजन काटा बरोबर आहे का?",
+            "transliteration": "Vajan kaaTaa barobar aahe ka?",
+            "english": "Is the weighing scale correct?",
+            "difficulty": "beginner",
+            "usage": "Checking scale honesty"
+          },
+          {
+            "id": "m4-l14-p5",
+            "marathi": "इथे गाडी लावू नका",
+            "transliteration": "Ithe gaDee laavoo nakaa",
+            "english": "Don't park the cart here",
+            "difficulty": "beginner",
+            "usage": "Space request"
+          },
+          {
+            "id": "m4-l14-p6",
+            "marathi": "आताचे काढलेले आहेत",
+            "transliteration": "Aataache kaaDhalela aahet",
+            "english": "These were harvested/made just now",
+            "difficulty": "beginner",
+            "usage": "Vendor reassurance of freshness"
+          },
+          {
+            "id": "m4-l14-p7",
+            "marathi": "रस्त्यावरची खरेदी",
+            "transliteration": "Rastyaavarchee kharedi",
+            "english": "Street shopping",
+            "difficulty": "beginner",
+            "usage": "Shopping context descriptor"
+          },
+          {
+            "id": "m4-l14-p8",
+            "marathi": "मावशी, कोथिंबीर द्या",
+            "transliteration": "Maavshee, kothimbeer dyaa",
+            "english": "Auntie, give me coriander",
+            "difficulty": "beginner",
+            "usage": "Polite address to elderly female vendor"
+          }
+        ]
+      },
+      {
+        "id": "m4-l15",
+        "title": "Shopping Complete",
+        "titleMarathi": "खरेदी पूर्ण",
+        "lessonNumber": 15,
+        "culturalNote": "Concluding your shopping trip with polite thanks.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m4-l15-p1",
+            "marathi": "खरेदी झाली!",
+            "transliteration": "Kharedi jhaalee!",
+            "english": "Shopping is done!",
+            "difficulty": "beginner",
+            "usage": "Expressing completion"
+          },
+          {
+            "id": "m4-l15-p2",
+            "marathi": "खूप छान अनुभव होता",
+            "transliteration": "Khoop chhaan anubhav hota",
+            "english": "It was a very nice experience",
+            "difficulty": "beginner",
+            "usage": "Complimenting shopkeeper"
+          },
+          {
+            "id": "m4-l15-p3",
+            "marathi": "मी पुन्हा येईन",
+            "transliteration": "Mee punhaa yeeen",
+            "english": "I will come again",
+            "difficulty": "beginner",
+            "usage": "Expressing intent to return"
+          },
+          {
+            "id": "m4-l15-p4",
+            "marathi": "खूप धन्यवाद काका",
+            "transliteration": "Khoop dhanyavaad kaakaa",
+            "english": "Thank you very much Uncle",
+            "difficulty": "beginner",
+            "usage": "Respectful closing thanks"
+          },
+          {
+            "id": "m4-l15-p5",
+            "marathi": "घरपोच मिळेल का?",
+            "transliteration": "Gharpoch miLel ka?",
+            "english": "Is home delivery available?",
+            "difficulty": "beginner",
+            "usage": "Home delivery inquiry"
+          },
+          {
+            "id": "m4-l15-p6",
+            "marathi": "माझा पत्ता घ्या",
+            "transliteration": "Maajhaa pattaa ghyaa",
+            "english": "Take my address",
+            "difficulty": "beginner",
+            "usage": "Giving location details"
+          },
+          {
+            "id": "m4-l15-p7",
+            "marathi": "निरोप घेतो",
+            "transliteration": "Nirop gheto",
+            "english": "Goodbye (male)",
+            "difficulty": "beginner",
+            "usage": "Leaving the shop"
+          },
+          {
+            "id": "m4-l15-p8",
+            "marathi": "निरोप घेते",
+            "transliteration": "Nirop ghete",
+            "english": "Goodbye (female)",
+            "difficulty": "beginner",
+            "usage": "Leaving the shop"
+          }
+        ]
+      }
+    ]
+  }
+]

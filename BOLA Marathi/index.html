@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+  <meta name="theme-color" content="#667eea" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  
+  <!-- SEO -->
+  <title>बोला मराठी — Learn Conversational Marathi with AI</title>
+  <meta name="description" content="Master conversational Marathi through audio-first lessons. Listen to native pronunciation, repeat, and get instant AI-powered feedback. 60 hours of structured curriculum from greetings to culture." />
+  <meta name="keywords" content="Marathi, learn Marathi, Marathi language, pronunciation, language learning, AI tutor, conversational Marathi" />
+  
+  <!-- PWA -->
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" type="image/png" sizes="192x192" href="assets/icons/icon-192.png" />
+  <link rel="apple-touch-icon" href="assets/icons/icon-192.png" />
+  
+  <!-- Premium Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&family=Baloo+2:wght@400;500;600;700;800&family=Noto+Sans+Marathi:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/styles.css" />
+
+  <!-- Favicon fallback (inline SVG) -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🙏</text></svg>" />
+</head>
+<body>
+  <!-- SVG Gradient definition for Home Circular Progress rings -->
+  <svg width="0" height="0" style="display:block;">
+    <defs>
+      <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#ff7b00" />
+        <stop offset="100%" stop-color="#ffae00" />
+      </linearGradient>
+    </defs>
+  </svg>
+
+  <div id="app">
+    <!-- App container where pages are loaded dynamically by AppController -->
+    <main id="mainContent"></main>
+  </div>
+
+  <!-- JS Modules -->
+  <script type="module" src="src/presentation/app.js"></script>
+</body>
+</html>

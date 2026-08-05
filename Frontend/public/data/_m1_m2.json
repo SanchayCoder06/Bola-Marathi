@@ -1,0 +1,2486 @@
+[
+  {
+    "id": "m1",
+    "title": "Greetings & Basics",
+    "titleMarathi": "अभिवादन आणि मूलभूत",
+    "description": "Learn essential greetings and polite expressions",
+    "icon": "🙏",
+    "totalLessons": 15,
+    "estimatedHours": 5,
+    "difficulty": "beginner",
+    "lessons": [
+      {
+        "id": "m1-l1",
+        "title": "Hello & Goodbye",
+        "titleMarathi": "नमस्कार आणि निरोप",
+        "lessonNumber": 1,
+        "culturalNote": "In Maharashtra, 'Namaskar' with folded hands is the universal greeting, preferred over 'Namaste'. It works at any time of day and with anyone regardless of age or status.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m1-l1-p1",
+            "marathi": "नमस्कार",
+            "transliteration": "Namaskaar",
+            "english": "Hello / Greetings",
+            "difficulty": "beginner",
+            "usage": "Universal formal greeting, used anytime"
+          },
+          {
+            "id": "m1-l1-p2",
+            "marathi": "नमस्ते",
+            "transliteration": "Namaste",
+            "english": "Hello",
+            "difficulty": "beginner",
+            "usage": "Common greeting, slightly less formal than Namaskar"
+          },
+          {
+            "id": "m1-l1-p3",
+            "marathi": "सुप्रभात",
+            "transliteration": "Suprabhat",
+            "english": "Good morning",
+            "difficulty": "beginner",
+            "usage": "Formal morning greeting"
+          },
+          {
+            "id": "m1-l1-p4",
+            "marathi": "शुभ संध्याकाळ",
+            "transliteration": "Shubh sandhyaakaaL",
+            "english": "Good evening",
+            "difficulty": "beginner",
+            "usage": "Evening greeting, somewhat formal"
+          },
+          {
+            "id": "m1-l1-p5",
+            "marathi": "शुभ रात्री",
+            "transliteration": "Shubh raatri",
+            "english": "Good night",
+            "difficulty": "beginner",
+            "usage": "Said when parting at night"
+          },
+          {
+            "id": "m1-l1-p6",
+            "marathi": "निरोप",
+            "transliteration": "Nirop",
+            "english": "Goodbye / Farewell",
+            "difficulty": "beginner",
+            "usage": "Formal word for goodbye"
+          },
+          {
+            "id": "m1-l1-p7",
+            "marathi": "येतो",
+            "transliteration": "Yeto",
+            "english": "Bye (male speaker leaving)",
+            "difficulty": "beginner",
+            "usage": "Casual goodbye said by males"
+          },
+          {
+            "id": "m1-l1-p8",
+            "marathi": "येते",
+            "transliteration": "Yete",
+            "english": "Bye (female speaker leaving)",
+            "difficulty": "beginner",
+            "usage": "Casual goodbye said by females"
+          },
+          {
+            "id": "m1-l1-p9",
+            "marathi": "पुन्हा भेटू",
+            "transliteration": "Punhaa bhetoo",
+            "english": "Let's meet again",
+            "difficulty": "beginner",
+            "usage": "Friendly farewell expression"
+          }
+        ]
+      },
+      {
+        "id": "m1-l2",
+        "title": "Please & Thank You",
+        "titleMarathi": "कृपया आणि धन्यवाद",
+        "lessonNumber": 2,
+        "culturalNote": "Marathi culture values politeness deeply. While 'Krupayaa' (please) exists, politeness is often conveyed through verb forms and tone. 'Dhanyavaad' is universally understood for thanks.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m1-l2-p1",
+            "marathi": "कृपया",
+            "transliteration": "Krupayaa",
+            "english": "Please",
+            "difficulty": "beginner",
+            "usage": "Formal way to say please"
+          },
+          {
+            "id": "m1-l2-p2",
+            "marathi": "धन्यवाद",
+            "transliteration": "Dhanyavaad",
+            "english": "Thank you",
+            "difficulty": "beginner",
+            "usage": "Standard thanks in all situations"
+          },
+          {
+            "id": "m1-l2-p3",
+            "marathi": "खूप धन्यवाद",
+            "transliteration": "Khoop dhanyavaad",
+            "english": "Thank you very much",
+            "difficulty": "beginner",
+            "usage": "Emphatic, heartfelt thanks"
+          },
+          {
+            "id": "m1-l2-p4",
+            "marathi": "आभारी आहे",
+            "transliteration": "Aabhaari aahe",
+            "english": "I am grateful",
+            "difficulty": "beginner",
+            "usage": "Expressing deep gratitude"
+          },
+          {
+            "id": "m1-l2-p5",
+            "marathi": "तुमचे आभार",
+            "transliteration": "Tumche aabhaar",
+            "english": "Thank you (respectful)",
+            "difficulty": "beginner",
+            "usage": "Very formal thanks to elders"
+          },
+          {
+            "id": "m1-l2-p6",
+            "marathi": "मनापासून धन्यवाद",
+            "transliteration": "Manapaasoon dhanyavaad",
+            "english": "Heartfelt thanks",
+            "difficulty": "beginner",
+            "usage": "Sincere, deep thanks"
+          },
+          {
+            "id": "m1-l2-p7",
+            "marathi": "काही नाही",
+            "transliteration": "Kaahi naahi",
+            "english": "You're welcome / It's nothing",
+            "difficulty": "beginner",
+            "usage": "Casual response to thanks"
+          },
+          {
+            "id": "m1-l2-p8",
+            "marathi": "हरकत नाही",
+            "transliteration": "Harkat naahi",
+            "english": "No problem",
+            "difficulty": "beginner",
+            "usage": "Casual reassurance"
+          },
+          {
+            "id": "m1-l2-p9",
+            "marathi": "उल्लेख नको",
+            "transliteration": "Ullekh nako",
+            "english": "Don't mention it",
+            "difficulty": "beginner",
+            "usage": "Polite dismissal of thanks"
+          }
+        ]
+      },
+      {
+        "id": "m1-l3",
+        "title": "Sorry & Excuse Me",
+        "titleMarathi": "माफ करा आणि क्षमा",
+        "lessonNumber": 3,
+        "culturalNote": "Apologizing in Marathi is often accompanied by body language - a slight bow or touching elder's feet. 'Maaf karaa' is the everyday apology; 'Kshamaa karaa' is more literary and formal.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m1-l3-p1",
+            "marathi": "माफ करा",
+            "transliteration": "Maaf karaa",
+            "english": "Sorry / Excuse me (formal)",
+            "difficulty": "beginner",
+            "usage": "Standard formal apology"
+          },
+          {
+            "id": "m1-l3-p2",
+            "marathi": "माफ कर",
+            "transliteration": "Maaf kar",
+            "english": "Sorry (informal)",
+            "difficulty": "beginner",
+            "usage": "Informal apology to friends or younger people"
+          },
+          {
+            "id": "m1-l3-p3",
+            "marathi": "क्षमा करा",
+            "transliteration": "Kshamaa karaa",
+            "english": "Please forgive (very formal)",
+            "difficulty": "beginner",
+            "usage": "Literary or very formal apology"
+          },
+          {
+            "id": "m1-l3-p4",
+            "marathi": "मला माफ करा",
+            "transliteration": "Malaa maaf karaa",
+            "english": "Please forgive me",
+            "difficulty": "beginner",
+            "usage": "Sincere personal apology"
+          },
+          {
+            "id": "m1-l3-p5",
+            "marathi": "चुकलं माझं",
+            "transliteration": "Chukalam maajham",
+            "english": "It was my mistake",
+            "difficulty": "beginner",
+            "usage": "Admitting fault openly"
+          },
+          {
+            "id": "m1-l3-p6",
+            "marathi": "जरा बाजूला",
+            "transliteration": "Jaraa baajoolaa",
+            "english": "Excuse me (to pass by)",
+            "difficulty": "beginner",
+            "usage": "When asking someone to move aside"
+          },
+          {
+            "id": "m1-l3-p7",
+            "marathi": "एक मिनिट",
+            "transliteration": "Ek minit",
+            "english": "One minute please",
+            "difficulty": "beginner",
+            "usage": "Asking for a moment's patience"
+          },
+          {
+            "id": "m1-l3-p8",
+            "marathi": "काळजी करू नका",
+            "transliteration": "KaaLji karoo nakaa",
+            "english": "Don't worry about it",
+            "difficulty": "beginner",
+            "usage": "Reassuring someone after a mistake"
+          },
+          {
+            "id": "m1-l3-p9",
+            "marathi": "राग मानू नका",
+            "transliteration": "Raag maanoo nakaa",
+            "english": "Please don't be angry",
+            "difficulty": "beginner",
+            "usage": "Seeking forgiveness, calming anger"
+          }
+        ]
+      },
+      {
+        "id": "m1-l4",
+        "title": "Yes, No & Basic Responses",
+        "titleMarathi": "हो, नाही आणि मूलभूत उत्तरे",
+        "lessonNumber": 4,
+        "culturalNote": "In Marathi, 'Ho' (yes) and 'Naahi' (no) are the basic responses. The famous Indian head wobble (side-to-side) often means 'yes' or acknowledgment in Maharashtra.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m1-l4-p1",
+            "marathi": "हो",
+            "transliteration": "Ho",
+            "english": "Yes",
+            "difficulty": "beginner",
+            "usage": "Standard affirmative"
+          },
+          {
+            "id": "m1-l4-p2",
+            "marathi": "नाही",
+            "transliteration": "Naahi",
+            "english": "No",
+            "difficulty": "beginner",
+            "usage": "Standard negative"
+          },
+          {
+            "id": "m1-l4-p3",
+            "marathi": "बरोबर",
+            "transliteration": "Barobar",
+            "english": "Correct / Right",
+            "difficulty": "beginner",
+            "usage": "Affirming something is correct"
+          },
+          {
+            "id": "m1-l4-p4",
+            "marathi": "चुकीचे आहे",
+            "transliteration": "Chukeeche aahe",
+            "english": "That is wrong",
+            "difficulty": "beginner",
+            "usage": "Politely disagreeing"
+          },
+          {
+            "id": "m1-l4-p5",
+            "marathi": "कदाचित",
+            "transliteration": "Kadaachit",
+            "english": "Maybe / Perhaps",
+            "difficulty": "beginner",
+            "usage": "Expressing uncertainty"
+          },
+          {
+            "id": "m1-l4-p6",
+            "marathi": "नक्की",
+            "transliteration": "Nakki",
+            "english": "Definitely / For sure",
+            "difficulty": "beginner",
+            "usage": "Strong emphatic yes"
+          },
+          {
+            "id": "m1-l4-p7",
+            "marathi": "ठीक आहे",
+            "transliteration": "Theek aahe",
+            "english": "OK / Alright",
+            "difficulty": "beginner",
+            "usage": "General agreement or acceptance"
+          },
+          {
+            "id": "m1-l4-p8",
+            "marathi": "चालेल",
+            "transliteration": "Chaalel",
+            "english": "That works / Fine",
+            "difficulty": "beginner",
+            "usage": "Accepting a suggestion casually"
+          },
+          {
+            "id": "m1-l4-p9",
+            "marathi": "अजिबात नाही",
+            "transliteration": "Ajibaat naahi",
+            "english": "Not at all / Absolutely not",
+            "difficulty": "beginner",
+            "usage": "Strong emphatic refusal"
+          }
+        ]
+      },
+      {
+        "id": "m1-l5",
+        "title": "Basic Courtesy",
+        "titleMarathi": "मूलभूत शिष्टाचार",
+        "lessonNumber": 5,
+        "culturalNote": "Maharashtrian hospitality is legendary. Offering water and tea to guests is an essential custom. The saying 'Paahune dev asataat' (guests are gods) reflects the deep cultural value of hospitality.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m1-l5-p1",
+            "marathi": "या, बसा",
+            "transliteration": "Yaa, basaa",
+            "english": "Come in, please sit",
+            "difficulty": "beginner",
+            "usage": "Welcoming a guest warmly"
+          },
+          {
+            "id": "m1-l5-p2",
+            "marathi": "पाणी घ्या",
+            "transliteration": "Paani ghyaa",
+            "english": "Have some water",
+            "difficulty": "beginner",
+            "usage": "First offering to any guest"
+          },
+          {
+            "id": "m1-l5-p3",
+            "marathi": "चहा घ्या",
+            "transliteration": "Chahaa ghyaa",
+            "english": "Have some tea",
+            "difficulty": "beginner",
+            "usage": "Offering tea, a must in Maharashtra"
+          },
+          {
+            "id": "m1-l5-p4",
+            "marathi": "जेवायला या",
+            "transliteration": "Jevaaylaa yaa",
+            "english": "Come for a meal",
+            "difficulty": "beginner",
+            "usage": "Inviting someone to eat"
+          },
+          {
+            "id": "m1-l5-p5",
+            "marathi": "काळजी घ्या",
+            "transliteration": "KaaLji ghyaa",
+            "english": "Take care",
+            "difficulty": "beginner",
+            "usage": "Farewell well-wish"
+          },
+          {
+            "id": "m1-l5-p6",
+            "marathi": "सांभाळून जा",
+            "transliteration": "Saambhaaloon jaa",
+            "english": "Go carefully",
+            "difficulty": "beginner",
+            "usage": "Said when someone leaves your home"
+          },
+          {
+            "id": "m1-l5-p7",
+            "marathi": "बरं वाटलं",
+            "transliteration": "Baram vaaTlam",
+            "english": "I felt good / That was nice",
+            "difficulty": "beginner",
+            "usage": "Expressing appreciation"
+          },
+          {
+            "id": "m1-l5-p8",
+            "marathi": "तुमचं स्वागत आहे",
+            "transliteration": "Tumcham swaagat aahe",
+            "english": "You are welcome",
+            "difficulty": "beginner",
+            "usage": "Formal welcome to a guest"
+          },
+          {
+            "id": "m1-l5-p9",
+            "marathi": "आत या",
+            "transliteration": "Aat yaa",
+            "english": "Come inside",
+            "difficulty": "beginner",
+            "usage": "Inviting someone into your home"
+          }
+        ]
+      },
+      {
+        "id": "m1-l6",
+        "title": "Formal Speech",
+        "titleMarathi": "औपचारिक भाषा",
+        "lessonNumber": 6,
+        "culturalNote": "Marathi has distinct formal (tumhi/aapan) and informal (too) registers. Using the formal register with elders, strangers, and in professional settings is crucial. The wrong register can cause offense.",
+        "grammarFocus": "Formal speech uses 'tumhi' (you-formal) or 'aapan' (you-very formal) with verb conjugations ending in '-aa' or '-aat'. Example: 'Tumhi kase aahaat?' (How are you?-formal).",
+        "phrases": [
+          {
+            "id": "m1-l6-p1",
+            "marathi": "आपण कसे आहात?",
+            "transliteration": "Aapan kase aahaat?",
+            "english": "How are you? (very formal)",
+            "difficulty": "beginner",
+            "usage": "Respectful inquiry to elders or dignitaries"
+          },
+          {
+            "id": "m1-l6-p2",
+            "marathi": "तुम्ही कसे आहात?",
+            "transliteration": "Tumhi kase aahaat?",
+            "english": "How are you? (formal)",
+            "difficulty": "beginner",
+            "usage": "Polite inquiry to equals or strangers"
+          },
+          {
+            "id": "m1-l6-p3",
+            "marathi": "कृपया बसा",
+            "transliteration": "Krupayaa basaa",
+            "english": "Please sit down",
+            "difficulty": "beginner",
+            "usage": "Formal polite request"
+          },
+          {
+            "id": "m1-l6-p4",
+            "marathi": "आपले नाव काय आहे?",
+            "transliteration": "Aaple naav kaay aahe?",
+            "english": "What is your name? (formal)",
+            "difficulty": "beginner",
+            "usage": "Respectful name inquiry"
+          },
+          {
+            "id": "m1-l6-p5",
+            "marathi": "माझी भेट घ्या",
+            "transliteration": "Maajhi bheT ghyaa",
+            "english": "Please meet me / Visit me",
+            "difficulty": "beginner",
+            "usage": "Formal invitation"
+          },
+          {
+            "id": "m1-l6-p6",
+            "marathi": "आपली काय सेवा करू?",
+            "transliteration": "Aapli kaay sevaa karoo?",
+            "english": "How may I help you?",
+            "difficulty": "beginner",
+            "usage": "Very formal service offer"
+          },
+          {
+            "id": "m1-l6-p7",
+            "marathi": "आपला निरोप घेतो",
+            "transliteration": "Aaplaa nirop gheto",
+            "english": "I take your leave (male)",
+            "difficulty": "beginner",
+            "usage": "Formal farewell by male speaker"
+          },
+          {
+            "id": "m1-l6-p8",
+            "marathi": "आपला निरोप घेते",
+            "transliteration": "Aaplaa nirop ghete",
+            "english": "I take your leave (female)",
+            "difficulty": "beginner",
+            "usage": "Formal farewell by female speaker"
+          },
+          {
+            "id": "m1-l6-p9",
+            "marathi": "कृपया माझ्याबरोबर या",
+            "transliteration": "Krupayaa maajhyaabarobar yaa",
+            "english": "Please come with me",
+            "difficulty": "beginner",
+            "usage": "Formal polite direction"
+          }
+        ]
+      },
+      {
+        "id": "m1-l7",
+        "title": "Informal Speech",
+        "titleMarathi": "अनौपचारिक भाषा",
+        "lessonNumber": 7,
+        "culturalNote": "Informal Marathi uses 'tu' (you-informal) with '-s' verb endings. Used among close friends, with younger people, and within family among same-age members. Using this with elders is disrespectful.",
+        "grammarFocus": "Informal conjugations use '-s' endings: 'too kasaa aahes?' (how are you? to male friend), 'too kashi aahes?' (to female friend). The '-s' marks second person singular informal.",
+        "phrases": [
+          {
+            "id": "m1-l7-p1",
+            "marathi": "तू कसा आहेस?",
+            "transliteration": "Too kasaa aahes?",
+            "english": "How are you? (to male friend)",
+            "difficulty": "beginner",
+            "usage": "Casual inquiry to male friend"
+          },
+          {
+            "id": "m1-l7-p2",
+            "marathi": "तू कशी आहेस?",
+            "transliteration": "Too kashi aahes?",
+            "english": "How are you? (to female friend)",
+            "difficulty": "beginner",
+            "usage": "Casual inquiry to female friend"
+          },
+          {
+            "id": "m1-l7-p3",
+            "marathi": "काय चाललंय?",
+            "transliteration": "Kaay chaallamay?",
+            "english": "What's going on?",
+            "difficulty": "beginner",
+            "usage": "Very casual greeting among friends"
+          },
+          {
+            "id": "m1-l7-p4",
+            "marathi": "काय म्हणतोस?",
+            "transliteration": "Kaay mhaNtos?",
+            "english": "What do you say? (to male)",
+            "difficulty": "beginner",
+            "usage": "Casual check-in with male friend"
+          },
+          {
+            "id": "m1-l7-p5",
+            "marathi": "काय म्हणतेस?",
+            "transliteration": "Kaay mhaNtes?",
+            "english": "What do you say? (to female)",
+            "difficulty": "beginner",
+            "usage": "Casual check-in with female friend"
+          },
+          {
+            "id": "m1-l7-p6",
+            "marathi": "मजेत?",
+            "transliteration": "Majet?",
+            "english": "Having fun? / All good?",
+            "difficulty": "beginner",
+            "usage": "Very casual, slang-like greeting"
+          },
+          {
+            "id": "m1-l7-p7",
+            "marathi": "चल, निघूया",
+            "transliteration": "Chal, nighuyaa",
+            "english": "Let's go",
+            "difficulty": "beginner",
+            "usage": "Casual suggestion to leave together"
+          },
+          {
+            "id": "m1-l7-p8",
+            "marathi": "बोल ना",
+            "transliteration": "Bol naa",
+            "english": "Go ahead, tell me",
+            "difficulty": "beginner",
+            "usage": "Encouraging friend to speak up"
+          },
+          {
+            "id": "m1-l7-p9",
+            "marathi": "काही नको",
+            "transliteration": "Kaahi nako",
+            "english": "Nothing needed / Don't bother",
+            "difficulty": "beginner",
+            "usage": "Casual refusal or dismissal"
+          }
+        ]
+      },
+      {
+        "id": "m1-l8",
+        "title": "Titles & Honorifics",
+        "titleMarathi": "पदव्या आणि सन्मान",
+        "lessonNumber": 8,
+        "culturalNote": "Marathi uses respectful suffixes and titles extensively. Adding 'ji' or 'saheb' to names shows respect. Family terms like 'kaka' (uncle) and 'tai' (elder sister) are used even for non-relatives.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m1-l8-p1",
+            "marathi": "साहेब",
+            "transliteration": "Saaheb",
+            "english": "Sir",
+            "difficulty": "beginner",
+            "usage": "Respectful address for men in formal settings"
+          },
+          {
+            "id": "m1-l8-p2",
+            "marathi": "मॅडम",
+            "transliteration": "Maidam",
+            "english": "Madam",
+            "difficulty": "beginner",
+            "usage": "Respectful address for women in formal settings"
+          },
+          {
+            "id": "m1-l8-p3",
+            "marathi": "दादा",
+            "transliteration": "Daadaa",
+            "english": "Elder brother / Respected sir",
+            "difficulty": "beginner",
+            "usage": "Respectful term for older males, even strangers"
+          },
+          {
+            "id": "m1-l8-p4",
+            "marathi": "ताई",
+            "transliteration": "Taai",
+            "english": "Elder sister / Respected ma'am",
+            "difficulty": "beginner",
+            "usage": "Respectful term for older females"
+          },
+          {
+            "id": "m1-l8-p5",
+            "marathi": "काका",
+            "transliteration": "Kaakaa",
+            "english": "Uncle",
+            "difficulty": "beginner",
+            "usage": "For older men, relatives or strangers alike"
+          },
+          {
+            "id": "m1-l8-p6",
+            "marathi": "काकू",
+            "transliteration": "Kaakoo",
+            "english": "Aunt",
+            "difficulty": "beginner",
+            "usage": "For older women, relatives or strangers"
+          },
+          {
+            "id": "m1-l8-p7",
+            "marathi": "गुरुजी",
+            "transliteration": "Guruji",
+            "english": "Teacher (respectful)",
+            "difficulty": "beginner",
+            "usage": "For teachers, priests, and mentors"
+          },
+          {
+            "id": "m1-l8-p8",
+            "marathi": "अण्णा",
+            "transliteration": "Annaa",
+            "english": "Elder brother (very respectful)",
+            "difficulty": "beginner",
+            "usage": "Common in rural Maharashtra, very respectful"
+          },
+          {
+            "id": "m1-l8-p9",
+            "marathi": "वहिनी",
+            "transliteration": "Vahini",
+            "english": "Sister-in-law / Elder's wife",
+            "difficulty": "beginner",
+            "usage": "Respectful address for married women"
+          }
+        ]
+      },
+      {
+        "id": "m1-l9",
+        "title": "Polite Requests",
+        "titleMarathi": "विनम्र विनंत्या",
+        "lessonNumber": 9,
+        "culturalNote": "Polite requests in Marathi use the formal imperative: verb stem + '-aa'. Adding 'krupayaa' makes it extra polite, though Marathi relies more on verb form and tone than a separate 'please' word.",
+        "grammarFocus": "Polite imperative uses formal 'tumhi' form: verb stem + '-aa'. Examples: 'dyaa' (please give), 'saangaa' (please tell), 'yaa' (please come).",
+        "phrases": [
+          {
+            "id": "m1-l9-p1",
+            "marathi": "कृपया मला सांगा",
+            "transliteration": "Krupayaa malaa saangaa",
+            "english": "Please tell me",
+            "difficulty": "beginner",
+            "usage": "Polite request for information"
+          },
+          {
+            "id": "m1-l9-p2",
+            "marathi": "हे द्या",
+            "transliteration": "He dyaa",
+            "english": "Please give this",
+            "difficulty": "beginner",
+            "usage": "Requesting an item politely"
+          },
+          {
+            "id": "m1-l9-p3",
+            "marathi": "जरा मदत करा",
+            "transliteration": "Jaraa madat karaa",
+            "english": "Please help a little",
+            "difficulty": "beginner",
+            "usage": "Asking for assistance"
+          },
+          {
+            "id": "m1-l9-p4",
+            "marathi": "पुन्हा सांगा",
+            "transliteration": "Punhaa saangaa",
+            "english": "Please say that again",
+            "difficulty": "beginner",
+            "usage": "Asking for repetition"
+          },
+          {
+            "id": "m1-l9-p5",
+            "marathi": "हळू बोला",
+            "transliteration": "HaLoo bolaa",
+            "english": "Please speak slowly",
+            "difficulty": "beginner",
+            "usage": "Requesting slower speech"
+          },
+          {
+            "id": "m1-l9-p6",
+            "marathi": "इथे या",
+            "transliteration": "Ithe yaa",
+            "english": "Please come here",
+            "difficulty": "beginner",
+            "usage": "Calling someone over politely"
+          },
+          {
+            "id": "m1-l9-p7",
+            "marathi": "दार उघडा",
+            "transliteration": "Daar ughaaDaa",
+            "english": "Please open the door",
+            "difficulty": "beginner",
+            "usage": "Common household request"
+          },
+          {
+            "id": "m1-l9-p8",
+            "marathi": "थोडं थांबा",
+            "transliteration": "ThoDam thaambaa",
+            "english": "Please wait a bit",
+            "difficulty": "beginner",
+            "usage": "Requesting patience"
+          },
+          {
+            "id": "m1-l9-p9",
+            "marathi": "हे लिहून द्या",
+            "transliteration": "He lihoon dyaa",
+            "english": "Please write this down",
+            "difficulty": "beginner",
+            "usage": "Requesting written information"
+          }
+        ]
+      },
+      {
+        "id": "m1-l10",
+        "title": "Common Responses",
+        "titleMarathi": "सामान्य उत्तरे",
+        "lessonNumber": 10,
+        "culturalNote": "Marathi responses often include particles like 'naa', 'ki', and 'baram' that add nuance and warmth. Learning these filler words helps you sound natural in conversation.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m1-l10-p1",
+            "marathi": "बरं, ठीक आहे",
+            "transliteration": "Baram, theek aahe",
+            "english": "OK, alright",
+            "difficulty": "beginner",
+            "usage": "Casual, general agreement"
+          },
+          {
+            "id": "m1-l10-p2",
+            "marathi": "मला समजलं",
+            "transliteration": "Malaa samajlam",
+            "english": "I understand",
+            "difficulty": "beginner",
+            "usage": "Confirming comprehension"
+          },
+          {
+            "id": "m1-l10-p3",
+            "marathi": "मला माहीत नाही",
+            "transliteration": "Malaa maahit naahi",
+            "english": "I don't know",
+            "difficulty": "beginner",
+            "usage": "Expressing lack of knowledge"
+          },
+          {
+            "id": "m1-l10-p4",
+            "marathi": "मला माहीत आहे",
+            "transliteration": "Malaa maahit aahe",
+            "english": "I know",
+            "difficulty": "beginner",
+            "usage": "Confirming you know something"
+          },
+          {
+            "id": "m1-l10-p5",
+            "marathi": "खरंच?",
+            "transliteration": "Kharamch?",
+            "english": "Really?",
+            "difficulty": "beginner",
+            "usage": "Expressing surprise or disbelief"
+          },
+          {
+            "id": "m1-l10-p6",
+            "marathi": "नक्कीच",
+            "transliteration": "Nakkiich",
+            "english": "Of course / Certainly",
+            "difficulty": "beginner",
+            "usage": "Enthusiastic agreement"
+          },
+          {
+            "id": "m1-l10-p7",
+            "marathi": "बरं बरं",
+            "transliteration": "Baram baram",
+            "english": "OK OK",
+            "difficulty": "beginner",
+            "usage": "Quick casual acknowledgment"
+          },
+          {
+            "id": "m1-l10-p8",
+            "marathi": "बघू या",
+            "transliteration": "Baghoo yaa",
+            "english": "Let's see",
+            "difficulty": "beginner",
+            "usage": "Non-committal, deferring response"
+          },
+          {
+            "id": "m1-l10-p9",
+            "marathi": "विचार करतो",
+            "transliteration": "Vichaar karto",
+            "english": "I'll think about it (male)",
+            "difficulty": "beginner",
+            "usage": "Politely deferring a decision"
+          }
+        ]
+      },
+      {
+        "id": "m1-l11",
+        "title": "Blessings & Well-wishes",
+        "titleMarathi": "आशीर्वाद आणि शुभेच्छा",
+        "lessonNumber": 11,
+        "culturalNote": "Blessings are integral to Marathi culture. Elders bless younger people by placing a hand on their head. Seeking blessings (aashirvaad) from elders before important events is a cherished tradition.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m1-l11-p1",
+            "marathi": "देव तुला भरपूर आयुष्य देवो",
+            "transliteration": "Dev tulaa bharpoor aayushya devo",
+            "english": "May God give you long life",
+            "difficulty": "beginner",
+            "usage": "Traditional elder's blessing"
+          },
+          {
+            "id": "m1-l11-p2",
+            "marathi": "सुखी रहा",
+            "transliteration": "Sukhi rahaa",
+            "english": "Stay happy",
+            "difficulty": "beginner",
+            "usage": "Common general blessing"
+          },
+          {
+            "id": "m1-l11-p3",
+            "marathi": "यशस्वी भव",
+            "transliteration": "Yashashvi bhav",
+            "english": "May you be successful",
+            "difficulty": "beginner",
+            "usage": "Blessing for success, often at exams"
+          },
+          {
+            "id": "m1-l11-p4",
+            "marathi": "शुभेच्छा",
+            "transliteration": "Shubhechchhaa",
+            "english": "Best wishes",
+            "difficulty": "beginner",
+            "usage": "Standard well-wish for any occasion"
+          },
+          {
+            "id": "m1-l11-p5",
+            "marathi": "आयुष्यमान भव",
+            "transliteration": "Aayushyamaan bhav",
+            "english": "May you have long life",
+            "difficulty": "beginner",
+            "usage": "Traditional Sanskrit-origin blessing"
+          },
+          {
+            "id": "m1-l11-p6",
+            "marathi": "शतायुषी हो",
+            "transliteration": "Shataayushi ho",
+            "english": "May you live a hundred years",
+            "difficulty": "beginner",
+            "usage": "Birthday or special occasion blessing"
+          },
+          {
+            "id": "m1-l11-p7",
+            "marathi": "तुझं भलं होवो",
+            "transliteration": "Tujham bhalam hovo",
+            "english": "May good happen to you",
+            "difficulty": "beginner",
+            "usage": "Informal general well-wish"
+          },
+          {
+            "id": "m1-l11-p8",
+            "marathi": "खूप खूप शुभेच्छा",
+            "transliteration": "Khoop khoop shubhechchhaa",
+            "english": "Many many best wishes",
+            "difficulty": "beginner",
+            "usage": "Enthusiastic well-wishing"
+          },
+          {
+            "id": "m1-l11-p9",
+            "marathi": "देवाचा आशीर्वाद तुझ्यावर राहो",
+            "transliteration": "Devaachaa aashirvaad tujhyaavar raaho",
+            "english": "May God's blessings be on you",
+            "difficulty": "beginner",
+            "usage": "Deeply religious blessing"
+          }
+        ]
+      },
+      {
+        "id": "m1-l12",
+        "title": "Meeting Someone New",
+        "titleMarathi": "नवीन व्यक्तीची भेट",
+        "lessonNumber": 12,
+        "culturalNote": "When meeting someone new in Maharashtra, people join hands in Namaskar. Handshakes are common in urban professional settings. Asking about family and origin early in conversation is normal and not intrusive.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m1-l12-p1",
+            "marathi": "भेटून आनंद झाला",
+            "transliteration": "BheToon aanand jhaalaa",
+            "english": "Nice to meet you (male speaking)",
+            "difficulty": "beginner",
+            "usage": "Standard first-meeting phrase by male"
+          },
+          {
+            "id": "m1-l12-p2",
+            "marathi": "भेटून आनंद झाला",
+            "transliteration": "BheToon aanand jhaali",
+            "english": "Nice to meet you (female speaking)",
+            "difficulty": "beginner",
+            "usage": "Standard first-meeting phrase by female"
+          },
+          {
+            "id": "m1-l12-p3",
+            "marathi": "तुमचं नाव काय?",
+            "transliteration": "Tumcham naav kaay?",
+            "english": "What is your name?",
+            "difficulty": "beginner",
+            "usage": "Polite name inquiry"
+          },
+          {
+            "id": "m1-l12-p4",
+            "marathi": "माझं नाव ... आहे",
+            "transliteration": "Maajham naav ... aahe",
+            "english": "My name is ...",
+            "difficulty": "beginner",
+            "usage": "Standard self-introduction"
+          },
+          {
+            "id": "m1-l12-p5",
+            "marathi": "तुम्ही कुठून आलात?",
+            "transliteration": "Tumhi kuthoon aalaat?",
+            "english": "Where are you from?",
+            "difficulty": "beginner",
+            "usage": "Asking origin politely"
+          },
+          {
+            "id": "m1-l12-p6",
+            "marathi": "मी ... हून आलो",
+            "transliteration": "Mee ... hoon aalo",
+            "english": "I came from ... (male)",
+            "difficulty": "beginner",
+            "usage": "Stating where you are from"
+          },
+          {
+            "id": "m1-l12-p7",
+            "marathi": "तुम्ही काय करता?",
+            "transliteration": "Tumhi kaay kartaa?",
+            "english": "What do you do?",
+            "difficulty": "beginner",
+            "usage": "Asking about profession"
+          },
+          {
+            "id": "m1-l12-p8",
+            "marathi": "ओळख करून देतो",
+            "transliteration": "OLakh karoon deto",
+            "english": "Let me introduce (male)",
+            "difficulty": "beginner",
+            "usage": "Offering to introduce someone"
+          },
+          {
+            "id": "m1-l12-p9",
+            "marathi": "हे माझे मित्र आहेत",
+            "transliteration": "He maajhe mitra aahet",
+            "english": "This is my friend",
+            "difficulty": "beginner",
+            "usage": "Introducing a friend to others"
+          }
+        ]
+      },
+      {
+        "id": "m1-l13",
+        "title": "Phone Greetings",
+        "titleMarathi": "फोनवरील अभिवादन",
+        "lessonNumber": 13,
+        "culturalNote": "Phone calls in Maharashtra often begin with 'Hello' (borrowed from English) followed by Marathi. Ending calls politely is important - abruptly hanging up is considered rude. Always greet before stating your purpose.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m1-l13-p1",
+            "marathi": "हॅलो",
+            "transliteration": "Hello",
+            "english": "Hello (on phone)",
+            "difficulty": "beginner",
+            "usage": "Universal phone greeting"
+          },
+          {
+            "id": "m1-l13-p2",
+            "marathi": "हॅलो, कोण बोलतंय?",
+            "transliteration": "Hello, kon bolatamay?",
+            "english": "Hello, who is speaking?",
+            "difficulty": "beginner",
+            "usage": "Asking caller's identity"
+          },
+          {
+            "id": "m1-l13-p3",
+            "marathi": "मी ... बोलतोय",
+            "transliteration": "Mee ... boltoy",
+            "english": "This is ... speaking (male)",
+            "difficulty": "beginner",
+            "usage": "Identifying yourself on phone"
+          },
+          {
+            "id": "m1-l13-p4",
+            "marathi": "... आहेत का?",
+            "transliteration": "... aahet kaa?",
+            "english": "Is ... available?",
+            "difficulty": "beginner",
+            "usage": "Asking for a specific person"
+          },
+          {
+            "id": "m1-l13-p5",
+            "marathi": "एक मिनिट, देतो",
+            "transliteration": "Ek minit, deto",
+            "english": "One minute, I'll get them",
+            "difficulty": "beginner",
+            "usage": "Putting caller on hold"
+          },
+          {
+            "id": "m1-l13-p6",
+            "marathi": "फोन ठेवतो",
+            "transliteration": "Phone Thevto",
+            "english": "I'll hang up now (male)",
+            "difficulty": "beginner",
+            "usage": "Politely ending a call"
+          },
+          {
+            "id": "m1-l13-p7",
+            "marathi": "नंतर फोन करतो",
+            "transliteration": "Nantar phone karto",
+            "english": "I'll call later (male)",
+            "difficulty": "beginner",
+            "usage": "Promising a callback"
+          },
+          {
+            "id": "m1-l13-p8",
+            "marathi": "तुमचा नंबर द्या",
+            "transliteration": "Tumchaa number dyaa",
+            "english": "Give me your number",
+            "difficulty": "beginner",
+            "usage": "Asking for phone number"
+          },
+          {
+            "id": "m1-l13-p9",
+            "marathi": "चुकीचा नंबर लागला",
+            "transliteration": "Chukichaa number laagalaa",
+            "english": "Wrong number dialed",
+            "difficulty": "beginner",
+            "usage": "When you reach wrong number"
+          }
+        ]
+      },
+      {
+        "id": "m1-l14",
+        "title": "Leave-taking & Farewells",
+        "titleMarathi": "निरोप घेणे",
+        "lessonNumber": 14,
+        "culturalNote": "Marathi farewells are often elaborate. Hosts walk guests to the door or vehicle. Simply leaving without proper goodbye is impolite. 'Yeto/Yete' literally means 'I come' but is used as 'I'll be going now'.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m1-l14-p1",
+            "marathi": "निघतो आता",
+            "transliteration": "Nighto aataa",
+            "english": "I'll leave now (male)",
+            "difficulty": "beginner",
+            "usage": "Announcing departure, male speaker"
+          },
+          {
+            "id": "m1-l14-p2",
+            "marathi": "निघते आता",
+            "transliteration": "Nighte aataa",
+            "english": "I'll leave now (female)",
+            "difficulty": "beginner",
+            "usage": "Announcing departure, female speaker"
+          },
+          {
+            "id": "m1-l14-p3",
+            "marathi": "उशीर होतोय",
+            "transliteration": "Usheer hotoy",
+            "english": "It's getting late",
+            "difficulty": "beginner",
+            "usage": "Giving reason for leaving"
+          },
+          {
+            "id": "m1-l14-p4",
+            "marathi": "भेटू परत",
+            "transliteration": "BheToo parat",
+            "english": "We'll meet again",
+            "difficulty": "beginner",
+            "usage": "Hopeful farewell"
+          },
+          {
+            "id": "m1-l14-p5",
+            "marathi": "चांगलं वाटलं भेटून",
+            "transliteration": "Chaanglam vaaTlam bheToon",
+            "english": "It was nice meeting you",
+            "difficulty": "beginner",
+            "usage": "Expressing pleasure at the meeting"
+          },
+          {
+            "id": "m1-l14-p6",
+            "marathi": "पुन्हा नक्की या",
+            "transliteration": "Punhaa nakki yaa",
+            "english": "Do come again",
+            "difficulty": "beginner",
+            "usage": "Host inviting guest to return"
+          },
+          {
+            "id": "m1-l14-p7",
+            "marathi": "तुम्हाला भेटून बरं वाटलं",
+            "transliteration": "Tumhaalaa bheToon baram vaaTlam",
+            "english": "Felt good meeting you",
+            "difficulty": "beginner",
+            "usage": "Formal expression of pleasure"
+          },
+          {
+            "id": "m1-l14-p8",
+            "marathi": "आम्ही निघतो",
+            "transliteration": "Aamhi nighto",
+            "english": "We are leaving",
+            "difficulty": "beginner",
+            "usage": "Group departure announcement"
+          },
+          {
+            "id": "m1-l14-p9",
+            "marathi": "लवकर या",
+            "transliteration": "Lavkar yaa",
+            "english": "Come soon / Visit again soon",
+            "difficulty": "beginner",
+            "usage": "Warm invitation to return"
+          }
+        ]
+      },
+      {
+        "id": "m1-l15",
+        "title": "Everyday Expressions",
+        "titleMarathi": "रोजच्या अभिव्यक्ती",
+        "lessonNumber": 15,
+        "culturalNote": "These everyday expressions are the backbone of daily Marathi conversation. Heard constantly in homes, streets, and workplaces across Maharashtra. Mastering these makes you sound natural.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m1-l15-p1",
+            "marathi": "काय झालं?",
+            "transliteration": "Kaay jhaalaam?",
+            "english": "What happened?",
+            "difficulty": "beginner",
+            "usage": "Very common reaction to any event"
+          },
+          {
+            "id": "m1-l15-p2",
+            "marathi": "काही नाही, सगळं ठीक",
+            "transliteration": "Kaahi naahi, sagaLam theek",
+            "english": "Nothing, everything's fine",
+            "difficulty": "beginner",
+            "usage": "Reassuring response"
+          },
+          {
+            "id": "m1-l15-p3",
+            "marathi": "खरंच का?",
+            "transliteration": "Kharamch kaa?",
+            "english": "Is that true?",
+            "difficulty": "beginner",
+            "usage": "Seeking confirmation, mild disbelief"
+          },
+          {
+            "id": "m1-l15-p4",
+            "marathi": "कळलं",
+            "transliteration": "KaLlam",
+            "english": "Understood",
+            "difficulty": "beginner",
+            "usage": "Quick confirmation of understanding"
+          },
+          {
+            "id": "m1-l15-p5",
+            "marathi": "बरोबर आहे",
+            "transliteration": "Barobar aahe",
+            "english": "That's right",
+            "difficulty": "beginner",
+            "usage": "Agreeing with someone's statement"
+          },
+          {
+            "id": "m1-l15-p6",
+            "marathi": "एवढंच?",
+            "transliteration": "EvDhamch?",
+            "english": "Is that all?",
+            "difficulty": "beginner",
+            "usage": "Asking if there is more"
+          },
+          {
+            "id": "m1-l15-p7",
+            "marathi": "मग काय?",
+            "transliteration": "Mag kaay?",
+            "english": "So what? / Then what?",
+            "difficulty": "beginner",
+            "usage": "Casual conversational filler"
+          },
+          {
+            "id": "m1-l15-p8",
+            "marathi": "चला तर",
+            "transliteration": "Chalaa tar",
+            "english": "Let's go then",
+            "difficulty": "beginner",
+            "usage": "Suggesting departure or action"
+          },
+          {
+            "id": "m1-l15-p9",
+            "marathi": "बास, झालं",
+            "transliteration": "Baas, jhaalaam",
+            "english": "Enough, it's done",
+            "difficulty": "beginner",
+            "usage": "Indicating completion or satiation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m2",
+    "title": "Introducing Yourself",
+    "titleMarathi": "स्वतःची ओळख",
+    "description": "Learn to introduce yourself and share personal details",
+    "icon": "👤",
+    "totalLessons": 15,
+    "estimatedHours": 5,
+    "difficulty": "beginner",
+    "lessons": [
+      {
+        "id": "m2-l1",
+        "title": "Saying Your Name",
+        "titleMarathi": "नाव सांगणे",
+        "lessonNumber": 1,
+        "culturalNote": "In Maharashtra, full introductions include first name, father's first name, and surname. This tradition reflects the deep importance of family identity. Surnames often indicate caste, community, or region.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m2-l1-p1",
+            "marathi": "माझं नाव ... आहे",
+            "transliteration": "Maajham naav ... aahe",
+            "english": "My name is ...",
+            "difficulty": "beginner",
+            "usage": "Standard self-introduction"
+          },
+          {
+            "id": "m2-l1-p2",
+            "marathi": "मला ... म्हणतात",
+            "transliteration": "Malaa ... mhaNtaat",
+            "english": "People call me ...",
+            "difficulty": "beginner",
+            "usage": "Informal name introduction"
+          },
+          {
+            "id": "m2-l1-p3",
+            "marathi": "तुमचं नाव काय आहे?",
+            "transliteration": "Tumcham naav kaay aahe?",
+            "english": "What is your name? (formal)",
+            "difficulty": "beginner",
+            "usage": "Polite formal name inquiry"
+          },
+          {
+            "id": "m2-l1-p4",
+            "marathi": "तुझं नाव काय?",
+            "transliteration": "Tujham naav kaay?",
+            "english": "What is your name? (informal)",
+            "difficulty": "beginner",
+            "usage": "Casual name inquiry to peers"
+          },
+          {
+            "id": "m2-l1-p5",
+            "marathi": "माझं पूर्ण नाव ... आहे",
+            "transliteration": "Maajham poorna naav ... aahe",
+            "english": "My full name is ...",
+            "difficulty": "beginner",
+            "usage": "Giving full name with surname"
+          },
+          {
+            "id": "m2-l1-p6",
+            "marathi": "माझं टोपणनाव ... आहे",
+            "transliteration": "Maajham TopaNnaav ... aahe",
+            "english": "My nickname is ...",
+            "difficulty": "beginner",
+            "usage": "Sharing your nickname"
+          },
+          {
+            "id": "m2-l1-p7",
+            "marathi": "नाव कसं लिहायचं?",
+            "transliteration": "Naav kasam lihaayacham?",
+            "english": "How do you spell the name?",
+            "difficulty": "beginner",
+            "usage": "Asking someone to spell their name"
+          },
+          {
+            "id": "m2-l1-p8",
+            "marathi": "माझं आडनाव ... आहे",
+            "transliteration": "Maajham aaDnaav ... aahe",
+            "english": "My surname is ...",
+            "difficulty": "beginner",
+            "usage": "Stating surname separately"
+          },
+          {
+            "id": "m2-l1-p9",
+            "marathi": "ओळख करून घ्या",
+            "transliteration": "OLakh karoon ghyaa",
+            "english": "Please get acquainted",
+            "difficulty": "beginner",
+            "usage": "Formal phrase when introducing two people"
+          }
+        ]
+      },
+      {
+        "id": "m2-l2",
+        "title": "Asking & Telling Age",
+        "titleMarathi": "वय विचारणे आणि सांगणे",
+        "lessonNumber": 2,
+        "culturalNote": "Asking someone's age is more acceptable in Indian culture than in the West. It helps determine the appropriate level of respect and formality. However, directly asking a woman's age can still be impolite.",
+        "grammarFocus": "Age in Marathi uses 'varshe' (years): 'Malaa pachvees varshe aahet' (I am 25 years old). Gender affects the adjective: '-chaa' for males, '-chi' for females.",
+        "phrases": [
+          {
+            "id": "m2-l2-p1",
+            "marathi": "तुमचं वय काय?",
+            "transliteration": "Tumcham vay kaay?",
+            "english": "What is your age? (formal)",
+            "difficulty": "beginner",
+            "usage": "Polite way to ask age"
+          },
+          {
+            "id": "m2-l2-p2",
+            "marathi": "तुझं वय किती?",
+            "transliteration": "Tujham vay kiti?",
+            "english": "How old are you? (informal)",
+            "difficulty": "beginner",
+            "usage": "Casual age inquiry"
+          },
+          {
+            "id": "m2-l2-p3",
+            "marathi": "मी पंचवीस वर्षांचा आहे",
+            "transliteration": "Mee panchvees varshaamchaa aahe",
+            "english": "I am 25 years old (male)",
+            "difficulty": "beginner",
+            "usage": "Male stating age with number"
+          },
+          {
+            "id": "m2-l2-p4",
+            "marathi": "मी पंचवीस वर्षांची आहे",
+            "transliteration": "Mee panchvees varshaamchi aahe",
+            "english": "I am 25 years old (female)",
+            "difficulty": "beginner",
+            "usage": "Female stating age with number"
+          },
+          {
+            "id": "m2-l2-p5",
+            "marathi": "माझं वय तीस आहे",
+            "transliteration": "Maajham vay tees aahe",
+            "english": "My age is thirty",
+            "difficulty": "beginner",
+            "usage": "Neutral way to state age"
+          },
+          {
+            "id": "m2-l2-p6",
+            "marathi": "मी लहान आहे",
+            "transliteration": "Mee lahaan aahe",
+            "english": "I am young",
+            "difficulty": "beginner",
+            "usage": "Describing self as young"
+          },
+          {
+            "id": "m2-l2-p7",
+            "marathi": "मी मोठा आहे",
+            "transliteration": "Mee moThaa aahe",
+            "english": "I am older (male)",
+            "difficulty": "beginner",
+            "usage": "Describing self as older, male"
+          },
+          {
+            "id": "m2-l2-p8",
+            "marathi": "तुम्ही माझ्यापेक्षा मोठे आहात",
+            "transliteration": "Tumhi maajhyaapekshaa moThe aahaat",
+            "english": "You are older than me",
+            "difficulty": "beginner",
+            "usage": "Comparing ages respectfully"
+          },
+          {
+            "id": "m2-l2-p9",
+            "marathi": "आम्ही समवयस्क आहोत",
+            "transliteration": "Aamhi samavayask aahot",
+            "english": "We are the same age",
+            "difficulty": "beginner",
+            "usage": "Stating same age"
+          }
+        ]
+      },
+      {
+        "id": "m2-l3",
+        "title": "Where Are You From",
+        "titleMarathi": "तुम्ही कुठचे?",
+        "lessonNumber": 3,
+        "culturalNote": "Maharashtra is a large state with distinct regional identities. People from Mumbai, Pune, Kolhapur, Vidarbha, and Konkan each have different dialects. Asking origin often reveals cultural background.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m2-l3-p1",
+            "marathi": "तुम्ही कुठचे?",
+            "transliteration": "Tumhi kuthche?",
+            "english": "Where are you from? (formal)",
+            "difficulty": "beginner",
+            "usage": "Standard origin inquiry"
+          },
+          {
+            "id": "m2-l3-p2",
+            "marathi": "तू कुठचा?",
+            "transliteration": "Too kuthchaa?",
+            "english": "Where are you from? (informal, male)",
+            "difficulty": "beginner",
+            "usage": "Casual origin inquiry to male"
+          },
+          {
+            "id": "m2-l3-p3",
+            "marathi": "मी मुंबईचा आहे",
+            "transliteration": "Mee Mumbaichaa aahe",
+            "english": "I am from Mumbai (male)",
+            "difficulty": "beginner",
+            "usage": "Stating city origin, male"
+          },
+          {
+            "id": "m2-l3-p4",
+            "marathi": "मी पुण्याहून आलो",
+            "transliteration": "Mee Punyaahoon aalo",
+            "english": "I came from Pune (male)",
+            "difficulty": "beginner",
+            "usage": "Stating where you traveled from"
+          },
+          {
+            "id": "m2-l3-p5",
+            "marathi": "माझं गाव ... आहे",
+            "transliteration": "Maajham gaav ... aahe",
+            "english": "My village/hometown is ...",
+            "difficulty": "beginner",
+            "usage": "Naming ancestral hometown"
+          },
+          {
+            "id": "m2-l3-p6",
+            "marathi": "मी महाराष्ट्रातला आहे",
+            "transliteration": "Mee Mahaaraashtraatlaa aahe",
+            "english": "I am from Maharashtra (male)",
+            "difficulty": "beginner",
+            "usage": "Stating state of origin"
+          },
+          {
+            "id": "m2-l3-p7",
+            "marathi": "मी भारतीय आहे",
+            "transliteration": "Mee Bhaarateey aahe",
+            "english": "I am Indian",
+            "difficulty": "beginner",
+            "usage": "Stating nationality"
+          },
+          {
+            "id": "m2-l3-p8",
+            "marathi": "मी परदेशातून आलो",
+            "transliteration": "Mee pardeshaatoon aalo",
+            "english": "I came from abroad (male)",
+            "difficulty": "beginner",
+            "usage": "Foreign visitor introduction"
+          },
+          {
+            "id": "m2-l3-p9",
+            "marathi": "तुमचं मूळ गाव कुठचं?",
+            "transliteration": "Tumcham mooL gaav kuthcham?",
+            "english": "Where is your native place?",
+            "difficulty": "beginner",
+            "usage": "Asking ancestral village/town"
+          }
+        ]
+      },
+      {
+        "id": "m2-l4",
+        "title": "Your Profession",
+        "titleMarathi": "तुमचा व्यवसाय",
+        "lessonNumber": 4,
+        "culturalNote": "Profession is a common introductory topic in Maharashtra. Pune's IT industry and Mumbai's business/film world make 'engineer' and 'businessman' very frequent answers. Asking is considered friendly, not intrusive.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m2-l4-p1",
+            "marathi": "तुम्ही काय काम करता?",
+            "transliteration": "Tumhi kaay kaam kartaa?",
+            "english": "What work do you do?",
+            "difficulty": "beginner",
+            "usage": "Standard profession inquiry"
+          },
+          {
+            "id": "m2-l4-p2",
+            "marathi": "मी नोकरी करतो",
+            "transliteration": "Mee nokri karto",
+            "english": "I do a job (male)",
+            "difficulty": "beginner",
+            "usage": "General employment statement"
+          },
+          {
+            "id": "m2-l4-p3",
+            "marathi": "मी शिक्षक आहे",
+            "transliteration": "Mee shikshak aahe",
+            "english": "I am a teacher (male)",
+            "difficulty": "beginner",
+            "usage": "Teaching profession"
+          },
+          {
+            "id": "m2-l4-p4",
+            "marathi": "मी डॉक्टर आहे",
+            "transliteration": "Mee Doctor aahe",
+            "english": "I am a doctor",
+            "difficulty": "beginner",
+            "usage": "Medical profession"
+          },
+          {
+            "id": "m2-l4-p5",
+            "marathi": "मी इंजिनियर आहे",
+            "transliteration": "Mee Engineer aahe",
+            "english": "I am an engineer",
+            "difficulty": "beginner",
+            "usage": "Engineering profession"
+          },
+          {
+            "id": "m2-l4-p6",
+            "marathi": "मी विद्यार्थी आहे",
+            "transliteration": "Mee vidyaarthi aahe",
+            "english": "I am a student (male)",
+            "difficulty": "beginner",
+            "usage": "Student status"
+          },
+          {
+            "id": "m2-l4-p7",
+            "marathi": "मी व्यापारी आहे",
+            "transliteration": "Mee vyaapaari aahe",
+            "english": "I am a businessman",
+            "difficulty": "beginner",
+            "usage": "Business profession"
+          },
+          {
+            "id": "m2-l4-p8",
+            "marathi": "मी ... कंपनीत काम करतो",
+            "transliteration": "Mee ... company-t kaam karto",
+            "english": "I work at ... company",
+            "difficulty": "beginner",
+            "usage": "Naming your employer"
+          },
+          {
+            "id": "m2-l4-p9",
+            "marathi": "मी घरी काम करतो",
+            "transliteration": "Mee ghari kaam karto",
+            "english": "I work from home",
+            "difficulty": "beginner",
+            "usage": "Remote work or homemaker"
+          }
+        ]
+      },
+      {
+        "id": "m2-l5",
+        "title": "Family Members",
+        "titleMarathi": "कुटुंबातील सदस्य",
+        "lessonNumber": 5,
+        "culturalNote": "Family is central to Marathi culture. Marathi has very specific kinship terms - different words for maternal vs paternal relatives. Extended family is important and you will be asked about family early in any acquaintance.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m2-l5-p1",
+            "marathi": "माझे कुटुंब",
+            "transliteration": "Maajhe kuTumb",
+            "english": "My family",
+            "difficulty": "beginner",
+            "usage": "Referring to family in general"
+          },
+          {
+            "id": "m2-l5-p2",
+            "marathi": "माझे वडील",
+            "transliteration": "Maajhe vaDil",
+            "english": "My father",
+            "difficulty": "beginner",
+            "usage": "Formal term for father"
+          },
+          {
+            "id": "m2-l5-p3",
+            "marathi": "माझी आई",
+            "transliteration": "Maajhi aai",
+            "english": "My mother",
+            "difficulty": "beginner",
+            "usage": "Standard term for mother"
+          },
+          {
+            "id": "m2-l5-p4",
+            "marathi": "माझा भाऊ",
+            "transliteration": "Maajhaa bhaau",
+            "english": "My brother",
+            "difficulty": "beginner",
+            "usage": "Referring to brother"
+          },
+          {
+            "id": "m2-l5-p5",
+            "marathi": "माझी बहीण",
+            "transliteration": "Maajhi baheeN",
+            "english": "My sister",
+            "difficulty": "beginner",
+            "usage": "Referring to sister"
+          },
+          {
+            "id": "m2-l5-p6",
+            "marathi": "माझे आजोबा",
+            "transliteration": "Maajhe aaJobaa",
+            "english": "My grandfather",
+            "difficulty": "beginner",
+            "usage": "Paternal or maternal grandfather"
+          },
+          {
+            "id": "m2-l5-p7",
+            "marathi": "माझी आजी",
+            "transliteration": "Maajhi aaji",
+            "english": "My grandmother",
+            "difficulty": "beginner",
+            "usage": "Paternal or maternal grandmother"
+          },
+          {
+            "id": "m2-l5-p8",
+            "marathi": "माझी मुलगी",
+            "transliteration": "Maajhi mulgee",
+            "english": "My daughter",
+            "difficulty": "beginner",
+            "usage": "Referring to daughter"
+          },
+          {
+            "id": "m2-l5-p9",
+            "marathi": "माझा मुलगा",
+            "transliteration": "Maajhaa mulgaa",
+            "english": "My son",
+            "difficulty": "beginner",
+            "usage": "Referring to son"
+          }
+        ]
+      },
+      {
+        "id": "m2-l6",
+        "title": "Marital Status",
+        "titleMarathi": "वैवाहिक स्थिती",
+        "lessonNumber": 6,
+        "culturalNote": "Marriage is a significant social institution in Maharashtra. Questions about marital status are common and not considered intrusive. Both arranged and love marriages are practiced widely.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m2-l6-p1",
+            "marathi": "तुमचं लग्न झालं का?",
+            "transliteration": "Tumcham lagna jhaalaam kaa?",
+            "english": "Are you married?",
+            "difficulty": "beginner",
+            "usage": "Asking marital status politely"
+          },
+          {
+            "id": "m2-l6-p2",
+            "marathi": "हो, माझं लग्न झालं आहे",
+            "transliteration": "Ho, maajham lagna jhaalaam aahe",
+            "english": "Yes, I am married",
+            "difficulty": "beginner",
+            "usage": "Confirming married status"
+          },
+          {
+            "id": "m2-l6-p3",
+            "marathi": "नाही, मी अविवाहित आहे",
+            "transliteration": "Naahi, mee avivahit aahe",
+            "english": "No, I am unmarried",
+            "difficulty": "beginner",
+            "usage": "Stating single status"
+          },
+          {
+            "id": "m2-l6-p4",
+            "marathi": "माझी बायको",
+            "transliteration": "Maajhi baayko",
+            "english": "My wife",
+            "difficulty": "beginner",
+            "usage": "Informal term for wife"
+          },
+          {
+            "id": "m2-l6-p5",
+            "marathi": "माझा नवरा",
+            "transliteration": "Maajhaa navraa",
+            "english": "My husband",
+            "difficulty": "beginner",
+            "usage": "Informal term for husband"
+          },
+          {
+            "id": "m2-l6-p6",
+            "marathi": "माझी पत्नी",
+            "transliteration": "Maajhi patni",
+            "english": "My wife (formal)",
+            "difficulty": "beginner",
+            "usage": "Formal term for wife"
+          },
+          {
+            "id": "m2-l6-p7",
+            "marathi": "आमचं लग्न दोन वर्षांपूर्वी झालं",
+            "transliteration": "Aamcham lagna don varshaamporvi jhaalaam",
+            "english": "We got married two years ago",
+            "difficulty": "beginner",
+            "usage": "Stating when married"
+          },
+          {
+            "id": "m2-l6-p8",
+            "marathi": "आम्हाला दोन मुलं आहेत",
+            "transliteration": "Aamhaalaa don mulam aahet",
+            "english": "We have two children",
+            "difficulty": "beginner",
+            "usage": "Mentioning children"
+          },
+          {
+            "id": "m2-l6-p9",
+            "marathi": "माझं कुटुंब एकत्र राहतं",
+            "transliteration": "Maajham kuTumb ekatr raahtam",
+            "english": "My family lives together",
+            "difficulty": "beginner",
+            "usage": "Describing joint family living"
+          }
+        ]
+      },
+      {
+        "id": "m2-l7",
+        "title": "Languages Spoken",
+        "titleMarathi": "बोलल्या जाणाऱ्या भाषा",
+        "lessonNumber": 7,
+        "culturalNote": "Maharashtra is multilingual. Most Marathis speak Marathi, Hindi, and some English. Mumbai residents often speak Gujarati or Urdu too. Being multilingual is highly valued and common.",
+        "grammarFocus": "The verb 'yete/yetam' (comes/to come) is used idiomatically for knowing a language: 'Malaa Maraathi yetam' literally means 'Marathi comes to me' = 'I know Marathi'.",
+        "phrases": [
+          {
+            "id": "m2-l7-p1",
+            "marathi": "तुम्हाला कोणत्या भाषा येतात?",
+            "transliteration": "Tumhaalaa koNtyaa bhaashaa yetaat?",
+            "english": "Which languages do you know?",
+            "difficulty": "beginner",
+            "usage": "Asking about language skills"
+          },
+          {
+            "id": "m2-l7-p2",
+            "marathi": "मला मराठी येतं",
+            "transliteration": "Malaa Maraathi yetam",
+            "english": "I know Marathi",
+            "difficulty": "beginner",
+            "usage": "Claiming Marathi knowledge"
+          },
+          {
+            "id": "m2-l7-p3",
+            "marathi": "मला हिंदी येतं",
+            "transliteration": "Malaa Hindi yetam",
+            "english": "I know Hindi",
+            "difficulty": "beginner",
+            "usage": "Claiming Hindi knowledge"
+          },
+          {
+            "id": "m2-l7-p4",
+            "marathi": "मला इंग्रजी येतं",
+            "transliteration": "Malaa Ingraji yetam",
+            "english": "I know English",
+            "difficulty": "beginner",
+            "usage": "Claiming English knowledge"
+          },
+          {
+            "id": "m2-l7-p5",
+            "marathi": "मी मराठी शिकतो आहे",
+            "transliteration": "Mee Maraathi shikto aahe",
+            "english": "I am learning Marathi (male)",
+            "difficulty": "beginner",
+            "usage": "Currently learning Marathi"
+          },
+          {
+            "id": "m2-l7-p6",
+            "marathi": "मला थोडं मराठी येतं",
+            "transliteration": "Malaa thoDam Maraathi yetam",
+            "english": "I know a little Marathi",
+            "difficulty": "beginner",
+            "usage": "Basic/partial knowledge"
+          },
+          {
+            "id": "m2-l7-p7",
+            "marathi": "मला मराठी नाही येत",
+            "transliteration": "Malaa Maraathi naahi yet",
+            "english": "I don't know Marathi",
+            "difficulty": "beginner",
+            "usage": "Stating you don't know Marathi"
+          },
+          {
+            "id": "m2-l7-p8",
+            "marathi": "कृपया इंग्रजीत बोला",
+            "transliteration": "Krupayaa Ingrajit bolaa",
+            "english": "Please speak in English",
+            "difficulty": "beginner",
+            "usage": "Requesting English conversation"
+          },
+          {
+            "id": "m2-l7-p9",
+            "marathi": "हे मराठीत कसं म्हणतात?",
+            "transliteration": "He Maraathit kasam mhaNtaat?",
+            "english": "How do you say this in Marathi?",
+            "difficulty": "beginner",
+            "usage": "Asking for Marathi translation"
+          }
+        ]
+      },
+      {
+        "id": "m2-l8",
+        "title": "Education",
+        "titleMarathi": "शिक्षण",
+        "lessonNumber": 8,
+        "culturalNote": "Education is highly valued in Maharashtra. Social reformers like Mahatma Phule and Savitribai Phule championed education for all. Asking about education is a normal part of getting to know someone.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m2-l8-p1",
+            "marathi": "तुम्ही कुठे शिकलात?",
+            "transliteration": "Tumhi kuThe shiklaat?",
+            "english": "Where did you study?",
+            "difficulty": "beginner",
+            "usage": "Asking about educational background"
+          },
+          {
+            "id": "m2-l8-p2",
+            "marathi": "मी ... शाळेत शिकलो",
+            "transliteration": "Mee ... shaaLet shiklo",
+            "english": "I studied at ... school",
+            "difficulty": "beginner",
+            "usage": "Naming your school"
+          },
+          {
+            "id": "m2-l8-p3",
+            "marathi": "मी कॉलेजमध्ये आहे",
+            "transliteration": "Mee college-madhye aahe",
+            "english": "I am in college",
+            "difficulty": "beginner",
+            "usage": "Currently in college"
+          },
+          {
+            "id": "m2-l8-p4",
+            "marathi": "माझं शिक्षण पूर्ण झालं",
+            "transliteration": "Maajham shikshan poorna jhaalaam",
+            "english": "My education is complete",
+            "difficulty": "beginner",
+            "usage": "Completed studies"
+          },
+          {
+            "id": "m2-l8-p5",
+            "marathi": "मी पदवीधर आहे",
+            "transliteration": "Mee padveedhar aahe",
+            "english": "I am a graduate",
+            "difficulty": "beginner",
+            "usage": "Graduate status"
+          },
+          {
+            "id": "m2-l8-p6",
+            "marathi": "मी विज्ञान शाखेत शिकलो",
+            "transliteration": "Mee vidnyaan shaakhet shiklo",
+            "english": "I studied in the science stream",
+            "difficulty": "beginner",
+            "usage": "Naming academic stream"
+          },
+          {
+            "id": "m2-l8-p7",
+            "marathi": "मला शिकायला आवडतं",
+            "transliteration": "Malaa shikaaylaa aavaDtam",
+            "english": "I like to study",
+            "difficulty": "beginner",
+            "usage": "Expressing love of learning"
+          },
+          {
+            "id": "m2-l8-p8",
+            "marathi": "माझा आवडता विषय गणित आहे",
+            "transliteration": "Maajhaa aavaDtaa vishay gaNit aahe",
+            "english": "My favorite subject is math",
+            "difficulty": "beginner",
+            "usage": "Naming favorite subject"
+          },
+          {
+            "id": "m2-l8-p9",
+            "marathi": "मी पुढचं शिक्षण घेतोय",
+            "transliteration": "Mee puDhcham shikshan ghetoy",
+            "english": "I am pursuing further education",
+            "difficulty": "beginner",
+            "usage": "Continuing education"
+          }
+        ]
+      },
+      {
+        "id": "m2-l9",
+        "title": "Likes & Dislikes",
+        "titleMarathi": "आवडी आणि नावडी",
+        "lessonNumber": 9,
+        "culturalNote": "Expressing preferences is key for social bonding. In Maharashtra, food preferences, cricket opinions, and movie tastes are the most common topics for sharing likes and dislikes.",
+        "grammarFocus": "Likes use 'aavaDte/aavaDtam' (it pleases): 'Malaa cricket aavaDtam' (I like cricket). Dislikes negate it: 'Malaa ... aavaDat naahi' (I don't like ...). The subject that likes takes '-laa'.",
+        "phrases": [
+          {
+            "id": "m2-l9-p1",
+            "marathi": "मला ... आवडतं",
+            "transliteration": "Malaa ... aavaDtam",
+            "english": "I like ...",
+            "difficulty": "beginner",
+            "usage": "Basic way to express a preference"
+          },
+          {
+            "id": "m2-l9-p2",
+            "marathi": "मला ... आवडत नाही",
+            "transliteration": "Malaa ... aavaDat naahi",
+            "english": "I don't like ...",
+            "difficulty": "beginner",
+            "usage": "Basic way to express dislike"
+          },
+          {
+            "id": "m2-l9-p3",
+            "marathi": "मला खूप आवडतं",
+            "transliteration": "Malaa khoop aavaDtam",
+            "english": "I like it very much",
+            "difficulty": "beginner",
+            "usage": "Expressing strong preference"
+          },
+          {
+            "id": "m2-l9-p4",
+            "marathi": "तुम्हाला काय आवडतं?",
+            "transliteration": "Tumhaalaa kaay aavaDtam?",
+            "english": "What do you like?",
+            "difficulty": "beginner",
+            "usage": "Asking someone's preferences"
+          },
+          {
+            "id": "m2-l9-p5",
+            "marathi": "मला क्रिकेट आवडतं",
+            "transliteration": "Malaa cricket aavaDtam",
+            "english": "I like cricket",
+            "difficulty": "beginner",
+            "usage": "Very popular in Maharashtra"
+          },
+          {
+            "id": "m2-l9-p6",
+            "marathi": "मला वाचायला आवडतं",
+            "transliteration": "Malaa vaachaaylaa aavaDtam",
+            "english": "I like to read",
+            "difficulty": "beginner",
+            "usage": "Reading preference"
+          },
+          {
+            "id": "m2-l9-p7",
+            "marathi": "मला मराठी चित्रपट आवडतात",
+            "transliteration": "Malaa Maraathi chitrapat aavaDtaat",
+            "english": "I like Marathi movies",
+            "difficulty": "beginner",
+            "usage": "Movie preference, plural subject"
+          },
+          {
+            "id": "m2-l9-p8",
+            "marathi": "मला गरम जेवण आवडतं",
+            "transliteration": "Malaa garam jevaN aavaDtam",
+            "english": "I like hot/spicy food",
+            "difficulty": "beginner",
+            "usage": "Common food preference"
+          },
+          {
+            "id": "m2-l9-p9",
+            "marathi": "मला थंडी आवडत नाही",
+            "transliteration": "Malaa thaNDi aavaDat naahi",
+            "english": "I don't like cold weather",
+            "difficulty": "beginner",
+            "usage": "Weather dislike"
+          }
+        ]
+      },
+      {
+        "id": "m2-l10",
+        "title": "Hobbies",
+        "titleMarathi": "छंद",
+        "lessonNumber": 10,
+        "culturalNote": "Popular hobbies in Maharashtra include cricket, reading Marathi literature, gardening, cooking traditional dishes, and watching Marathi theatre. Lavani and Bhajan are beloved musical traditions.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m2-l10-p1",
+            "marathi": "तुमचे छंद काय आहेत?",
+            "transliteration": "Tumche chhand kaay aahet?",
+            "english": "What are your hobbies?",
+            "difficulty": "beginner",
+            "usage": "Asking about hobbies"
+          },
+          {
+            "id": "m2-l10-p2",
+            "marathi": "माझा छंद वाचन आहे",
+            "transliteration": "Maajhaa chhand vaachan aahe",
+            "english": "My hobby is reading",
+            "difficulty": "beginner",
+            "usage": "Reading hobby"
+          },
+          {
+            "id": "m2-l10-p3",
+            "marathi": "मला गाणं गायला आवडतं",
+            "transliteration": "Malaa gaaNam gaaylaa aavaDtam",
+            "english": "I like to sing",
+            "difficulty": "beginner",
+            "usage": "Singing as hobby"
+          },
+          {
+            "id": "m2-l10-p4",
+            "marathi": "मला चित्र काढायला आवडतं",
+            "transliteration": "Malaa chitra kaaDhaaylaa aavaDtam",
+            "english": "I like to draw/paint",
+            "difficulty": "beginner",
+            "usage": "Art as hobby"
+          },
+          {
+            "id": "m2-l10-p5",
+            "marathi": "मी खेळ खेळतो",
+            "transliteration": "Mee kheL kheLto",
+            "english": "I play sports",
+            "difficulty": "beginner",
+            "usage": "Sports in general"
+          },
+          {
+            "id": "m2-l10-p6",
+            "marathi": "मला बागकाम आवडतं",
+            "transliteration": "Malaa baagkaam aavaDtam",
+            "english": "I like gardening",
+            "difficulty": "beginner",
+            "usage": "Gardening hobby"
+          },
+          {
+            "id": "m2-l10-p7",
+            "marathi": "मला प्रवास करायला आवडतं",
+            "transliteration": "Malaa pravaas karaaylaa aavaDtam",
+            "english": "I like to travel",
+            "difficulty": "beginner",
+            "usage": "Travel as hobby"
+          },
+          {
+            "id": "m2-l10-p8",
+            "marathi": "मला स्वयंपाक करायला आवडतं",
+            "transliteration": "Malaa svayampaak karaaylaa aavaDtam",
+            "english": "I like to cook",
+            "difficulty": "beginner",
+            "usage": "Cooking as hobby"
+          },
+          {
+            "id": "m2-l10-p9",
+            "marathi": "मी संगीत ऐकतो",
+            "transliteration": "Mee sangeet aikto",
+            "english": "I listen to music",
+            "difficulty": "beginner",
+            "usage": "Music appreciation"
+          }
+        ]
+      },
+      {
+        "id": "m2-l11",
+        "title": "Daily Life",
+        "titleMarathi": "दैनंदिन जीवन",
+        "lessonNumber": 11,
+        "culturalNote": "A typical Maharashtrian day starts early with morning tea. Breakfast varies by region. Lunch is the main meal with bhaakar/chapati and bhaji. Evening chai is a cherished ritual. Dinner is usually lighter.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m2-l11-p1",
+            "marathi": "मी सकाळी लवकर उठतो",
+            "transliteration": "Mee sakaaLi lavkar uThto",
+            "english": "I wake up early morning",
+            "difficulty": "beginner",
+            "usage": "Early riser routine"
+          },
+          {
+            "id": "m2-l11-p2",
+            "marathi": "मी रोज व्यायाम करतो",
+            "transliteration": "Mee roj vyaayaam karto",
+            "english": "I exercise daily",
+            "difficulty": "beginner",
+            "usage": "Daily exercise habit"
+          },
+          {
+            "id": "m2-l11-p3",
+            "marathi": "मी ऑफिसला जातो",
+            "transliteration": "Mee office-laa jaato",
+            "english": "I go to the office",
+            "difficulty": "beginner",
+            "usage": "Work commute"
+          },
+          {
+            "id": "m2-l11-p4",
+            "marathi": "मी संध्याकाळी फिरायला जातो",
+            "transliteration": "Mee sandhyaakaaLi firaaylaa jaato",
+            "english": "I go for an evening walk",
+            "difficulty": "beginner",
+            "usage": "Common evening activity"
+          },
+          {
+            "id": "m2-l11-p5",
+            "marathi": "मी रात्री लवकर झोपतो",
+            "transliteration": "Mee raatri lavkar zhopto",
+            "english": "I sleep early at night",
+            "difficulty": "beginner",
+            "usage": "Night routine"
+          },
+          {
+            "id": "m2-l11-p6",
+            "marathi": "माझा दिवस व्यस्त असतो",
+            "transliteration": "Maajhaa divas vyast asto",
+            "english": "My day is busy",
+            "difficulty": "beginner",
+            "usage": "Describing a busy schedule"
+          },
+          {
+            "id": "m2-l11-p7",
+            "marathi": "मी घरी आल्यावर आराम करतो",
+            "transliteration": "Mee ghari aalyaavar aaraam karto",
+            "english": "I rest after coming home",
+            "difficulty": "beginner",
+            "usage": "Post-work relaxation"
+          },
+          {
+            "id": "m2-l11-p8",
+            "marathi": "मी कुटुंबासोबत वेळ घालवतो",
+            "transliteration": "Mee kuTumbasobaT veL ghalavto",
+            "english": "I spend time with family",
+            "difficulty": "beginner",
+            "usage": "Family time"
+          },
+          {
+            "id": "m2-l11-p9",
+            "marathi": "शनिवारी मी आराम करतो",
+            "transliteration": "Shanivaari mee aaraam karto",
+            "english": "I rest on Saturdays",
+            "difficulty": "beginner",
+            "usage": "Weekend rest routine"
+          }
+        ]
+      },
+      {
+        "id": "m2-l12",
+        "title": "Describing Home",
+        "titleMarathi": "घराचे वर्णन",
+        "lessonNumber": 12,
+        "culturalNote": "Homes in Maharashtra range from traditional 'wadas' (courtyard houses) to modern apartments. Mumbai's iconic 'chawls' are shared housing buildings. In villages, houses often have a central 'angan' (courtyard).",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m2-l12-p1",
+            "marathi": "माझं घर ... ला आहे",
+            "transliteration": "Maajham ghar ... laa aahe",
+            "english": "My house is at/in ...",
+            "difficulty": "beginner",
+            "usage": "Stating home location"
+          },
+          {
+            "id": "m2-l12-p2",
+            "marathi": "माझं घर मोठं आहे",
+            "transliteration": "Maajham ghar moTham aahe",
+            "english": "My house is big",
+            "difficulty": "beginner",
+            "usage": "Describing house size"
+          },
+          {
+            "id": "m2-l12-p3",
+            "marathi": "माझं घर लहान आहे",
+            "transliteration": "Maajham ghar lahaan aahe",
+            "english": "My house is small",
+            "difficulty": "beginner",
+            "usage": "Describing small house"
+          },
+          {
+            "id": "m2-l12-p4",
+            "marathi": "आमच्या घरात तीन खोल्या आहेत",
+            "transliteration": "Aamchyaa gharaat teen kholyaa aahet",
+            "english": "Our house has three rooms",
+            "difficulty": "beginner",
+            "usage": "Number of rooms"
+          },
+          {
+            "id": "m2-l12-p5",
+            "marathi": "आमच्याकडे बाग आहे",
+            "transliteration": "Aamchyaakade baag aahe",
+            "english": "We have a garden",
+            "difficulty": "beginner",
+            "usage": "Mentioning a garden"
+          },
+          {
+            "id": "m2-l12-p6",
+            "marathi": "मी फ्लॅटमध्ये राहतो",
+            "transliteration": "Mee flat-madhye raahto",
+            "english": "I live in a flat/apartment",
+            "difficulty": "beginner",
+            "usage": "Apartment living"
+          },
+          {
+            "id": "m2-l12-p7",
+            "marathi": "माझं घर पहिल्या मजल्यावर आहे",
+            "transliteration": "Maajham ghar pahilyaa majlyaavar aahe",
+            "english": "My house is on the first floor",
+            "difficulty": "beginner",
+            "usage": "Stating floor number"
+          },
+          {
+            "id": "m2-l12-p8",
+            "marathi": "घराजवळ मंदिर आहे",
+            "transliteration": "Gharaajaval mandir aahe",
+            "english": "There is a temple near the house",
+            "difficulty": "beginner",
+            "usage": "Nearby landmark"
+          },
+          {
+            "id": "m2-l12-p9",
+            "marathi": "आमचं घर शांत परिसरात आहे",
+            "transliteration": "Aamcham ghar shaant parisaraat aahe",
+            "english": "Our house is in a quiet area",
+            "difficulty": "beginner",
+            "usage": "Describing peaceful location"
+          }
+        ]
+      },
+      {
+        "id": "m2-l13",
+        "title": "Neighborhood",
+        "titleMarathi": "शेजार / परिसर",
+        "lessonNumber": 13,
+        "culturalNote": "Neighborhoods in Maharashtra have distinct characters. In cities, 'peths' are old market areas named after days or commodities (like Mangalwaar Peth). Close-knit 'galli' (lane) culture fosters strong community bonds.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m2-l13-p1",
+            "marathi": "आमचा परिसर चांगला आहे",
+            "transliteration": "Aamchaa parisar chaanglaa aahe",
+            "english": "Our neighborhood is nice",
+            "difficulty": "beginner",
+            "usage": "Describing neighborhood positively"
+          },
+          {
+            "id": "m2-l13-p2",
+            "marathi": "इथे बाजार जवळ आहे",
+            "transliteration": "Ithe baajaar javal aahe",
+            "english": "The market is nearby",
+            "difficulty": "beginner",
+            "usage": "Market proximity"
+          },
+          {
+            "id": "m2-l13-p3",
+            "marathi": "शाळा जवळ आहे",
+            "transliteration": "ShaLaa javal aahe",
+            "english": "The school is nearby",
+            "difficulty": "beginner",
+            "usage": "School proximity"
+          },
+          {
+            "id": "m2-l13-p4",
+            "marathi": "रस्ते चांगले आहेत",
+            "transliteration": "Raste chaangle aahet",
+            "english": "The roads are good",
+            "difficulty": "beginner",
+            "usage": "Road quality"
+          },
+          {
+            "id": "m2-l13-p5",
+            "marathi": "शेजारी चांगले लोक आहेत",
+            "transliteration": "Shejaari chaangle lok aahet",
+            "english": "The neighbors are good people",
+            "difficulty": "beginner",
+            "usage": "Good neighbors"
+          },
+          {
+            "id": "m2-l13-p6",
+            "marathi": "इथे हिरवळ खूप आहे",
+            "transliteration": "Ithe hirvaL khoop aahe",
+            "english": "There is lots of greenery here",
+            "difficulty": "beginner",
+            "usage": "Green area"
+          },
+          {
+            "id": "m2-l13-p7",
+            "marathi": "जवळच बस स्टॉप आहे",
+            "transliteration": "JavalCh bus stop aahe",
+            "english": "The bus stop is close by",
+            "difficulty": "beginner",
+            "usage": "Public transport access"
+          },
+          {
+            "id": "m2-l13-p8",
+            "marathi": "इथे शांतता आहे",
+            "transliteration": "Ithe shaantataa aahe",
+            "english": "It is peaceful here",
+            "difficulty": "beginner",
+            "usage": "Peaceful area"
+          },
+          {
+            "id": "m2-l13-p9",
+            "marathi": "आमच्या गल्लीत मुलं खेळतात",
+            "transliteration": "Aamchyaa gallit mulam kheLtaat",
+            "english": "Children play in our lane",
+            "difficulty": "beginner",
+            "usage": "Community life"
+          }
+        ]
+      },
+      {
+        "id": "m2-l14",
+        "title": "Personal Qualities",
+        "titleMarathi": "वैयक्तिक गुण",
+        "lessonNumber": 14,
+        "culturalNote": "Marathi culture values honesty (praamaaNikpaNaa), hard work (mehnat), and humility (namrataa). Self-praise is generally avoided in traditional settings - ideally others describe your good qualities.",
+        "grammarFocus": null,
+        "phrases": [
+          {
+            "id": "m2-l14-p1",
+            "marathi": "मी शांत स्वभावाचा आहे",
+            "transliteration": "Mee shaant svabhaavaachaa aahe",
+            "english": "I am calm-natured (male)",
+            "difficulty": "beginner",
+            "usage": "Describing calm temperament"
+          },
+          {
+            "id": "m2-l14-p2",
+            "marathi": "मी मेहनती आहे",
+            "transliteration": "Mee mehnati aahe",
+            "english": "I am hardworking",
+            "difficulty": "beginner",
+            "usage": "Describing work ethic"
+          },
+          {
+            "id": "m2-l14-p3",
+            "marathi": "मला लोकांशी बोलायला आवडतं",
+            "transliteration": "Malaa lokaanshi bolaaylaa aavaDtam",
+            "english": "I like talking to people",
+            "difficulty": "beginner",
+            "usage": "Social nature"
+          },
+          {
+            "id": "m2-l14-p4",
+            "marathi": "मी प्रामाणिक आहे",
+            "transliteration": "Mee praamaaNik aahe",
+            "english": "I am honest",
+            "difficulty": "beginner",
+            "usage": "Describing honesty"
+          },
+          {
+            "id": "m2-l14-p5",
+            "marathi": "मी आशावादी आहे",
+            "transliteration": "Mee aashaavaadi aahe",
+            "english": "I am optimistic",
+            "difficulty": "beginner",
+            "usage": "Positive outlook"
+          },
+          {
+            "id": "m2-l14-p6",
+            "marathi": "मला मदत करायला आवडतं",
+            "transliteration": "Malaa madat karaaylaa aavaDtam",
+            "english": "I like to help others",
+            "difficulty": "beginner",
+            "usage": "Helpful nature"
+          },
+          {
+            "id": "m2-l14-p7",
+            "marathi": "मी वक्तशीर आहे",
+            "transliteration": "Mee vaktasheer aahe",
+            "english": "I am punctual",
+            "difficulty": "beginner",
+            "usage": "Punctuality"
+          },
+          {
+            "id": "m2-l14-p8",
+            "marathi": "मला नवीन गोष्टी शिकायला आवडतात",
+            "transliteration": "Malaa naveen goShTi shikaaylaa aavaDtaat",
+            "english": "I like learning new things",
+            "difficulty": "beginner",
+            "usage": "Curiosity"
+          },
+          {
+            "id": "m2-l14-p9",
+            "marathi": "मी सहनशील आहे",
+            "transliteration": "Mee sahanseel aahe",
+            "english": "I am patient",
+            "difficulty": "beginner",
+            "usage": "Patience"
+          }
+        ]
+      },
+      {
+        "id": "m2-l15",
+        "title": "Future Plans",
+        "titleMarathi": "भविष्यातील योजना",
+        "lessonNumber": 15,
+        "culturalNote": "In Marathi culture, future plans are often discussed with family. Major decisions are made collectively. 'Dev paavlaa tar' (if God is willing) is commonly added when discussing future plans.",
+        "grammarFocus": "Future desires use '-aayacham aahe' construction: 'Malaa shikaayacham aahe' (I want to study). This attaches to the verb stem and expresses intent or desire.",
+        "phrases": [
+          {
+            "id": "m2-l15-p1",
+            "marathi": "मला ... करायचं आहे",
+            "transliteration": "Malaa ... karaayacham aahe",
+            "english": "I want to do ...",
+            "difficulty": "beginner",
+            "usage": "Expressing a desire or plan"
+          },
+          {
+            "id": "m2-l15-p2",
+            "marathi": "माझं स्वप्न आहे की ...",
+            "transliteration": "Maajham svapna aahe ki ...",
+            "english": "My dream is that ...",
+            "difficulty": "beginner",
+            "usage": "Sharing a dream/ambition"
+          },
+          {
+            "id": "m2-l15-p3",
+            "marathi": "पुढच्या वर्षी मी ...",
+            "transliteration": "PuDhchyaa varshi mee ...",
+            "english": "Next year I will ...",
+            "difficulty": "beginner",
+            "usage": "Short-term future plan"
+          },
+          {
+            "id": "m2-l15-p4",
+            "marathi": "मला परदेशात जायचं आहे",
+            "transliteration": "Malaa pardeshat jaayacham aahe",
+            "english": "I want to go abroad",
+            "difficulty": "beginner",
+            "usage": "Travel aspiration"
+          },
+          {
+            "id": "m2-l15-p5",
+            "marathi": "मला स्वतःचा व्यवसाय सुरू करायचा आहे",
+            "transliteration": "Malaa svataahchaa vyavasaay suroo karaychaa aahe",
+            "english": "I want to start my own business",
+            "difficulty": "beginner",
+            "usage": "Entrepreneurial plan"
+          },
+          {
+            "id": "m2-l15-p6",
+            "marathi": "मला लग्न करायचं आहे",
+            "transliteration": "Malaa lagna karaayacham aahe",
+            "english": "I want to get married",
+            "difficulty": "beginner",
+            "usage": "Marriage plan"
+          },
+          {
+            "id": "m2-l15-p7",
+            "marathi": "देवाची इच्छा",
+            "transliteration": "Devaachi ichchhaa",
+            "english": "God willing",
+            "difficulty": "beginner",
+            "usage": "Expressing faith about the future"
+          },
+          {
+            "id": "m2-l15-p8",
+            "marathi": "मी प्रयत्न करतोय",
+            "transliteration": "Mee prayatna kartoy",
+            "english": "I am trying",
+            "difficulty": "beginner",
+            "usage": "Expressing ongoing effort"
+          },
+          {
+            "id": "m2-l15-p9",
+            "marathi": "भविष्यात मला डॉक्टर व्हायचं आहे",
+            "transliteration": "Bhavishyaat malaa Doctor vhaayacham aahe",
+            "english": "In the future I want to become a doctor",
+            "difficulty": "beginner",
+            "usage": "Specific career aspiration"
+          }
+        ]
+      }
+    ]
+  }
+]

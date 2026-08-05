@@ -1,0 +1,252 @@
+{
+  "locations": [
+    {
+      "id": "pune-shaniwar-wada-fort",
+      "title": "Shaniwar Wada Fort",
+      "description": "Explore the magnificent  —century, which was the seat of the Peshwa rulers of the Maratha Empire. Though partially destroyed by fire in 1828, the remaining structures stand as a testament to Maratha architectural prowess and political history.",
+      "districtId": "pune-shaniwar-wada",
+      "cityId": "pune",
+      "difficulty": "beginner",
+      "xpReward": 50,
+      "coinReward": 25,
+      "image": "assets/images/locations/pune_shaniwar_wada_fort.jpg",
+      "npcList": [
+        "pune-guide-appasaheb",
+        "pune-historian-vishwas"
+      ],
+      "quests": [
+        "pune-quest-shaniwar-wada-history",
+        "pune-quest-peshwa-lifestyle"
+      ],
+      "discoveries": [
+        "Delhi Gate",
+        "Ganesh Rang Mahal",
+        "Nachacha Mahal (Dance Hall)",
+        "kolhapur Fort"
+      ],
+      "requiredWords": [
+        {"marathi": "किला", "transliteration": "kilā", "english": "fort"},
+        {"marathi": "इतिहास", "transliteration": "itihās", "english": "history"},
+        {"marathi": "राज traditionnel", "transliteration": "rājy", "english": "kingdom"},
+        {"marathi": "स्मारक", "transliteration": "smārak", "english": "monument"},
+        {"marathi": "पेशवा", "transliteration": "peshvā", "english": "Peshwa"}
+      ]
+    },
+    {
+      "id": "pune-shaniwar-wada-market",
+      "title": "Shaniwar Wada Market",
+      "description": "Bustling market area surrounding the fort where local vendors sell traditional Maharashtrian handicrafts, textiles, street food, and religious items. A great place to practice bargaining and everyday Marathi conversations.",
+      "districtId": "pune-shaniwar-wada",
+      "cityId": "pune",
+      "difficulty": "beginner",
+      "xpReward": 40,
+      "coinReward": 20,
+      "image": "assets/images/locations/pune_shaniwar_wada_market.jpg",
+      "npcList": [
+        "pune-handicraft-seller-lata",
+        "pune-street-food-vendor-ramu",
+        "pune-flower-vendor-seema"
+      ],
+      "quests": [
+        "pune-quest-market-bargaining",
+        "pune-quest-street-food-order"
+      ],
+      "discoveries": [
+        "Kolhapuri chappals",
+        "Paithani saree materials",
+        "Pidan",
+        "Misal Pav ingredients",
+        "Poha-Jalebi combination"
+      ],
+      "requiredWords": [
+        {"marathi": " bazaar ", "transliteration": "bājār", "english": "market"},
+        {"marathi": " okręastī ", "transliteration": "rayaśī", "english": "inexpensive"},
+        {"marathi": " दाम ", "transliteration": "dām", "english": "price"},
+        {"marathi": " आनंद ","transliteration" : "ānand ", "english": "joy "},
+        {"marathi": " स्वादिष्ट ", "transliteration": "svādviṣṭa", "english": "delicious"}
+      ]
+    },
+    {
+      "id": "pune-shaniwar-wada-temple",
+      "title": "Shaniwar Wada Temple",
+      "description": "Small but historically significant temple within the fort complex dedicated to the family deity of the Peshwas. A serene spot for learning religious vocabulary and understanding Marathi spiritual traditions.",
+      "districtId": "pune-shaniwar-wada",
+      "cityId": "pune",
+      "difficulty": "intermediate",
+      "xpReward": 60,
+      "coinReward": 30,
+      "image": "assets/images/locations/pune_shaniwar_wada_temple.jpg",
+      "npcList": [
+        "pune-temple-priest-shastri",
+        "pune-devotee-vasanti"
+      ],
+      "quests": [
+        "pune-quest-temple-rituals",
+        "pune-quest-religious-vocabulary"
+      ],
+      "discoveries": [
+        "Daily aarti timings",
+        "Special festival celebrations",
+        "Temple donation practices",
+        "Marathi devotional songs"
+      ],
+      "requiredWords": [
+        {"marathi": " मंदीर", "transliteration": "mandir", "english": "temple"},
+        {"marathi": " पूजा ", "transliteration": "pūjā", "english": "worship"},
+        {"marathi": " आरती ", "transliteration": "ārtī", "english": "aarti (ritual of light)"},
+        {"marathi": " प्रसाद ", "transliteration": "prasād", "english": "blessed food offering"},
+        {"marathi": " ध्वजा ", "transliteration": "dhvajā", "english": "flag"}
+      ]
+    },
+    {
+      "id": "pune-jmg-bookstore",
+      "title": "Marathi Bookstore on J.M. Road",
+      "description": "A beloved independent bookstore specializing in Marathi literature, from classic works by Pu La Deshpande to contemporary Marathi novels. Perfect for expanding vocabulary and understanding Marathi literary culture.",
+      "districtId": "pune-jmg-roads",
+      "cityId": "pune",
+      "difficulty": "intermediate",
+      "xpReward": 45,
+      "coinReward": 25,
+      "image": "assets/images/locations/pune_jmg_bookstore.jpg",
+      "npcList": [
+        "pune-bookshop-owner-meena",
+        "pune-literature-student-raj",
+        "pune-author-signing-vividha"
+      ],
+      "quests": [
+        "pune-quest-marathi-literature",
+        "pune-quest-book-recommendation"
+      ],
+      "discoveries": [
+        "Works of Pu La Deshpande",
+        "Modern Marathi poetry",
+        "Children's Marathi books",
+        "Marathi-English dictionaries"
+      ],
+      "requiredWords": [
+        {"marathi": " पUSTAK ", "transliteration": "pustak", "english": "book"},
+        {"marathi": " वाचन ", "transliteration": "vācana", "english": "reading"},
+        {"marathi": " लेखक ", "transliteration": "lekhak", "english": "author"},
+        {"marathi": " कविता ", "transliteration": "kavitā", "english": "poem"},
+        {"marathi": " कथा ", "transliteration": "kathā", "english": "story"}
+      ]
+    },
+    {
+      "id": "pune-jmg-cafe-culture",
+      "title": "Irani Cafe on J.M. Road",
+      "description": "Classic Iranian-style cafe serving bun maska, chai, and keeping the old Pune Irani cafe tradition alive. A great spot to practice casual Marathi conversations while enjoying iconic snacks.",
+      "districtId": "pune-jmg-roads",
+      "cityId": "pune",
+      "difficulty": "beginner",
+      "xpReward": 35,
+      "coinReward": 15,
+      "image": "assets/images/locations/pune_jmg_cafe.jpg",
+      "npcList": [
+        "pune-cafe-owner-boman",
+        "pune-regular-customer-shrikant",
+        "pune-student-group"
+      ],
+      "quests": [
+        "pune-quest-cafe-order",
+        "pune-quest-chai-conversation"
+      ],
+      "discoveries": [
+        "Bun maska and chai combination",
+        "Historic Irani cafe culture in Pune",
+        "Marathi slang used in cafes",
+        "Newspaper reading habits"
+      ],
+      "requiredWords": [
+        "requiredWords": [
+          {
+            "marathi": " चहा ",
+            "transliteration": "chāhā",
+            "english": "tea"
+          },
+          {
+            "marathi": " नाश्ता ",
+            "transliteration": "nāstā",
+            "english": "breakfast"
+          },
+          {
+            "marathi": "swā
+"english
+{"marathi": " स्वाद ", "transliteration": "svāda", "meaning": "taste"},
+{"marathi": " गपशप ", "transliteration": "gapaśapa", "meaning": "chat"},
+{"marathi": " समाचार ", "transliteration": "samācāra", "meaning": "news"}
+        ]
+      }
+    },
+    {
+      "id": "pune-jmg-student-hangout",
+      "title": "Student Hangout Spot near College",
+      "description": "Popular gathering spot for college students to discuss studies, plan projects, and socialize. Great for learning contemporary Marathi youth slang and informal conversations.",
+      "districtId": "pune-jmg-roads",
+      "cityId": "pune",
+      "difficulty": "intermediate",
+      "xpReward": 40,
+      "coinReward": 20,
+      "image": "assets/images/locations/pune_jmg_student_hangout.jpg",
+      "npcList": [
+        "pune-student-leader-neh",
+        "pune-student-artist-priya",
+        "pune-tech-enthusiast-rohan"
+      ],
+      "quests": [
+        "pune-quest-group-project-discussion",
+        "pune-quest-event-planning-marathi"
+      ],
+      "discoveries": [
+        "Marathi student slang",
+        "Study group dynamics in Marathi",
+        "Event planning vocabulary",
+        "Contemporary Marathi expressions"
+      ],
+      "requiredWords": [
+        {"marathi": " मित्र ", "transliteration": "mitra", "english": "friend"},
+        {"marathi": " प्रकल्प ", "transliteration": "prakalpa", "english": "project"},
+        {"marathi": " चर्चा ", "transliteration": "carcā", "english": "discussion"},
+        {"marathi": " आयोजन ", "transliteration": "āyojana", "english": "organization"},
+        {"marathi": " विजय ", "transliteration": "vijaya", "english": "victory"}
+      ]
+    },
+    {
+      "id": "pune-fc-road-tea-stall",
+      "title": "Tea Stall on Fergusson College Road",
+      "description": "Iconic roadside tea stall serving cutting chai (strong tea) and classic Maharashtrian snacks like vada pav and bhaji. Perfect for practicing everyday Marathi with local flavors.",
+      "districtId": "pune-fc-road",
+      "cityId": "pune",
+      "difficulty": "beginner",
+      "xpReward": 30,
+      "coinReward": 10,
+      "image": "assets/images/locations/pune_fc_road_tea_stall.jpg",
+      "npcList": [
+        "pune-tea-stall-owner-kisan",
+        "pune-college-student-rushikesh",
+        "pune-morning-worker-laxman"
+      ],
+      "quests": [
+        "pune-quest-cutting-chai-order",
+        "pune-quest-vada-pav-bargain"
+      ],
+      "discoveries": [
+        "Cutting chai preparation method",
+        "Regional variations of vada pav",
+        "Morning rush hour patterns",
+        "Marathi terms for different tea strengths"
+      ],
+      "requiredWords": [
+        {"marathi": " काटिंग चहा ", "transliteration": "kāṭiṅg chāhā", "english": "cutting chai"},
+        {"marathi": " वडा पाव ", "transliteration": "vaḍā pāv", "english": "vada pav"},
+        {"marathi": " भजी ", "transliteration": "bhajī", "english": "bhaji (fried snack)"},
+        {"marathi": " ठेला ", "transliteration": "ṭhelā", "english", "s": "temporary food stall"}
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "lastUpdated": "2024-01-15",
+    "totalLocations": 5,
+    "description": "Sample locations data showing structure for BOLA Marathi Journey Mode"
+  }
+}

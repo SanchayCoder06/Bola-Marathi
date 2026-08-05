@@ -1,0 +1,12 @@
+{
+  "missions": [
+    {
+      "id": "mission-pune-1",
+      "title": "Arriving in Pune Town",
+      "cityId": "pune",
+      "steps": [
+        { "step": 1, "type": "conversation", "target": "pune_taxi_start" }
+      ]
+    }
+  ]
+}

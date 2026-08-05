@@ -1,0 +1,112 @@
+{
+  "prompts": {
+    "npcs": {
+      "tea_stall_owner": {
+        "prompt": "A friendly Marathi tea stall owner, smiling, wearing white kurta and Gandhi cap, semi-realistic JRPG illustration, warm lighting, clean background, expressive face, waist-up portrait, game character art.",
+        "style_reference": "Persona 5 character portraits, Fire Emblem: Three Houses style",
+        "usage": "For NPC dialogue screens and character cards",
+        "dimensions": "512x512 pixels",
+        "format": "PNG with transparent background"
+      },
+      "rickshaw_driver": {
+        "prompt": "A cheerful Marathi auto rickshaw driver, mid-30s, wearing traditional kurta and pajama with a newsboy cap, holding rickshaw handles, semi-realistic JRPG illustration, bustling Pune street background, expressive eyes, waist-up portrait, game character art.",
+        "style_reference": "Octopath Traveler character portraits",
+        "usage": "For transportation NPCs and quest givers",
+        "dimensions": "512x512 pixels",
+        "format": "PNG with transparent background"
+      },
+      "college_student": {
+        "prompt": "A studious Marathi college student, early 20s, wearing modern casual clothes with a college bag, holding books, semi-realistic JRPG illustration, college background with bookshelves, intelligent expression, waist-up portrait, game character art.",
+        "style_reference": "Fire Emblem: Engage student characters",
+        "usage": "For educational quests and literature-related interactions",
+        "dimensions": "512x512 pixels",
+        "format": "PNG with transparent background"
+      }
+    },
+    "cities": {
+      "pune": {
+        "prompt": "Beautiful panoramic view of Pune city showing a mix of historic architecture and modern buildings, with the Sahyadri mountains in the background, golden hour lighting, semi-realistic game art style, vibrant colors, wide landscape format.",
+        "style_reference": "Genshin Impact landscapes, Horizon Zero Dawn vistas",
+        "usage": "City selection screen and background",
+        "dimensions": "1920x1080 pixels",
+        "format": "JPG or PNG"
+      },
+      "mumbai": {
+        "prompt": "Iconic Mumbai skyline featuring the Gateway of India, Taj Mahal Hotel, and modern skyscrapers against the Arabian Sea, sunset lighting, semi-realistic game art style, dramatic lighting, wide landscape format.",
+        "style_reference": "Assassin's Creed waterfront cities",
+        "usage": "City selection screen and background",
+        "dimensions": "1920x1080 pixels",
+        "format": "JPG or PNG"
+      }
+    },
+    "districts": {
+      "shaniwar_wada": {
+        "prompt": "Historic Shaniwar Wada fort complex at golden hour, showing the remaining stone structures and gardens, warm lighting, semi-realistic game art style, detailed architecture, wide landscape format.",
+        "style_reference": "Ghost of Tsushima historical locations",
+        "usage": "District banner and map marker",
+        "dimensions": "1200x400 pixels",
+        "format": "JPG or PNG"
+      },
+      "fc_road": {
+        "prompt": "Bustling Fergusson College Road in Pune showing college students, street vendors, and classic Irani cafes, daytime lighting, semi-realistic game art style, vibrant street life, wide landscape format.",
+        "style_reference": "Persona 5 Tokyo street scenes",
+        "usage": "District banner and map marker",
+        "dimensions": "1200x400 pixels",
+        "format": "JPG or PNG"
+      }
+    },
+    "quests": {
+      "cutting_chai": {
+        "prompt": "Close-up of a steel glass filled with strong cutting chai showing the frothy top, condensation on the glass, hands holding the glass, semi-realistic food illustration, warm lighting, appetizing presentation.",
+        "style_reference": "Food Wars! Shokugeki no Soma food art",
+        "usage": "Quest illustration and reward icons",
+        "dimensions": "800x600 pixels",
+        "format": "JPG or PNG"
+      },
+      "vada_pav": {
+        "prompt": "Delicious vada pav showing the potato fritter inside a soft bun with red and green chutneys visible, semi-realistic food illustration, steam rising, appetizing street food presentation.",
+        "style_reference": "Food Wars! Shokugeki no Soma street food",
+        "usage": "Quest illustration and reward icons",
+        "dimensions": "800x600 pixels",
+        "format": "JPG or PNG"
+      }
+    },
+    "food_items": {
+      "misal_pav": {
+        "prompt": "Steaming bowl of misal pav showing the spicy curry with sprouted moth beans, topped with farsan (sev, onions, coriander), lemon wedge on side, semi-realistic food illustration, vibrant colors, appetizing presentation.",
+        "style_reference": "Food Wars! Shokugeki no Soma Indian cuisine",
+        "usage": "Food item icons and cultural information",
+        "dimensions": "600x600 pixels",
+        "format": "JPG or PNG"
+      },
+      "puran_poli": {
+        "prompt": "Golden brown puran poli stuffed with sweet chana dal filling, showing layers, drizzled with ghee, semi-realistic food illustration, warm lighting, traditional sweet presentation.",
+        "style_reference": "Food illustration for Indian sweets",
+        "usage": "Food item icons and festival foods",
+        "dimensions": "600x600 pixels",
+        "format": "JPG or PNG"
+      }
+    },
+    "achievement_badges": {
+      "language_novice": {
+        "prompt": "Circular badge showing an open book with Marathi script characters (मराठी) glowing, surrounded by a laurel wreath, semi-realistic game badge art, golden and saffron colors, elegant design.",
+        "style_reference": "Genshin Impact achievement badges",
+        "usage": "Language learning milestone rewards",
+        "dimensions": "256x256 pixels",
+        "format": "PNG with transparent background"
+      },
+      "city_explorer": {
+        "prompt": "Shield-shaped badge showing a miniature fort (like Shaniwar Wada) with a flag, semi-realistic game badge art, bronze/silver/gold tiers, explorer theme.",
+        "style_reference": "World of Warcraft achievement style",
+        "usage": "City exploration completion rewards",
+        "dimensions": "256x256 pixels",
+        "format": "PNG with transparent background"
+      }
+    }
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "lastUpdated": "2024-01-15",
+    "description": "Master prompts file showing structure for all required asset prompts - individual prompt files would be created in assets/prompts/ directory"
+  }
+}

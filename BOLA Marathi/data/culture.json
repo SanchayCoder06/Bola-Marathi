@@ -1,0 +1,214 @@
+{
+  "culture": {
+    "facts": [
+      {
+        "id": "culture-fact-001",
+        "title": "Marathi Language Heritage",
+        "marathi": "मराठी भाषा का इतिहास",
+        "transliteration": "Marāṭhī bhāshā kā itihās",
+        "english": "Marathi is one of the oldest regional languages in India with literary heritage dating back to around 1000 CE.",
+        "description": "The Marathi language has a rich literary tradition including works by saints like Dnyaneshwar and Tukaram, and modern writers like Pu La Deshpande and Vijay Tendulkar.",
+        "related_words": ["भाषा", "इतिहास", "साहित्य"],
+        "category": "language",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": "culture-fact-002",
+        "title": "Ganesh Chaturthi Festival",
+        "marathi": "गणेश चतुर्थी उत्सव",
+        "transliteration": "Gaṇeś Chaturthī Utsav",
+        "english": "Ganesh Chaturthi is a 10-day Hindu festival celebrating the birth of Lord Ganesha, widely celebrated with special fervor in Maharashtra.",
+        "description": "During this festival, homes and public spaces install clay idols of Ganesha, offer daily prayers, and on the final day immerse the idols in water bodies with grand processions.",
+        "related_words": ["उत्सव", "भगवान", "प्र immobilization "],
+        "category": "festival",
+        "difficulty": "beginner",
+        "season": "August-September"
+      },
+      {
+        "id": "culture-fact-003",
+        "title": "Warli Painting Art",
+        "marathi": "वारली चितrakला",
+        "transliteration": "Vārālī citrakalā",
+        "english": "Warli painting is a tribal art form originating from the North Sahyadri Range in Maharashtra, known for its simple geometric shapes depicting daily life.",
+        "description": "This ancient art form uses basic shapes like circles, triangles, and squares to represent humans, animals, trees, and houses, creating beautiful narrative scenes.",
+        "related_words": ["कला", "चित्र", "जाति"],
+        "category": "art",
+        "difficulty": "beginner",
+        "region": "North Maharashtra"
+      },
+      {
+        "id": "culture-fact-004",
+        "title": "Lavani Dance Form",
+        "marathi": "lavani भरतनatyam",
+        "transliteration": "Lavānī",
+        "english": "Lavani is a traditional Maharashtrian dance form known for its powerful rhythm and energetic movements, traditionally performed to the beats of Dholki drum.",
+        "description": "Originally performed by women to entertain soldiers, Lavani combines song and dance, often presenting social themes with wit and humor.",
+        "related_words": ["nritya", "संगीत", "vadu"],
+        "category": "dance",
+        "difficulty": "intermediate",
+        "region": "Maharashtra"
+      },
+      {
+        "id": "culture-fact-005",
+        "title": "Maharashtrian Thali Meal",
+        "marathi": "महाराष्ट्रीयन thali",
+        "transliteration": "Mahārāṣṭrīya ṭhālī",
+        "english": "A traditional Maharashtrian thali (platter) typically includes bhakri (millet bread), varan (lentil stew), amti (spicy lentil), rice, pickle, papad, and sweet.",
+        "description": "The thali represents a balanced meal with carbohydrates, proteins, vegetables, and sweet - reflecting the agricultural diversity of Maharashtra's regions.",
+        "related_words": ["食物", "thali", "आहार"],
+        "category": "food",
+        "difficulty": "beginner",
+        "region": "Throughout Maharashtra"
+      }
+    ],
+    "festivals": [
+      {
+        "id": "festival-001",
+        "name": "Ganesh Chaturthi",
+        "marathi": "गणेश चतुर्थी",
+        "transliteration": "Gaṇeś Chaturthī",
+        "description": "10-day festival celebrating Lord Ganesha's birth, featuring idol installation, daily puja, and visarjan (immersion) processions.",
+        "month": "Bhadrapada (August-September)",
+        "key_activities": ["стapana", "puja", "aarti", "visarjan"],
+        "special_foods": ["modak", "karachi", "ladoo"],
+        "regional_variations": ["Pune's Tulshibaug mandal", "Mumbai's Lalbaugcha Raja"]
+      },
+      {
+        "id": "festival-002",
+        "name": "Diwali",
+        "marathi": "दिवाली",
+        "transliteration": "Dīwālī",
+        "description": "Festival of lights celebrating the victory of good over evil, involving lamp lighting, fireworks, sweets exchange, and Lakshmi puja.",
+        "month": "Ashwin-October/November",
+        "key_activities": ["diya lighting", "rangoli", "lakshmi puja", "bhai dooj"],
+        "special_foods": ["chakli", "sehvaya", "anarasa"],
+        "regional_variations": ["Narak Chaturdashi", "Lakshmi Puja", "Bali Pratipada"]
+      },
+      {
+        "id": "festival-003",
+        "name": "Gudi Padwa",
+        "marathi": "गुढी पाडवा",
+        "transliteration": "Guḍhī pāḍvā",
+        "description": "Marathi New Year festival marking the beginning of the Chaitra month, celebrated by hoisting Gudi (flag) outside homes.",
+        "month": "Chaitra (March-April)",
+        "key_activities": ["gudi hoisting", "street processions", "special meal"],
+        "special_foods": ["puran poli", "shrikhand", "sunthawa"],
+        "region": "Primarily Maharashtra and Konkan"
+      }
+    ],
+    "food_items": [
+      {
+        "id": "food-001",
+        "name": "Puran Poli",
+        "marathi": "पूरन poli",
+        "transliteration": "Pūraṇ poli",
+        "description": "Sweet flatbread stuffed with jaggery and chana dal (split chickpeas) paste, often eaten during festivals and special occasions.",
+        "ingredients": ["wheat flour", "chana dal", "jaggery", "cardamom", "nutmeg"],
+        "occasion": "Holi, Ganesh Chaturthi, Gudi Padwa",
+        "serving_style": "Served warm with ghee",
+        "region": "Throughout Maharashtra"
+      },
+      {
+        "id": "food-002",
+        "name": "Vada Pav",
+        "marathi": "वडा पाव",
+        "transliteration": "Vaḍā pāv",
+        "description": "Iconic Mumbai street food consisting of a deep-fried potato dumpling (vada) placed inside a bread bun (pav) with chutneys.",
+        "ingredients": ["potatoes", "besan flour", "pav bun", "green chutney", "red chutney"],
+        "origin": "Mumbai, Maharashtra",
+        "popularity": "Considered the 'burger of Maharashtra'",
+        "serving_style": "Served hot with fried green chilies"
+      },
+      {
+        "id": "food-003",
+        "name": "Misal Pav",
+        "marathi": "misal pav",
+        "transliteration": "Misāḷ pāv",
+        "description": "Spicy curry made from sprouted moth beans (matki) topped with farsan (sev, onions, coriander) and served with pav (bread).",
+        "ingredients": ["moth beans", "onions", "tomatoes", "garlic", "ginger", "special goda masala", "farsan", "pav"],
+        "variations": ["Kolhapuri misal (very spicy)", "Pune missal (moderate)", "Nagpuri misal (with egg)"],
+        "serving_style": "Always served with lemon wedge and extra sev on top"
+      }
+    ],
+    "landmarks": [
+      {
+        "id": "landmark-001",
+        "name": "Shaniwar Wada",
+        "marathi": "श�n्यवाडा",
+        "transliteration": "Śanyvāḍā",
+        "description": "18th-century fortification in Pune that served as the seat of the Peshwa rulers of the Maratha Empire until 1818.",
+        "location": "Pune, Maharashtra",
+        "historical_period": "1732-1818",
+        "significance": "Political center of Maratha Empire, witnessed important historical events including the assassination of Peshwa Narayanrao.",
+        "visiting_hours": "8:00 AM - 6:30 PM",
+        "entry_fee": "Indians: ₹25, Foreigners: ₹300"
+      },
+      {
+        "id": "landmark-002",
+        "name": "Gateway of India",
+        "marathi": "गेटवे ऑफ इन्डिया",
+        "transliteration": "Geṭave of Ḍiyā",
+        "description": "Iconic monument built during the British Raj in Mumbai, overlooking the Arabian Sea, built to commemorate the landing of King George V and Queen Mary.",
+        "location": "Mumbai, Maharashtra",
+        "historical_period": "1911-1924",
+        "significance": "Symbol of colonial power, later became symbolic of Indian independence as last British troops departed from here in 1948.",
+        "visiting_hours": "24 hours",
+        "entry_fee": "Free"
+      },
+      {
+        "id": "landmark-003",
+        "name": "Ajanta Caves",
+        "marathi": "अजिंठा leny",
+        "transliteration": "Ajiṇṭhā leny",
+        "description": "UNESCO World Heritage site featuring 30 rock-cut Buddhist cave monuments dating from 2nd century BCE to about 480 CE.",
+        "location": "Aurangabad district, Maharashtra",
+        "historical_period": "2nd century BCE - 480 CE",
+        "significance": "Masterpieces of Buddhist religious art, featuring paintings and sculptures depicting Jataka tales and Buddha's life.",
+        "visiting_hours": "9:00 AM - 5:00 PM (closed on Mondays)",
+        "entry_fee": "Indians: ₹40, Foreigners: ₹600"
+      }
+    ],
+    "etiquette_tips": [
+      {
+        "id": "etiquette-001",
+        "title": "Greeting Elders",
+        "marathi": "वडील्यาน apertura अनुकूल manner",
+        "transliteration": "Vadīlyānām abhinandan",
+        "description": "When greeting elders in Marathi culture, it's respectful to slightly bow your head or do a namaste gesture with hands together.",
+        "context": "Meeting grandparents, teachers, or anyone significantly older",
+        "do": ["Say 'Namaskar' or 'Pranam'", "Slight head bow", "Use honorific suffix 'ji'"],
+        "dont": ["Use casual 'hey'", "Point feet at them", "Call by first name without permission"]
+      },
+      {
+        "id": "etiquette-002",
+        "title": "Footwear Removal",
+        "marathi": "पायध ovalle",
+        "transliteration": "Pāydhūti utār",
+        "description": "It's customary to remove footwear before entering someone's home, temples, and many traditional establishments as a sign of respect and cleanliness.",
+        "context": "Homes, temples, some restaurants, traditional shops",
+        "do": ["Wear clean socks", "Arrange shoes neatly", "Ask if unsure"],
+        "dont": ["Wear shoes inside", "Leave shoes blocking entrance", "Wear dirty or smelly socks"]
+      },
+      {
+        "id": "etiquette-003",
+        "title": "Dining Etiquette",
+        "marathi": "जेवणacha अचार",
+        "transliteration": "Jevaṇāchā āchār",
+        "description": "When dining with Maharashtrian families, wait for the eldest to start eating, use your right hand for eating, and compliment the food.",
+        "context": "Home meals, traditional restaurants, festivals",
+        "do": ["Wash hands before eating", "Use right hand for eating", "Say 'Swadisht' if tasty"],
+        "dont": ["Start eating before elders", "Use left hand for eating", "Waste food deliberately"]
+      }
+    ]
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "lastUpdated": "2024-01-15",
+    "total_facts": 5,
+    "total_festivals": 3,
+    "total_food_items": 3,
+    "total_landmarks": 3,
+    "total_etiquette_tips": 3,
+    "description": "Sample culture data showing structure - to be expanded to 200+ facts, 100+ festivals, 100+ food items, 100+ landmarks, 100+ etiquette tips"
+  }
+}
