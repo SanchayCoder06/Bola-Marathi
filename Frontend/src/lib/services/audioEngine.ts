@@ -278,31 +278,41 @@ export const AudioEngine = (() => {
         audioMimeType: audioBlob ? audioBlob.type || 'audio/webm' : 'audio/webm'
       });
 
-      if (parsed.score === 85 && parsed.feedback === "Good effort! Practice reading aloud." && transcription) {
-        const localScore = scorePronunciation(expectedMarathi, transcription);
-        let accuracy: "excellent" | "good" | "fair" | "poor" = "good";
-        let feedback = `You pronounced: "${transcription}"`;
-        let encouragement = "Keep practicing to improve matching!";
-        if (localScore >= 90) {
-          accuracy = "excellent";
-          encouragement = "Perfect! Your pronunciation is spot on. 🌟";
-        } else if (localScore >= 70) {
-          accuracy = "good";
-          encouragement = "Great job! Very close to the native pronunciation. 👍";
-        } else if (localScore >= 45) {
-          accuracy = "fair";
-          encouragement = "Good attempt, try speaking more clearly. 😊";
+      if (parsed.score === 85 && parsed.feedback === "Good effort! Practice reading aloud.") {
+        if (transcription) {
+          const localScore = scorePronunciation(expectedMarathi, transcription);
+          let accuracy: "excellent" | "good" | "fair" | "poor" = "good";
+          let feedback = `You pronounced: "${transcription}"`;
+          let encouragement = "Keep practicing to improve matching!";
+          if (localScore >= 90) {
+            accuracy = "excellent";
+            encouragement = "Perfect! Your pronunciation is spot on. 🌟";
+          } else if (localScore >= 70) {
+            accuracy = "good";
+            encouragement = "Great job! Very close to the native pronunciation. 👍";
+          } else if (localScore >= 45) {
+            accuracy = "fair";
+            encouragement = "Good attempt, try speaking more clearly. 😊";
+          } else {
+            accuracy = "poor";
+            encouragement = "Keep learning and try again! 💪";
+          }
+          return {
+            score: localScore,
+            accuracy,
+            feedback,
+            word_scores: [],
+            encouragement
+          };
         } else {
-          accuracy = "poor";
-          encouragement = "Keep learning and try again! 💪";
+          return {
+            score: 0,
+            accuracy: "poor",
+            feedback: "API Server Unreachable or Mic Permission blocked on mobile.",
+            word_scores: [],
+            encouragement: "Please check your network connection and mic settings! 🎙️"
+          };
         }
-        return {
-          score: localScore,
-          accuracy,
-          feedback,
-          word_scores: [],
-          encouragement
-        };
       }
 
       return {
